@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Roboto-M';
+    src: url('/fonts/Roboto/static/Roboto-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+    font-family: 'Roboto-R';
+    src: url('/fonts/Roboto/static/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+    font-family: 'Heebo';
+    src: url('/fonts/Heebo/static/Heebo-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    
+    font-family: 'Roboto Slab';
+    src: url('/fonts/Roboto_Slab/static/RobotoSlab-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

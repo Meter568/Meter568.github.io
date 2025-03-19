@@ -1,0 +1,127 @@
+header{
+    position: absolute;
+    height: 113px;
+    width: 1127px;
+    left: 427px;
+    top: 7px;
+    display: flex;
+    justify-content: space-between;
+}
+
+header .logo{
+    position: relative;
+    left: 0px;
+    width: 226px;
+    height: 113px;
+}
+
+.search-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    top: 0px;
+}
+
+.search {
+    position: relative;
+    left: 126px;
+    top: 0px;
+    height: 29px;
+    width: 324px;
+    border: none;
+    border-bottom: 1px solid #324950;
+    background: transparent;
+    font-size: 16px;
+    outline: none;
+    color: #324950;
+}
+
+.search::placeholder {
+    color: #324950; 
+    opacity: 1; 
+}
+
+.search-icon {
+    position: absolute;
+    left: 454px;
+    top: 8.9px;
+    padding: 0px 0px 3px 0px;
+    cursor: pointer;
+    border: none;
+    background: none;
+    box-shadow: none;
+    border-bottom: 1px solid #324950;
+}
+
+.search-icon svg{
+    fill: #324950;
+}
+
+
+header nav {
+    align-self: end; 
+    margin-top: 53px; 
+}
+
+header nav ul {
+    list-style: none;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+}
+
+header nav ul li a {
+    color: #324950;
+    text-decoration: none;
+    font-family: 'Heebo';
+}
+
+
+header nav ul li a:hover {
+    background-color: #d4e7b5; 
+    color: #2c3a2f; 
+}
+
+.Banner{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1920px;
+    height: 850px;
+    z-index: -1;
+}
+
+.Group_29{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    left: 558px;
+    top: 362px;
+    width: 804px;
+    height: 183px;
+    align-items: flex-start;
+}
+
+.Group_29 h1 {
+    font-size: 48px;
+    color: #735440;
+    font-family: 'Roboto Slab';
+    margin: 0 0 0px 0;
+}
+
+.Group_29 button {
+    margin-top: auto; 
+    align-self: center;
+    width: 160px;
+    height: 55px;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-size: 16px;
+    background-color: #57984C;
+    border: none;
+    cursor: pointer;
+}
