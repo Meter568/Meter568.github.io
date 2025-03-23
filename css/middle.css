@@ -1,3 +1,4 @@
+/* Star home */
 .Products {
     position: absolute;
     display: flex;
@@ -36,6 +37,11 @@
     font-family: 'Roboto Slab';
 }
 
+.Products .Wheat p a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .Products .Confection-watermelon{
     display: flex;
     flex-direction: column; 
@@ -56,6 +62,11 @@
     color: #324950;  
     font-size: 20px;
     font-family: 'Roboto Slab';
+}
+
+.Products .Confection-watermelon p a {
+    text-decoration: none;
+    color: inherit;
 }
 
 .Products .Clover{
@@ -80,6 +91,11 @@
     font-family: 'Roboto Slab'; 
 }
 
+.Products .Clover p a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .Products .Confection_Sunflower{
     display: flex;
     flex-direction: column; 
@@ -100,6 +116,11 @@
     color: #324950; 
     font-size: 20px;
     font-family: 'Roboto Slab'; 
+}
+
+.Products .Confection_Sunflower p a {
+    text-decoration: none;
+    color: inherit;
 }
 
 .Products .Tomato{
@@ -124,6 +145,11 @@
     font-family: 'Roboto Slab'; 
 }
 
+.Products .Tomato p a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .Products .Eggplant{
     display: flex;
     flex-direction: column; 
@@ -146,6 +172,11 @@
     font-family: 'Roboto Slab'; 
 }
 
+.Products .Eggplant p a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .Products .Ornamental_Sunflower{
     display: flex;
     flex-direction: column; 
@@ -166,6 +197,11 @@
     color: #324950; 
     font-size: 20px;
     font-family: 'Roboto Slab'; 
+}
+
+.Products .Ornamental_Sunflower p a {
+    text-decoration: none;
+    color: inherit;
 }
 
 .Vision_Mission{
@@ -472,4 +508,2690 @@
     width: 292px;
     height: 52px;
     margin: 19px 0 0 0;
+}
+
+@media(max-width: 1600px) {
+    .Products {
+        position: absolute;
+        display: flex;
+        flex-direction: row; 
+        justify-content: flex-start; 
+        align-items: center; 
+        text-align: center;
+        width: 1600px;
+        height: 190px;
+        top: 637px;
+        background-color: #ffffff;
+        gap: 100px; 
+    }
+    
+    .Products .Wheat{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 63px;
+        height: 102px;
+        margin-left: 7px;
+    }
+    
+    .Products .Wheat svg{
+        fill: #324950;
+        width: 40px;
+        height: 50px;
+    }
+    
+    .Products .Wheat p{
+        margin: 20px 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab';
+    }
+    
+    .Products .Wheat p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Confection-watermelon{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 225px;
+        height: 99.1px;
+    }
+    
+    .Products .Confection-watermelon svg{
+        fill: #324950;
+        width: 40px;
+        height: 50px;
+    }
+    
+    .Products .Confection-watermelon p{
+        margin: 22px 0 0 0;
+        color: #324950;  
+        font-size: 20px;
+        font-family: 'Roboto Slab';
+    }
+    
+    .Products .Confection-watermelon p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Clover{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 61px;
+        height: 103px;
+    }
+    
+    .Products .Clover svg{
+        fill: #324950;
+        width: 48px;
+        height: 52px;
+    }
+    
+    .Products .Clover p{
+        margin: 20px 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Clover p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Confection_Sunflower{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 206px;
+        height: 105px;
+    }
+    
+    .Products .Confection_Sunflower svg{
+        fill: #324950;
+        width: 42px;
+        height: 54px;
+    }
+    
+    .Products .Confection_Sunflower p{
+        margin: 22px 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Confection_Sunflower p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Tomato{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 72px;
+        height: 103px;
+    }
+    
+    .Products .Tomato svg{
+        fill: #324950;
+        width: 50px;
+        height: 60px;
+    }
+    
+    .Products .Tomato p{
+        margin: 20px 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Tomato p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Eggplant{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 125px;
+        height: 103px;
+    }
+    
+    .Products .Eggplant svg path{
+        fill: #324950;
+        width: 58px;
+        height: 52px;
+    }
+    
+    .Products .Eggplant p{
+        margin: 22px 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Eggplant p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Ornamental_Sunflower{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 226px;
+        height: 105px;
+    }
+    
+    .Products .Ornamental_Sunflower svg{
+        fill: #324950;
+        width: 60px;
+        height: 60px;
+    }
+    
+    .Products .Ornamental_Sunflower p{
+        margin: 22px 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Ornamental_Sunflower p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Vision_Mission{
+        background-color: #F7F7F7;
+        position: absolute;
+        display: flex;
+        left: 0px;
+        top: 827px;
+        width: 1600px;
+        height: 1269px;
+        background-image: url("../images/Union.png");
+        background-repeat: no-repeat;
+        background-position: center 71.157px;
+    }
+    
+    .Vision_Mission .Unoin img {
+        position: absolute;
+        top: 41.157px;
+        bottom: 100px;
+    }
+    
+    .Vision_Mission .Group_6 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        width: 495px;
+        height: 285px;
+        left: 257px;
+        top: 178px;
+    }
+    
+    .Vision_Mission .Group_6 h1 {
+        color: #324950;
+        font-size: 64px;
+        margin: 0 0 20px 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .Vision_Mission .Group_6 p {
+        color: #324950;
+        font-size: 20px;
+        margin: 31px 0 0 0;
+        font-family: 'Roboto Slab';
+    }
+    
+    .Vision_Mission .Group_6 .Crosses{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        gap: 3px; 
+        align-items: center;
+        margin: none;
+        padding: none; 
+    }
+    
+    .Vision_Mission .Group_6 .Crosses svg {
+        fill: #57984C;
+        width: 10px;
+        height: 18px;
+    }
+    
+    .Vision_Mission .Group_6 .Crosses svg path {
+        stroke: #57984C;
+        stroke-width: 5px; 
+        stroke-linecap: round;
+    }
+    
+    .Vision_Mission .image_3 {
+        position: absolute;
+        width: 540px;
+        height: 498px;
+        top: 71px;
+        left: 804px;
+    }
+    
+    .Vision_Mission .image_2 {
+        position: absolute;
+        width: 540px;
+        height: 500px;
+        left: 257px;
+        top: 669px;
+    }
+    
+    .Vision_Mission .play-button{
+        position: relative;
+        height: 90px;
+        width: 90px;
+        left: 480px;
+        top: 874px;
+    }
+    
+    .Vision_Mission .Group_7 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        width: 495px;
+        height: 252px;
+        left: 866px;
+        top: 796px;
+    }
+    
+    .Vision_Mission .Group_7 h1 {
+        color: #324950;
+        font-size: 64px;
+        margin: 0 0 40px 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .Vision_Mission .Group_7 p {
+        color: #324950;
+        font-size: 20px;
+        margin: 31px 0 0 0;
+        font-family: 'Roboto Slab';
+    }
+    
+    .Vision_Mission .Group_7 .Crosses{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        gap: 3px; 
+        align-items: center;
+        margin: none;
+        padding: none; 
+    }
+    
+    .Vision_Mission .Group_7 .Crosses svg {
+        fill: #57984C;
+        width: 10px;
+        height: 18px;
+    }
+    
+    .Vision_Mission .Group_7 .Crosses svg path {
+        stroke: #57984C;
+        stroke-width: 5px; 
+        stroke-linecap: round;
+    }
+    
+    .main-active{
+        background-color: #EDEDED;
+        position: absolute;
+        display: flex;
+        left: 0px;
+        top: 2096px;
+        width: 1600px;
+        height: 640px;
+    }
+    
+    .main-active h1{
+        position: absolute;
+        color: #324950;
+        font-size: 64px;
+        margin: 0 0 0 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+        width: 790px;
+        height: 91px;
+        left: 426px;
+        top: 70px;
+    }
+    
+    .main-active .Crosses{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        gap: 3px; 
+        left: 791px;
+        top: 186px;
+    }
+    
+    .main-active .Crosses svg {
+        fill: #57984C;
+        width: 10px;
+        height: 18px;
+    }
+    
+    .main-active .Crosses svg path {
+        stroke: #57984C;
+        stroke-width: 5px; 
+        stroke-linecap: round;
+    }
+    
+    .main-active .container-1 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        text-align: center;
+        justify-content: center;
+        width: 354px;
+        height: 380px;
+        left: 251px;
+        top: 200px;
+    }
+    
+    .main-active .container-1 h2{
+        color: #57984C;
+        font-size: 24px;
+        margin: 0 0 0 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .main-active .container-1 hr {
+        position: relative;
+        border: none;
+        height: 2px;
+        background-color: #57984C;
+        margin: 22px 0 0 0;
+        width: 184px;
+        left: 86px;
+    }
+    
+    .main-active .container-1 p {
+        position: relative;
+        color: #324950;
+        font-family: 'Roboto Slab';
+        font-size: 18px;
+        width: 243px;
+        height: 52px;
+        margin: 20px 0 0 0;
+        left: 53px;
+    }
+    
+    .main-active .container-2 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        text-align: center;
+        width: 250px;
+        height: 380px;
+        left: 693px;
+        top: 202px;
+    }
+    
+    .main-active .container-2 h2{
+        position: relative;
+        color: #57984C;
+        font-size: 24px;
+        margin: 21px 0 0 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .main-active .container-2 hr {
+        position: relative;
+        border: 0;
+        height: 2px;
+        background-color: #57984C;
+        margin: 22px 0 0 0;
+        width: 184px;
+        left: 31px;
+    }
+    
+    .main-active .container-2 p {
+        position: relative;
+        color: #324950;
+        font-family: 'Roboto Slab';
+        font-size: 18px;
+        width: 245px;
+        height: 49px;
+        margin: 19px 0 0 0;
+    }
+    
+    .main-active .container-3 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        text-align: center;
+        width: 295px;
+        height: 380px;
+        left: 1050px;
+        top: 202px;
+    }
+    
+    .main-active .container-3 img {
+        padding: 26px 0 0 0;
+    }
+    
+    .main-active .container-3 h2{
+        position: relative;
+        color: #57984C;
+        font-size: 24px;
+        margin: 15px 0 0 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .main-active .container-3 hr {
+        position: relative;
+        border: 0;
+        height: 2px;
+        background-color: #57984C;
+        margin: 21px 0 0 0;
+        width: 183px;
+        left: 52px;
+    }
+    
+    .main-active .container-3 p {
+        position: relative;
+        color: #324950;
+        font-family: 'Roboto Slab';
+        font-size: 18px;
+        width: 292px;
+        height: 52px;
+        margin: 19px 0 0 0;
+    }
+}
+
+@media(max-width: 1480px) {
+    .Products {
+        position: absolute;
+        display: flex;
+        flex-direction: row; 
+        justify-content: flex-start; 
+        align-items: center; 
+        text-align: center;
+        width: 1480px;
+        height: 190px;
+        top: 637px;
+        background-color: #ffffff;
+        gap: 100px; 
+    }
+    
+    .Products .Wheat{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 63px;
+        height: 102px;
+        margin-left: 7px;
+    }
+    
+    .Products .Wheat svg{
+        fill: #324950;
+        width: 40px;
+        height: 50px;
+    }
+    
+    .Products .Wheat p{
+        margin: 20px 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab';
+    }
+    
+    .Products .Wheat p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Confection-watermelon{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 225px;
+        height: 99.1px;
+    }
+    
+    .Products .Confection-watermelon svg{
+        fill: #324950;
+        width: 40px;
+        height: 60px;
+    }
+    
+    .Products .Confection-watermelon p{
+        margin: 0 0 0 0;
+        color: #324950;  
+        font-size: 20px;
+        font-family: 'Roboto Slab';
+    }
+    
+    .Products .Confection-watermelon p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Clover{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 61px;
+        height: 103px;
+    }
+    
+    .Products .Clover svg{
+        fill: #324950;
+        width: 48px;
+        height: 52px;
+    }
+    
+    .Products .Clover p{
+        margin: 20px 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Clover p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Confection_Sunflower{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 206px;
+        height: 105px;
+    }
+    
+    .Products .Confection_Sunflower svg{
+        fill: #324950;
+        width: 42px;
+        height: 54px;
+    }
+    
+    .Products .Confection_Sunflower p{
+        margin: 0 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Confection_Sunflower p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Tomato{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 72px;
+        height: 103px;
+    }
+    
+    .Products .Tomato svg{
+        fill: #324950;
+        width: 50px;
+        height: 60px;
+    }
+    
+    .Products .Tomato p{
+        margin: 20px 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Tomato p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Eggplant{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 125px;
+        height: 103px;
+    }
+    
+    .Products .Eggplant svg path{
+        fill: #324950;
+        width: 58px;
+        height: 52px;
+    }
+    
+    .Products .Eggplant p{
+        margin: 22px 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Eggplant p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Ornamental_Sunflower{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 226px;
+        height: 105px;
+    }
+    
+    .Products .Ornamental_Sunflower svg{
+        fill: #324950;
+        width: 60px;
+        height: 60px;
+    }
+    
+    .Products .Ornamental_Sunflower p{
+        margin: 0 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Ornamental_Sunflower p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Vision_Mission{
+        background-color: #F7F7F7;
+        position: absolute;
+        display: flex;
+        left: 0px;
+        top: 827px;
+        width: 1480px;
+        height: 1269px;
+        background-image: url("../images/Union.png");
+        background-repeat: no-repeat;
+        background-position: center 71.157px;
+    }
+    
+    .Vision_Mission .Unoin img {
+        position: absolute;
+        top: 41.157px;
+        bottom: 100px;
+    }
+    
+    .Vision_Mission .Group_6 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        width: 495px;
+        height: 285px;
+        left: 180px;
+        top: 178px;
+    }
+    
+    .Vision_Mission .Group_6 h1 {
+        color: #324950;
+        font-size: 64px;
+        margin: 0 0 20px 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .Vision_Mission .Group_6 p {
+        color: #324950;
+        font-size: 20px;
+        margin: 31px 0 0 0;
+        font-family: 'Roboto Slab';
+    }
+    
+    .Vision_Mission .Group_6 .Crosses{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        gap: 3px; 
+        align-items: center;
+        margin: none;
+        padding: none; 
+    }
+    
+    .Vision_Mission .Group_6 .Crosses svg {
+        fill: #57984C;
+        width: 10px;
+        height: 18px;
+    }
+    
+    .Vision_Mission .Group_6 .Crosses svg path {
+        stroke: #57984C;
+        stroke-width: 5px; 
+        stroke-linecap: round;
+    }
+    
+    .Vision_Mission .image_3 {
+        position: absolute;
+        width: 540px;
+        height: 498px;
+        top: 71px;
+        left: 727px;
+    }
+    
+    .Vision_Mission .image_2 {
+        position: absolute;
+        width: 540px;
+        height: 500px;
+        left: 180px;
+        top: 669px;
+    }
+    
+    .Vision_Mission .play-button{
+        position: relative;
+        height: 90px;
+        width: 90px;
+        left: 400px;
+        top: 874px;
+    }
+    
+    .Vision_Mission .Group_7 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        width: 495px;
+        height: 252px;
+        left: 788px;
+        top: 796px;
+    }
+    
+    .Vision_Mission .Group_7 h1 {
+        color: #324950;
+        font-size: 64px;
+        margin: 0 0 40px 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .Vision_Mission .Group_7 p {
+        color: #324950;
+        font-size: 20px;
+        margin: 31px 0 0 0;
+        font-family: 'Roboto Slab';
+    }
+    
+    .Vision_Mission .Group_7 .Crosses{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        gap: 3px; 
+        align-items: center;
+        margin: none;
+        padding: none; 
+    }
+    
+    .Vision_Mission .Group_7 .Crosses svg {
+        fill: #57984C;
+        width: 10px;
+        height: 18px;
+    }
+    
+    .Vision_Mission .Group_7 .Crosses svg path {
+        stroke: #57984C;
+        stroke-width: 5px; 
+        stroke-linecap: round;
+    }
+    
+    .main-active{
+        background-color: #EDEDED;
+        position: absolute;
+        display: flex;
+        left: 0px;
+        top: 2096px;
+        width: 1480px;
+        height: 640px;
+    }
+    
+    .main-active h1{
+        position: absolute;
+        color: #324950;
+        font-size: 64px;
+        margin: 0 0 0 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+        width: 790px;
+        height: 91px;
+        left: 348px;
+        top: 70px;
+    }
+    
+    .main-active .Crosses{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        gap: 3px; 
+        left: 713px;
+        top: 186px;
+    }
+    
+    .main-active .Crosses svg {
+        fill: #57984C;
+        width: 10px;
+        height: 18px;
+    }
+    
+    .main-active .Crosses svg path {
+        stroke: #57984C;
+        stroke-width: 5px; 
+        stroke-linecap: round;
+    }
+    
+    .main-active .container-1 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        text-align: center;
+        justify-content: center;
+        width: 354px;
+        height: 380px;
+        left: 173px;
+        top: 200px;
+    }
+    
+    .main-active .container-1 h2{
+        color: #57984C;
+        font-size: 24px;
+        margin: 0 0 0 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .main-active .container-1 hr {
+        position: relative;
+        border: none;
+        height: 2px;
+        background-color: #57984C;
+        margin: 22px 0 0 0;
+        width: 184px;
+        left: 86px;
+    }
+    
+    .main-active .container-1 p {
+        position: relative;
+        color: #324950;
+        font-family: 'Roboto Slab';
+        font-size: 18px;
+        width: 243px;
+        height: 52px;
+        margin: 20px 0 0 0;
+        left: 53px;
+    }
+    
+    .main-active .container-2 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        text-align: center;
+        width: 250px;
+        height: 380px;
+        left: 615px;
+        top: 202px;
+    }
+    
+    .main-active .container-2 h2{
+        position: relative;
+        color: #57984C;
+        font-size: 24px;
+        margin: 21px 0 0 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .main-active .container-2 hr {
+        position: relative;
+        border: 0;
+        height: 2px;
+        background-color: #57984C;
+        margin: 22px 0 0 0;
+        width: 184px;
+        left: 31px;
+    }
+    
+    .main-active .container-2 p {
+        position: relative;
+        color: #324950;
+        font-family: 'Roboto Slab';
+        font-size: 18px;
+        width: 245px;
+        height: 49px;
+        margin: 19px 0 0 0;
+    }
+    
+    .main-active .container-3 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        text-align: center;
+        width: 295px;
+        height: 380px;
+        left: 972px;
+        top: 202px;
+    }
+    
+    .main-active .container-3 img {
+        padding: 26px 0 0 0;
+    }
+    
+    .main-active .container-3 h2{
+        position: relative;
+        color: #57984C;
+        font-size: 24px;
+        margin: 15px 0 0 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .main-active .container-3 hr {
+        position: relative;
+        border: 0;
+        height: 2px;
+        background-color: #57984C;
+        margin: 21px 0 0 0;
+        width: 183px;
+        left: 52px;
+    }
+    
+    .main-active .container-3 p {
+        position: relative;
+        color: #324950;
+        font-family: 'Roboto Slab';
+        font-size: 18px;
+        width: 292px;
+        height: 52px;
+        margin: 19px 0 0 0;
+    }
+}
+
+@media(max-width: 1280px) {
+    .Products {
+        position: absolute;
+        display: flex;
+        flex-direction: row; 
+        justify-content: flex-start; 
+        align-items: center; 
+        text-align: center;
+        width: 1280px;
+        height: 190px;
+        top: 566px;
+        background-color: #ffffff;
+        gap: 80px; 
+    }
+    
+    .Products .Wheat{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 63px;
+        height: 102px;
+        margin-left: 7px;
+    }
+    
+    .Products .Wheat svg{
+        fill: #324950;
+        width: 40px;
+        height: 50px;
+    }
+    
+    .Products .Wheat p{
+        margin: 20px 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab';
+    }
+    
+    .Products .Wheat p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Confection-watermelon{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 225px;
+        height: 99.1px;
+    }
+    
+    .Products .Confection-watermelon svg{
+        fill: #324950;
+        width: 40px;
+        height: 60px;
+    }
+    
+    .Products .Confection-watermelon p{
+        margin: 0 0 0 0;
+        color: #324950;  
+        font-size: 20px;
+        font-family: 'Roboto Slab';
+    }
+    
+    .Products .Confection-watermelon p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Clover{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 61px;
+        height: 103px;
+    }
+    
+    .Products .Clover svg{
+        fill: #324950;
+        width: 48px;
+        height: 52px;
+    }
+    
+    .Products .Clover p{
+        margin: 20px 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Clover p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Confection_Sunflower{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 206px;
+        height: 105px;
+    }
+    
+    .Products .Confection_Sunflower svg{
+        fill: #324950;
+        width: 42px;
+        height: 54px;
+    }
+    
+    .Products .Confection_Sunflower p{
+        margin: 0 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Confection_Sunflower p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Tomato{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 72px;
+        height: 103px;
+    }
+    
+    .Products .Tomato svg{
+        fill: #324950;
+        width: 50px;
+        height: 60px;
+    }
+    
+    .Products .Tomato p{
+        margin: 20px 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Tomato p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Eggplant{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 125px;
+        height: 103px;
+    }
+    
+    .Products .Eggplant svg path{
+        fill: #324950;
+        width: 58px;
+        height: 52px;
+    }
+    
+    .Products .Eggplant p{
+        margin: 22px 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Eggplant p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Ornamental_Sunflower{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 200px;
+        height: 105px;
+    }
+    
+    .Products .Ornamental_Sunflower svg{
+        fill: #324950;
+        width: 60px;
+        height: 60px;
+    }
+    
+    .Products .Ornamental_Sunflower p{
+        margin: 0 0 0 0;
+        color: #324950; 
+        font-size: 20px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Ornamental_Sunflower p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Vision_Mission{
+        background-color: #F7F7F7;
+        position: absolute;
+        display: flex;
+        left: 0px;
+        top: 756px;
+        width: 1280px;
+        height: 1269px;
+        background-image: url("../images/Union.png");
+        background-repeat: no-repeat;
+        background-position: center 71.157px;
+    }
+    
+    .Vision_Mission .Unoin img {
+        position: absolute;
+        top: 41.157px;
+        bottom: 100px;
+    }
+    
+    .Vision_Mission .Group_6 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        width: 495px;
+        height: 285px;
+        left: 81px;
+        top: 178px;
+    }
+    
+    .Vision_Mission .Group_6 h1 {
+        color: #324950;
+        font-size: 64px;
+        margin: 0 0 20px 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .Vision_Mission .Group_6 p {
+        color: #324950;
+        font-size: 20px;
+        margin: 31px 0 0 0;
+        font-family: 'Roboto Slab';
+    }
+    
+    .Vision_Mission .Group_6 .Crosses{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        gap: 3px; 
+        align-items: center;
+        margin: none;
+        padding: none; 
+    }
+    
+    .Vision_Mission .Group_6 .Crosses svg {
+        fill: #57984C;
+        width: 10px;
+        height: 18px;
+    }
+    
+    .Vision_Mission .Group_6 .Crosses svg path {
+        stroke: #57984C;
+        stroke-width: 5px; 
+        stroke-linecap: round;
+    }
+    
+    .Vision_Mission .image_3 {
+        position: absolute;
+        width: 540px;
+        height: 498px;
+        top: 71px;
+        left: 628px;
+    }
+    
+    .Vision_Mission .image_2 {
+        position: absolute;
+        width: 540px;
+        height: 500px;
+        left: 81px;
+        top: 669px;
+    }
+    
+    .Vision_Mission .play-button{
+        position: relative;
+        height: 90px;
+        width: 90px;
+        left: 310px;
+        top: 874px;
+    }
+    
+    .Vision_Mission .Group_7 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        width: 495px;
+        height: 252px;
+        left: 690px;
+        top: 796px;
+    }
+    
+    .Vision_Mission .Group_7 h1 {
+        color: #324950;
+        font-size: 64px;
+        margin: 0 0 40px 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .Vision_Mission .Group_7 p {
+        color: #324950;
+        font-size: 20px;
+        margin: 31px 0 0 0;
+        font-family: 'Roboto Slab';
+    }
+    
+    .Vision_Mission .Group_7 .Crosses{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        gap: 3px; 
+        align-items: center;
+        margin: none;
+        padding: none; 
+    }
+    
+    .Vision_Mission .Group_7 .Crosses svg {
+        fill: #57984C;
+        width: 10px;
+        height: 18px;
+    }
+    
+    .Vision_Mission .Group_7 .Crosses svg path {
+        stroke: #57984C;
+        stroke-width: 5px; 
+        stroke-linecap: round;
+    }
+    
+    .main-active{
+        background-color: #EDEDED;
+        position: absolute;
+        display: flex;
+        left: 0px;
+        top: 2025px;
+        width: 1280px;
+        height: 640px;
+    }
+    
+    .main-active h1{
+        position: absolute;
+        color: #324950;
+        font-size: 64px;
+        margin: 0 0 0 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+        width: 790px;
+        height: 91px;
+        left: 248px;
+        top: 70px;
+    }
+    
+    .main-active .Crosses{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        gap: 3px; 
+        left: 611px;
+        top: 186px;
+    }
+    
+    .main-active .Crosses svg {
+        fill: #57984C;
+        width: 10px;
+        height: 18px;
+    }
+    
+    .main-active .Crosses svg path {
+        stroke: #57984C;
+        stroke-width: 5px; 
+        stroke-linecap: round;
+    }
+    
+    .main-active .container-1 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        text-align: center;
+        justify-content: center;
+        width: 354px;
+        height: 380px;
+        left: 72px;
+        top: 200px;
+    }
+    
+    .main-active .container-1 h2{
+        color: #57984C;
+        font-size: 24px;
+        margin: 0 0 0 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .main-active .container-1 hr {
+        position: relative;
+        border: none;
+        height: 2px;
+        background-color: #57984C;
+        margin: 22px 0 0 0;
+        width: 184px;
+        left: 86px;
+    }
+    
+    .main-active .container-1 p {
+        position: relative;
+        color: #324950;
+        font-family: 'Roboto Slab';
+        font-size: 18px;
+        width: 243px;
+        height: 52px;
+        margin: 20px 0 0 0;
+        left: 53px;
+    }
+    
+    .main-active .container-2 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        text-align: center;
+        width: 250px;
+        height: 380px;
+        left: 512px;
+        top: 202px;
+    }
+    
+    .main-active .container-2 h2{
+        position: relative;
+        color: #57984C;
+        font-size: 24px;
+        margin: 21px 0 0 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .main-active .container-2 hr {
+        position: relative;
+        border: 0;
+        height: 2px;
+        background-color: #57984C;
+        margin: 22px 0 0 0;
+        width: 184px;
+        left: 31px;
+    }
+    
+    .main-active .container-2 p {
+        position: relative;
+        color: #324950;
+        font-family: 'Roboto Slab';
+        font-size: 18px;
+        width: 245px;
+        height: 49px;
+        margin: 19px 0 0 0;
+    }
+    
+    .main-active .container-3 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        text-align: center;
+        width: 295px;
+        height: 380px;
+        left: 869px;
+        top: 202px;
+    }
+    
+    .main-active .container-3 img {
+        padding: 26px 0 0 0;
+    }
+    
+    .main-active .container-3 h2{
+        position: relative;
+        color: #57984C;
+        font-size: 24px;
+        margin: 15px 0 0 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .main-active .container-3 hr {
+        position: relative;
+        border: 0;
+        height: 2px;
+        background-color: #57984C;
+        margin: 21px 0 0 0;
+        width: 183px;
+        left: 52px;
+    }
+    
+    .main-active .container-3 p {
+        position: relative;
+        color: #324950;
+        font-family: 'Roboto Slab';
+        font-size: 18px;
+        width: 292px;
+        height: 52px;
+        margin: 19px 0 0 0;
+    }
+}
+
+@media(max-width: 1024px) {
+    .Products {
+        position: absolute;
+        display: flex;
+        flex-direction: row; 
+        justify-content: flex-start; 
+        align-items: center; 
+        text-align: center;
+        width: 1024px;
+        height: 190px;
+        top: 453px;
+        background-color: #ffffff;
+        gap: 65px; 
+    }
+    
+    .Products .Wheat{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 50px;
+        height: 102px;
+        margin-left: 7px;
+    }
+    
+    .Products .Wheat svg{
+        fill: #324950;
+        width: 40px;
+        height: 50px;
+    }
+    
+    .Products .Wheat p{
+        margin: 20px 0 0 0;
+        color: #324950; 
+        font-size: 18px;
+        font-family: 'Roboto Slab';
+    }
+    
+    .Products .Wheat p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Confection-watermelon{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 200px;
+        height: 99.1px;
+    }
+    
+    .Products .Confection-watermelon svg{
+        fill: #324950;
+        width: 40px;
+        height: 60px;
+    }
+    
+    .Products .Confection-watermelon p{
+        margin: 0 0 0 0;
+        color: #324950;  
+        font-size: 18px;
+        font-family: 'Roboto Slab';
+    }
+    
+    .Products .Confection-watermelon p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Clover{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 51px;
+        height: 103px;
+    }
+    
+    .Products .Clover svg{
+        fill: #324950;
+        width: 48px;
+        height: 52px;
+    }
+    
+    .Products .Clover p{
+        margin: 20px 0 0 0;
+        color: #324950; 
+        font-size: 18px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Clover p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Confection_Sunflower{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 196px;
+        height: 105px;
+    }
+    
+    .Products .Confection_Sunflower svg{
+        fill: #324950;
+        width: 42px;
+        height: 54px;
+    }
+    
+    .Products .Confection_Sunflower p{
+        margin: 0 0 0 0;
+        color: #324950; 
+        font-size: 18px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Confection_Sunflower p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Tomato{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 62px;
+        height: 103px;
+    }
+    
+    .Products .Tomato svg{
+        fill: #324950;
+        width: 50px;
+        height: 60px;
+    }
+    
+    .Products .Tomato p{
+        margin: 20px 0 0 0;
+        color: #324950; 
+        font-size: 18px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Tomato p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Eggplant{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 115px;
+        height: 103px;
+    }
+    
+    .Products .Eggplant svg path{
+        fill: #324950;
+        width: 58px;
+        height: 52px;
+    }
+    
+    .Products .Eggplant p{
+        margin: 22px 0 0 0;
+        color: #324950; 
+        font-size: 18px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Eggplant p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Products .Ornamental_Sunflower{
+        display: flex;
+        flex-direction: column; 
+        align-items: center; 
+        justify-content: center;
+        width: 190px;
+        height: 105px;
+    }
+    
+    .Products .Ornamental_Sunflower svg{
+        fill: #324950;
+        width: 60px;
+        height: 60px;
+    }
+    
+    .Products .Ornamental_Sunflower p{
+        margin: 0 0 0 0;
+        color: #324950; 
+        font-size: 18px;
+        font-family: 'Roboto Slab'; 
+    }
+    
+    .Products .Ornamental_Sunflower p a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .Vision_Mission{
+        background-color: #F7F7F7;
+        position: absolute;
+        display: flex;
+        left: 0px;
+        top: 643px;
+        width: 1024px;
+        height: 1240px;
+        background-image: url("../images/Union.png");
+        background-repeat: no-repeat;
+        background-position: center 71.157px;
+    }
+    
+    .Vision_Mission .Unoin img {
+        position: absolute;
+        top: 41.157px;
+        bottom: 100px;
+    }
+    
+    .Vision_Mission .Group_6 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        width: 426px;
+        height: 285px;
+        left: 10px;
+        top: 178px;
+    }
+    
+    .Vision_Mission .Group_6 h1 {
+        color: #324950;
+        font-size: 60px;
+        margin: 0 0 20px 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .Vision_Mission .Group_6 p {
+        color: #324950;
+        font-size: 18px;
+        margin: 31px 0 0 0;
+        font-family: 'Roboto Slab';
+    }
+    
+    .Vision_Mission .Group_6 .Crosses{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        gap: 3px; 
+        align-items: center;
+        margin: none;
+        padding: none; 
+    }
+    
+    .Vision_Mission .Group_6 .Crosses svg {
+        fill: #57984C;
+        width: 10px;
+        height: 18px;
+    }
+    
+    .Vision_Mission .Group_6 .Crosses svg path {
+        stroke: #57984C;
+        stroke-width: 5px; 
+        stroke-linecap: round;
+    }
+    
+    .Vision_Mission .image_3 {
+        position: absolute;
+        width: 500px;
+        height: 450px;
+        top: 71px;
+        left: 515px;
+    }
+    
+    .Vision_Mission .image_2 {
+        position: absolute;
+        width: 500px;
+        height: 450px;
+        left: 10px;
+        top: 669px;
+    }
+    
+    .Vision_Mission .play-button{
+        position: relative;
+        height: 80px;
+        width: 82px;
+        left: 220px;
+        top: 860px;
+    }
+    
+    .Vision_Mission .Group_7 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        width: 450px;
+        height: 252px;
+        left: 578px;
+        top: 796px;
+    }
+    
+    .Vision_Mission .Group_7 h1 {
+        color: #324950;
+        font-size: 60px;
+        margin: 0 0 40px 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .Vision_Mission .Group_7 p {
+        color: #324950;
+        font-size: 18px;
+        margin: 31px 0 0 0;
+        font-family: 'Roboto Slab';
+    }
+    
+    .Vision_Mission .Group_7 .Crosses{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        gap: 3px; 
+        align-items: center;
+        margin: none;
+        padding: none; 
+    }
+    
+    .Vision_Mission .Group_7 .Crosses svg {
+        fill: #57984C;
+        width: 10px;
+        height: 18px;
+    }
+    
+    .Vision_Mission .Group_7 .Crosses svg path {
+        stroke: #57984C;
+        stroke-width: 5px; 
+        stroke-linecap: round;
+    }
+    
+    .main-active{
+        background-color: #EDEDED;
+        position: absolute;
+        display: flex;
+        left: 0px;
+        top: 1883px;
+        width: 1024px;
+        height: 640px;
+    }
+    
+    .main-active h1{
+        position: absolute;
+        color: #324950;
+        font-size: 60px;
+        margin: 0 0 0 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+        width: 790px;
+        height: 91px;
+        left: 166px;
+        top: 70px;
+    }
+    
+    .main-active .Crosses{
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        gap: 3px; 
+        left: 507px;
+        top: 186px;
+    }
+    
+    .main-active .Crosses svg {
+        fill: #57984C;
+        width: 10px;
+        height: 18px;
+    }
+    
+    .main-active .Crosses svg path {
+        stroke: #57984C;
+        stroke-width: 5px; 
+        stroke-linecap: round;
+    }
+    
+    .main-active .container-1 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        text-align: center;
+        justify-content: center;
+        width: 354px;
+        height: 380px;
+        left: 10px;
+        top: 200px;
+    }
+    
+    .main-active .container-1 h2{
+        color: #57984C;
+        font-size: 22px;
+        margin: 0 0 0 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .main-active .container-1 hr {
+        position: relative;
+        border: none;
+        height: 2px;
+        background-color: #57984C;
+        margin: 22px 0 0 0;
+        width: 184px;
+        left: 86px;
+    }
+    
+    .main-active .container-1 p {
+        position: relative;
+        color: #324950;
+        font-family: 'Roboto Slab';
+        font-size: 17px;
+        width: 243px;
+        height: 52px;
+        margin: 20px 0 0 0;
+        left: 53px;
+    }
+    
+    .main-active .container-2 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        text-align: center;
+        width: 250px;
+        height: 380px;
+        left: 411px;
+        top: 202px;
+    }
+    
+    .main-active .container-2 h2{
+        position: relative;
+        color: #57984C;
+        font-size: 22px;
+        margin: 21px 0 0 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .main-active .container-2 hr {
+        position: relative;
+        border: 0;
+        height: 2px;
+        background-color: #57984C;
+        margin: 22px 0 0 0;
+        width: 184px;
+        left: 31px;
+    }
+    
+    .main-active .container-2 p {
+        position: relative;
+        color: #324950;
+        font-family: 'Roboto Slab';
+        font-size: 17px;
+        width: 245px;
+        height: 49px;
+        margin: 19px 0 0 0;
+    }
+    
+    .main-active .container-3 {
+        position: absolute;
+        display: flex;
+        flex-direction: column; 
+        text-align: center;
+        width: 295px;
+        height: 380px;
+        left: 726px;
+        top: 202px;
+    }
+    
+    .main-active .container-3 img {
+        padding: 26px 0 0 0;
+    }
+    
+    .main-active .container-3 h2{
+        position: relative;
+        color: #57984C;
+        font-size: 22px;
+        margin: 15px 0 0 0;
+        font-family: 'Roboto Slab';
+        font-weight: bold;
+    }
+    
+    .main-active .container-3 hr {
+        position: relative;
+        border: 0;
+        height: 2px;
+        background-color: #57984C;
+        margin: 21px 0 0 0;
+        width: 183px;
+        left: 52px;
+    }
+    
+    .main-active .container-3 p {
+        position: relative;
+        color: #324950;
+        font-family: 'Roboto Slab';
+        font-size: 17px;
+        width: 292px;
+        height: 52px;
+        margin: 19px 0 0 0;
+    }
+}
+
+/* End home */
+
+/* Start tomato */
+.tomato-main {
+    position: absolute;
+    height: 2291px;
+    width: 1920px;
+    left: 0px;
+    top: 602px;
+    background-color: #FCF0F0;
+}
+
+.tomato-main .Group_6 {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 827px;
+    height: 109.24px;
+    left: 405px;
+    top: 51px;
+}
+
+.tomato-main .Group_6 h1 {
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-weight: bold;
+    font-size: 44px;
+    margin: 0 0 40px 0;
+}
+
+.tomato-main .Group_6 .Crosses{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    gap: 3px; 
+    align-items: center;
+    margin: none;
+    padding: none;
+}
+
+.tomato-main .Group_6 .Crosses svg {
+    fill: #57984C;
+    width: 10px;
+    height: 18px;
+}
+
+.tomato-main .Group_6 .Crosses svg path {
+    stroke: #57984C;
+    stroke-width: 5px; 
+    stroke-linecap: round;
+}
+
+.tomato-main .Text{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    width: 1097px;
+    height: 290px;
+    left: 405px;
+    top: 201px;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-size: 17px;
+    gap: 39px;
+}
+
+.tomato-main .Text p {
+    margin: 0;
+}
+
+.tomato-main .Text-1 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    width: 1066px;
+    height: 60px;
+    left: 405.5px;
+    top: 511.5px;
+    gap: 26px;
+}
+
+.tomato-main .Text-1 hr {
+    width: 4px;
+    height: 60px;
+    background: #EB5757;
+    border-radius: 4px;
+    margin: 0;
+    border: none;
+}
+
+.tomato-main .Text-1 p {
+    margin: 0;
+    margin-top: 6px;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-size: 17px;
+}
+
+.tomato-main .Text-2 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    width: 1152px;
+    height: 449.5px;
+    left: 385px;
+    top: 601.5px;
+    background-color: #FFFAFA;
+    gap: 30px;
+    padding: 50px 0px 0 20px;
+}
+
+.tomato-main .Text-2 .container-1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 350px;
+}
+
+.tomato-main .Text-2 .container-1 h4 {
+    margin: 0;
+    color: #324950;
+    width: 350px;
+    height: 58px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.tomato-main .Text-2 .container-1 hr {
+    margin: 0;
+    border: 1px solid #324950;
+}
+
+.tomato-main .Text-2 .container-1 p {
+    margin: 0;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 17px;
+    height: 212px;
+}
+
+.tomato-main .Text-2 .container-2 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 350px;
+    width: 350px;
+}
+
+.tomato-main .Text-2 .container-2 h4 {
+    margin: 0;
+    color: #324950;
+    width: 350px;
+    height: 58px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.tomato-main .Text-2 .container-2 hr {
+    margin: 0;
+    border: 1px solid #324950;
+}
+
+.tomato-main .Text-2 .container-2 p {
+    margin: 0;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 17px;
+    height: 212px;
+}
+
+.tomato-main .Text-2 .container-3 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 350px;
+    width: 350px;
+}
+
+.tomato-main .Text-2 .container-3 h4 {
+    margin: 0;
+    color: #324950;
+    width: 350px;
+    height: 58px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.tomato-main .Text-2 .container-3 hr {
+    margin: 0;
+    border: 1px solid #324950;
+}
+
+.tomato-main .Text-2 .container-3 p {
+    margin: 0;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 17px;
+    height: 262px;
+}
+
+.tomato-main .Text-3 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    width: 1066px;
+    height: 40px;
+    left: 405.5px;
+    top: 1141px;
+    gap: 26px;
+}
+
+.tomato-main .Text-3 hr {
+    width: 4px;
+    height: 40px;
+    background: #EB5757;
+    border-radius: 4px;
+    margin: 0;
+    border: none;
+}
+
+.tomato-main .Text-3 p {
+    margin: 0;
+    margin-top: 6px;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.tomato-main .Groups {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    left: 405px;
+    top: 1221px;
+    width: 1110px;
+    height: 1023px;
+    gap: 30px;
+}
+
+.tomato-main .Groups .Group_9 {
+    position: relative;
+    width: 350px;
+    height: 321px;
+}
+
+.tomato-main .Groups .Group_9  img{
+    display: block;
+    width: 350px;
+    height: 320px;
+}
+
+.tomato-main .Groups .Group_9 .tag-1{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 69px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    top: -80px;
+}
+
+.tomato-main .Groups .Group_9 h3 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 20px;
+}
+
+.tomato-main .Groups .Group_9 p {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 16px;
+}
+
+.tomato-main .Groups .Group_9 a {
+    text-decoration: none;
+}
+
+.tomato-main .Groups .Group_9 a:hover {
+    text-decoration: underline;
+    color: #57984C;
+}
+
+.tomato-main .Groups .Group_10 {
+    position: relative;
+    width: 350px;
+    height: 321px;
+}
+
+.tomato-main .Groups .Group_10  img{
+    display: block;
+    width: 350px;
+    height: 318px;
+}
+
+.tomato-main .Groups .Group_10 .tag-2{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 69px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    top: -78px;
+}
+
+.tomato-main .Groups .Group_10 h3 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 20px;
+}
+
+.tomato-main .Groups .Group_10 p {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 16px;
+}
+
+.tomato-main .Groups .Group_10 a {
+    text-decoration: none;
+}
+
+.tomato-main .Groups .Group_10 a:hover {
+    text-decoration: underline;
+    color: #57984C;
+}
+
+.tomato-main .Groups .Group_11 {
+    position: relative;
+    width: 350px;
+    height: 321px;
+}
+
+.tomato-main .Groups .Group_11  img{
+    display: block;
+    width: 350px;
+    height: 318px;
+}
+
+.tomato-main .Groups .Group_11 .tag-3{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 69px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    top: -78px;
+}
+
+.tomato-main .Groups .Group_11 h3 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 20px;
+}
+
+.tomato-main .Groups .Group_11 p {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 16px;
+}
+
+.tomato-main .Groups .Group_11 a {
+    text-decoration: none;
+}
+
+.tomato-main .Groups .Group_11 a:hover {
+    text-decoration: underline;
+    color: #57984C;
+}
+
+.tomato-main .Groups .Group_12 {
+    position: relative;
+    width: 350px;
+    height: 321px;
+}
+
+.tomato-main .Groups .Group_12  img{
+    display: block;
+    width: 350px;
+    height: 318px;
+}
+
+.tomato-main .Groups .Group_12 .tag-4{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 69px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    top: -78px;
+}
+
+.tomato-main .Groups .Group_12 h3 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 20px;
+}
+
+.tomato-main .Groups .Group_12 p {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 16px;
+}
+
+.tomato-main .Groups .Group_12 a {
+    text-decoration: none;
+}
+
+.tomato-main .Groups .Group_12 a:hover {
+    text-decoration: underline;
+    color: #57984C;
+}
+
+.tomato-main .Groups .Group_13 {
+    position: relative;
+    width: 350px;
+    height: 321px;
+}
+
+.tomato-main .Groups .Group_13  img{
+    display: block;
+    width: 350px;
+    height: 318px;
+}
+
+.tomato-main .Groups .Group_13 .tag-5{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 69px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    top: -78px;
+}
+
+.tomato-main .Groups .Group_13 h3 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 20px;
+}
+
+.tomato-main .Groups .Group_13 p {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 16px;
+}
+
+.tomato-main .Groups .Group_13 a {
+    text-decoration: none;
+}
+
+.tomato-main .Groups .Group_13 a:hover {
+    text-decoration: underline;
+    color: #57984C;
+}
+
+.tomato-main .Groups .Group_14 {
+    position: relative;
+    width: 350px;
+    height: 321px;
+}
+
+.tomato-main .Groups .Group_14  img{
+    display: block;
+    width: 350px;
+    height: 318px;
+}
+
+.tomato-main .Groups .Group_14 .tag-6{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 69px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    top: -78px;
+}
+
+.tomato-main .Groups .Group_14 h3 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 20px;
+}
+
+.tomato-main .Groups .Group_14 p {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 16px;
+}
+
+.tomato-main .Groups .Group_14 a {
+    text-decoration: none;
+}
+
+.tomato-main .Groups .Group_14 a:hover {
+    text-decoration: underline;
+    color: #57984C;
+}
+
+.tomato-main .Groups .Group_15 {
+    position: relative;
+    width: 350px;
+    height: 321px;
+}
+
+.tomato-main .Groups .Group_15  img{
+    display: block;
+    width: 350px;
+    height: 318px;
+}
+
+.tomato-main .Groups .Group_15 .tag-7{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 69px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    top: -78px;
+}
+
+.tomato-main .Groups .Group_15 h3 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 20px;
+}
+
+.tomato-main .Groups .Group_15 p {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 16px;
+}
+
+.tomato-main .Groups .Group_15 a {
+    text-decoration: none;
+}
+
+.tomato-main .Groups .Group_15 a:hover {
+    text-decoration: underline;
+    color: #57984C;
+}
+
+.tomato-main .Groups .Group_16 {
+    position: relative;
+    width: 350px;
+    height: 321px;
+}
+
+.tomato-main .Groups .Group_16  img{
+    display: block;
+    width: 350px;
+    height: 318px;
+}
+
+.tomato-main .Groups .Group_16 .tag-8{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 69px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    top: -78px;
+}
+
+.tomato-main .Groups .Group_16 h3 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 20px;
+}
+
+.tomato-main .Groups .Group_16 p {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 16px;
+}
+
+.tomato-main .Groups .Group_16 a {
+    text-decoration: none;
+}
+
+.tomato-main .Groups .Group_16 a:hover {
+    text-decoration: underline;
+    color: #57984C;
 }
