@@ -27,7 +27,7 @@
 #home-header .search {
     position: relative;
     left: 126px;
-    top: 0px;
+    top: 0.3px;
     height: 29px;
     width: 324px;
     border: none;
@@ -722,6 +722,11 @@
         font-family: 'Heebo';
     }
 
+    #home-header nav ul li a:hover {
+        background-color: #d4e7b5; 
+        color: #2c3a2f; 
+    }
+
     .H-Banner{
         position: absolute;
         top: 0;
@@ -809,7 +814,7 @@
 #tomato-header .search {
     position: relative;
     left: 130px;
-    top: 0px;
+    top: 0.3px;
     height: 29px;
     width: 356px;
     border: none;
@@ -830,7 +835,7 @@
     position: absolute;
     left: 490px;
     top: 8.9px;
-    padding: 0px 0px 3.1px 0px;
+    padding: 0px 0px 3px 0px;
     cursor: pointer;
     border: none;
     background: none;
@@ -858,11 +863,15 @@
     gap: 15px;
 }
 
+#tomato-header nav ul li {
+    font-weight: 510;
+}
+
+
 #tomato-header nav ul li a {
     color: #324950;
     text-decoration: none;
     font-family: 'Heebo', sans-serif;
-    font-weight: 500;
 }
 
 .T-Banner {
