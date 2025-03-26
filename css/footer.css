@@ -639,6 +639,664 @@
         color: #B9B9B9;
     }
 }
+
+@media(max-width: 768px) {
+    .Rectangle{
+        position: absolute;
+        display: flex;
+        background-color: #2D3F45;
+        width: 768px;
+        height: 77px;
+        left: 0px;
+        top: 2513px;
+    }
+    
+    .Rectangle nav {
+        flex-direction: row;
+    }
+    
+    .Rectangle nav ul {
+        position: absolute;
+        list-style: none;
+        font-size: 12px;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        gap: 15px;
+        top: 30px;
+        left: 10px;
+        width: 724px;
+        height: 23px;
+        gap: 21px;
+    }
+    
+    .Rectangle nav ul li a{
+        color: #FFFFFF;
+        text-decoration: none;
+        font-family: 'Roboto-R';
+    }
+    
+    .Rectangle .Linkedin {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        left: 552px;
+        top: 19px;
+    }
+    
+    .Rectangle .Linkedin svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Instagram {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        left: 591px;
+        top: 19px;
+    }
+    
+    .Rectangle .Instagram svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Youtube {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 19px;
+        left: 631px;
+    }
+    
+    .Rectangle .Youtube svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Twitter {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 19px;
+        left: 671px;
+    }
+    
+    .Rectangle .Twitter svg {
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Facebook {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 19px;
+        left: 711px;
+    }
+    
+    .Rectangle .Facebook svg {
+        fill: #57984C;
+        width: 31.2px;
+        height: 31.2px;
+    }
+    
+    #home-footer {
+        position: absolute;
+        left: 0px;
+        max-width: 768px;
+        height: 110px;
+        background-color: #324950;
+        top: 2590px;
+    }
+    
+    #home-footer p {
+        left: 30%;
+        font-size: 14;
+        font-family: "Roboto-R";
+        color: #B9B9B9;
+    }
+}
+
+@media(max-width: 640px) {
+    .Rectangle{
+        position: absolute;
+        display: flex;
+        background-color: #2D3F45;
+        width: 640px;
+        height: 77px;
+        left: 0px;
+        top: 2456px;
+    }
+    
+    .Rectangle nav {
+        flex-direction: row;
+    }
+    
+    .Rectangle nav ul {
+        position: absolute;
+        list-style: none;
+        flex-wrap: wrap;
+        justify-content: center; 
+        align-items: center;
+        font-size: 12px;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        gap: 15px;
+        top: 20px;
+        left: 5px;
+        width: 300px;
+        height: 23px;
+        gap: 10px 20px;
+    }
+    
+    .Rectangle nav ul li a{
+        color: #FFFFFF;
+        text-decoration: none;
+        font-family: 'Roboto-R';
+    }
+    
+    .Rectangle .Linkedin {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        left: 380px;
+        top: 19px;
+    }
+    
+    .Rectangle .Linkedin svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Instagram {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        left: 419px;
+        top: 19px;
+    }
+    
+    .Rectangle .Instagram svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Youtube {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 19px;
+        left: 458px;
+    }
+    
+    .Rectangle .Youtube svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Twitter {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 19px;
+        left: 496px;
+    }
+    
+    .Rectangle .Twitter svg {
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Facebook {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 19px;
+        left: 535px;
+    }
+    
+    .Rectangle .Facebook svg {
+        fill: #57984C;
+        width: 31.2px;
+        height: 31.2px;
+    }
+    
+    #home-footer {
+        position: absolute;
+        left: 0px;
+        max-width: 640px;
+        height: 110px;
+        background-color: #324950;
+        top: 2533px;
+    }
+    
+    #home-footer p {
+        left: 20%;
+        font-size: 14;
+        font-family: "Roboto-R";
+        color: #B9B9B9;
+    }
+}
+
+@media(max-width: 480px){
+    .Rectangle{
+        position: absolute;
+        display: flex;
+        background-color: #2D3F45;
+        width: 480px;
+        height: 90px;
+        left: 0px;
+        top: 3023px;
+    }
+    
+    .Rectangle nav {
+        flex-direction: row;
+    }
+    
+    .Rectangle nav ul {
+        position: absolute;
+        list-style: none;
+        flex-wrap: wrap;
+        justify-content: center; 
+        align-items: center;
+        font-size: 12px;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        gap: 15px;
+        top: 20px;
+        left: 0px;
+        width: 280px;
+        height: 23px;
+        gap: 20px 20px;
+    }
+    
+    .Rectangle nav ul li a{
+        color: #FFFFFF;
+        text-decoration: none;
+        font-family: 'Roboto-R';
+    }
+    
+    .Rectangle .Linkedin {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        left: 350px;
+        top: 9px;
+    }
+    
+    .Rectangle .Linkedin svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Instagram {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        left: 389px;
+        top: 9px;
+    }
+    
+    .Rectangle .Instagram svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Youtube {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 9px;
+        left: 428px;
+    }
+    
+    .Rectangle .Youtube svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Twitter {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 43px;
+        left: 370px;
+    }
+    
+    .Rectangle .Twitter svg {
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Facebook {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 43px;
+        left: 411px;
+    }
+    
+    .Rectangle .Facebook svg {
+        fill: #57984C;
+        width: 31.2px;
+        height: 31.2px;
+    }
+    
+    #home-footer {
+        position: absolute;
+        left: 0px;
+        max-width: 480px;
+        height: 110px;
+        background-color: #324950;
+        top: 3113px;
+    }
+    
+    #home-footer p {
+        left: 10%;
+        font-size: 14;
+        font-family: "Roboto-R";
+        color: #B9B9B9;
+    }
+}
+
+@media(max-width: 400px){
+    .Rectangle{
+        position: absolute;
+        display: flex;
+        background-color: #2D3F45;
+        width: 100%;
+        height: 310px;
+        left: 0px;
+        top: 3453px;
+    }
+    
+    .Rectangle nav {
+        flex-direction: row;
+    }
+    
+    .Rectangle nav ul {
+        position: absolute;
+        list-style: none;
+        flex-wrap: wrap;
+        justify-content: center; 
+        align-items: center;
+        font-size: 12px;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        gap: 15px;
+        top: 20px;
+        left: 40%;
+        width: 80px;
+        height: 23px;
+        gap: 20px 20px;
+    }
+    
+    .Rectangle nav ul li a{
+        color: #FFFFFF;
+        text-decoration: none;
+        font-family: 'Roboto-R';
+    }
+    
+    .Rectangle .Linkedin {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        left: 94px;
+        top: 255px;
+    }
+    
+    .Rectangle .Linkedin svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Instagram {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        left: 137px;
+        top: 255px;
+    }
+    
+    .Rectangle .Instagram svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Youtube {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 255px;
+        left: 180px;
+    }
+    
+    .Rectangle .Youtube svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Twitter {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 255px;
+        left: 222px;
+    }
+    
+    .Rectangle .Twitter svg {
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Facebook {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 255px;
+        left: 264px;
+    }
+    
+    .Rectangle .Facebook svg {
+        fill: #57984C;
+        width: 31.2px;
+        height: 31.2px;
+    }
+    
+    #home-footer {
+        position: absolute;
+        left: 0px;
+        width: 100%;
+        height: 110px;
+        background-color: #324950;
+        top: 3763px;
+    }
+    
+    #home-footer p {
+        left: 110px;
+        font-size: 14px;
+        width: 190px;
+        top: 40px;
+        text-align: center;
+        font-family: "Roboto-R";
+        color: #B9B9B9;
+    }
+}
+
+@media(max-width: 320px){
+    .Rectangle{
+        position: absolute;
+        display: flex;
+        background-color: #2D3F45;
+        width: 100%;
+        height: 310px;
+        left: 0px;
+        top: 3813px;
+    }
+    
+    .Rectangle nav {
+        flex-direction: row;
+    }
+    
+    .Rectangle nav ul {
+        position: absolute;
+        list-style: none;
+        flex-wrap: wrap;
+        justify-content: center; 
+        align-items: center;
+        font-size: 12px;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        gap: 15px;
+        top: 20px;
+        left: 37%;
+        width: 80px;
+        height: 23px;
+        gap: 20px 20px;
+    }
+    
+    .Rectangle nav ul li a{
+        color: #FFFFFF;
+        text-decoration: none;
+        font-family: 'Roboto-R';
+    }
+    
+    .Rectangle .Linkedin {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        left: 59px;
+        top: 255px;
+    }
+    
+    .Rectangle .Linkedin svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Instagram {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        left: 98px;
+        top: 255px;
+    }
+    
+    .Rectangle .Instagram svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Youtube {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 255px;
+        left: 137px;
+    }
+    
+    .Rectangle .Youtube svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Twitter {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 255px;
+        left: 176px;
+    }
+    
+    .Rectangle .Twitter svg {
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Facebook {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 255px;
+        left: 214px;
+    }
+    
+    .Rectangle .Facebook svg {
+        fill: #57984C;
+        width: 31.2px;
+        height: 31.2px;
+    }
+    
+    #home-footer {
+        position: absolute;
+        left: 0px;
+        width: 100%;
+        height: 110px;
+        background-color: #324950;
+        top: 4123px;
+    }
+    
+    #home-footer p {
+        left: 63px;
+        font-size: 14px;
+        width: 190px;
+        top: 40px;
+        text-align: center;
+        font-family: "Roboto-R";
+        color: #B9B9B9;
+    }
+}
 /* End home */
 
 /* Start tomato */
@@ -770,4 +1428,135 @@
     color: #B9B9B9;
     margin: 0 0 0 0;
 }
+/* End tomato */
 
+/* Start tomato one */
+#tomato-footer-one .f-1 {
+    position: absolute;
+    display: flex;
+    background-color: #2D3F45;
+    width: 1920px;
+    height: 76px;
+    left: 0px;
+    top: 1338px;
+}
+
+#tomato-footer-one .f-1 nav {
+    flex-direction: row;
+}
+
+#tomato-footer-one .f-1 nav ul {
+    position: absolute;
+    list-style: none;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+    top: 27px;
+    left: 405px;
+    width: 724px;
+    height: 23px;
+    gap: 41px;
+}
+
+#tomato-footer-one .f-1 nav ul li a{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Roboto-R';
+}
+
+#tomato-footer-one .f-1 .Linkedin {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    left: 1303px;
+    top: 19px;
+}
+
+#tomato-footer-one .f-1 .Linkedin svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer-one .f-1 .Instagram {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    left: 1348px;
+    top: 19px;
+}
+
+#tomato-footer-one .f-1 .Instagram svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer-one .f-1 .Youtube {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1393px;
+}
+
+#tomato-footer-one .f-1 .Youtube svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer-one .f-1 .Twitter {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1438px;
+}
+
+#tomato-footer-one .f-1 .Twitter svg {
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer-one .f-1 .Facebook {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1483px;
+}
+
+#tomato-footer-one .f-1 .Facebook svg {
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer-one .f-2 {
+    position: absolute;
+    left: 0px;
+    width: 1920px;
+    height: 51px;
+    background-color: #324950;
+    top: 1413px;
+}
+
+#tomato-footer-one .f-2 p {
+    position: absolute;
+    left: 812px;
+    top: 18px;
+    font-size: 14;
+    font-family: "Roboto-R";
+    color: #B9B9B9;
+    margin: 0 0 0 0;
+}
+/* End tomato one */
