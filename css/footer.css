@@ -127,6 +127,399 @@
     color: #B9B9B9;
     margin: 0 0 0 0;
 }
+/* End home */
+
+/* Start tomato */
+#tomato-footer .f-1 {
+    position: absolute;
+    display: flex;
+    background-color: #2D3F45;
+    width: 1920px;
+    height: 76px;
+    left: 0px;
+    top: 2893px;
+}
+
+#tomato-footer .f-1 nav {
+    flex-direction: row;
+}
+
+#tomato-footer .f-1 nav ul {
+    position: absolute;
+    list-style: none;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+    top: 27px;
+    left: 405px;
+    width: 724px;
+    height: 23px;
+    gap: 41px;
+}
+
+#tomato-footer .f-1 nav ul li a{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Roboto-R';
+}
+
+#tomato-footer .f-1 .Linkedin {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    left: 1303px;
+    top: 19px;
+}
+
+#tomato-footer .f-1 .Linkedin svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer .f-1 .Instagram {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    left: 1348px;
+    top: 19px;
+}
+
+#tomato-footer .f-1 .Instagram svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer .f-1 .Youtube {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1393px;
+}
+
+#tomato-footer .f-1 .Youtube svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer .f-1 .Twitter {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1438px;
+}
+
+#tomato-footer .f-1 .Twitter svg {
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer .f-1 .Facebook {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1483px;
+}
+
+#tomato-footer .f-1 .Facebook svg {
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer .f-2 {
+    position: absolute;
+    left: 0px;
+    width: 1920px;
+    height: 51px;
+    background-color: #324950;
+    top: 2969px;
+}
+
+#tomato-footer .f-2 p {
+    position: absolute;
+    left: 812px;
+    top: 18px;
+    font-size: 14;
+    font-family: "Roboto-R";
+    color: #B9B9B9;
+    margin: 0 0 0 0;
+}
+/* End tomato */
+
+/* Start tomato one */
+#tomato-footer-one .f-1 {
+    position: absolute;
+    display: flex;
+    background-color: #2D3F45;
+    width: 1920px;
+    height: 76px;
+    left: 0px;
+    top: 1338px;
+}
+
+#tomato-footer-one .f-1 nav {
+    flex-direction: row;
+}
+
+#tomato-footer-one .f-1 nav ul {
+    position: absolute;
+    list-style: none;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+    top: 27px;
+    left: 405px;
+    width: 724px;
+    height: 23px;
+    gap: 41px;
+}
+
+#tomato-footer-one .f-1 nav ul li a{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Roboto-R';
+}
+
+#tomato-footer-one .f-1 .Linkedin {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    left: 1303px;
+    top: 19px;
+}
+
+#tomato-footer-one .f-1 .Linkedin svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer-one .f-1 .Instagram {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    left: 1348px;
+    top: 19px;
+}
+
+#tomato-footer-one .f-1 .Instagram svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer-one .f-1 .Youtube {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1393px;
+}
+
+#tomato-footer-one .f-1 .Youtube svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer-one .f-1 .Twitter {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1438px;
+}
+
+#tomato-footer-one .f-1 .Twitter svg {
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer-one .f-1 .Facebook {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1483px;
+}
+
+#tomato-footer-one .f-1 .Facebook svg {
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer-one .f-2 {
+    position: absolute;
+    left: 0px;
+    width: 1920px;
+    height: 51px;
+    background-color: #324950;
+    top: 1413px;
+}
+
+#tomato-footer-one .f-2 p {
+    position: absolute;
+    left: 812px;
+    top: 18px;
+    font-size: 14;
+    font-family: "Roboto-R";
+    color: #B9B9B9;
+    margin: 0 0 0 0;
+}
+/* End tomato one */
+
+/* Start contact us */
+#contact-footer .f-1 {
+    position: absolute;
+    display: flex;
+    background-color: #2D3F45;
+    width: 1920px;
+    height: 76px;
+    left: 0px;
+    top: 250px;
+}
+
+#contact-footer .f-1 nav {
+    flex-direction: row;
+}
+
+#contact-footer .f-1 nav ul {
+    position: absolute;
+    list-style: none;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+    top: 27px;
+    left: 405px;
+    width: 724px;
+    height: 23px;
+    gap: 41px;
+}
+
+#contact-footer .f-1 nav ul li a{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Roboto-R';
+}
+
+#contact-footer .f-1 .Linkedin {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    left: 1303px;
+    top: 19px;
+}
+
+#contact-footer .f-1 .Linkedin svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#contact-footer .f-1 .Instagram {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    left: 1348px;
+    top: 19px;
+}
+
+#contact-footer .f-1 .Instagram svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#contact-footer .f-1 .Youtube {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1393px;
+}
+
+#contact-footer .f-1 .Youtube svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#contact-footer .f-1 .Twitter {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1438px;
+}
+
+#contact-footer .f-1 .Twitter svg {
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#contact-footer .f-1 .Facebook {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1483px;
+}
+
+#contact-footer .f-1 .Facebook svg {
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#contact-footer .f-2 {
+    position: absolute;
+    left: 0px;
+    width: 1920px;
+    height: 51px;
+    background-color: #324950;
+    top: 326px;
+}
+
+#contact-footer .f-2 p {
+    position: absolute;
+    left: 812px;
+    top: 18px;
+    font-size: 14;
+    font-family: "Roboto-R";
+    color: #B9B9B9;
+    margin: 0 0 0 0;
+}
 
 @media(max-width: 1600px) {
     .Rectangle{
@@ -640,6 +1033,137 @@
     }
 }
 
+@media(max-width: 812px) {
+    .Rectangle{
+        position: absolute;
+        display: flex;
+        background-color: #2D3F45;
+        width: 812px;
+        height: 110px;
+        left: 0px;
+        top: 3140px;
+    }
+    
+    .Rectangle nav {
+        flex-direction: row;
+    }
+    
+    .Rectangle nav ul {
+        position: absolute;
+        list-style: none;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+        font-size: 14px;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        gap: 15px;
+        top: 27px;
+        left: 10px;
+        width: 415px;
+        height: 23px;
+        gap: 31px;
+    }
+    
+    .Rectangle nav ul li a{
+        color: #FFFFFF;
+        text-decoration: none;
+        font-family: 'Roboto-R';
+    }
+    
+    .Rectangle .Linkedin {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        left: 588px;
+        top: 19px;
+    }
+    
+    .Rectangle .Linkedin svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Instagram {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        left: 635px;
+        top: 19px;
+    }
+    
+    .Rectangle .Instagram svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Youtube {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 19px;
+        left: 685px;
+    }
+    
+    .Rectangle .Youtube svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Twitter {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 60px;
+        left: 611px;
+    }
+    
+    .Rectangle .Twitter svg {
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Facebook {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 60px;
+        left: 660px;
+    }
+    
+    .Rectangle .Facebook svg {
+        fill: #57984C;
+        width: 31.2px;
+        height: 31.2px;
+    }
+    
+    #home-footer {
+        position: absolute;
+        left: 0px;
+        width: 812px;
+        height: 110px;
+        background-color: #324950;
+        top: 3250px;
+    }
+    
+    #home-footer p {
+        left: 280px;
+        font-size: 14px;
+        font-family: "Roboto-R";
+        color: #B9B9B9;
+    }
+}
+
 @media(max-width: 768px) {
     .Rectangle{
         position: absolute;
@@ -662,10 +1186,9 @@
         padding: 0;
         margin: 0;
         display: flex;
-        gap: 15px;
         top: 30px;
-        left: 10px;
-        width: 724px;
+        left: 0px;
+        width: 505px;
         height: 23px;
         gap: 21px;
     }
@@ -765,6 +1288,47 @@
         font-size: 14;
         font-family: "Roboto-R";
         color: #B9B9B9;
+    }
+}
+
+@media(max-width: 678px){
+    .Rectangle{
+        width: 100%;
+        height: 100px;
+        top: 3010px;
+    }
+    .Rectangle nav ul {
+        top: 30px;
+        left: 0px;
+        width: 320px;
+        height: 23px;
+        gap: 21px;
+    }
+    .Rectangle .Linkedin {
+        left: 445px;
+        top: 19px;
+    }
+    .Rectangle .Instagram {
+        left: 494px;
+        top: 19px;
+    }
+    .Rectangle .Youtube {
+        top: 19px;
+        left: 543px;
+    }
+    .Rectangle .Twitter {
+        left: 469px;
+        top: 55px;
+    }
+    .Rectangle .Facebook {
+        top: 55px;
+        left: 519px;
+    }
+    #home-footer {
+        text-align: center;
+        justify-content: center;
+        width: 100%;
+        top: 3110px;
     }
 }
 
@@ -1164,6 +1728,140 @@
     }
 }
 
+@media(max-width: 376px){
+    .Rectangle{
+        position: absolute;
+        display: flex;
+        background-color: #2D3F45;
+        width: 100%;
+        height: 310px;
+        left: 0px;
+        top: 3633px;
+    }
+    
+    .Rectangle nav {
+        flex-direction: row;
+    }
+    
+    .Rectangle nav ul {
+        position: absolute;
+        list-style: none;
+        flex-wrap: wrap;
+        justify-content: center; 
+        align-items: center;
+        font-size: 12px;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        gap: 15px;
+        top: 20px;
+        left: 40%;
+        width: 80px;
+        height: 23px;
+        gap: 20px 20px;
+    }
+    
+    .Rectangle nav ul li a{
+        color: #FFFFFF;
+        text-decoration: none;
+        font-family: 'Roboto-R';
+    }
+    
+    .Rectangle .Linkedin {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        left: 84px;
+        top: 255px;
+    }
+    
+    .Rectangle .Linkedin svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Instagram {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        left: 127px;
+        top: 255px;
+    }
+    
+    .Rectangle .Instagram svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Youtube {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 255px;
+        left: 170px;
+    }
+    
+    .Rectangle .Youtube svg{
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Twitter {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 255px;
+        left: 212px;
+    }
+    
+    .Rectangle .Twitter svg {
+        fill: #57984C;
+        width: 30px;
+        height: 30px;
+    }
+    
+    .Rectangle .Facebook {
+        position: absolute;
+        background: none;
+        border: none;
+        cursor: pointer;
+        top: 255px;
+        left: 254px;
+    }
+    
+    .Rectangle .Facebook svg {
+        fill: #57984C;
+        width: 31.2px;
+        height: 31.2px;
+    }
+    
+    #home-footer {
+        position: absolute;
+        left: 0px;
+        width: 100%;
+        height: 110px;
+        background-color: #324950;
+        top: 3943px;
+    }
+    
+    #home-footer p {
+        left: 100px;
+        font-size: 14px;
+        width: 190px;
+        top: 40px;
+        text-align: center;
+        font-family: "Roboto-R";
+        color: #B9B9B9;
+    }
+}
+
 @media(max-width: 320px){
     .Rectangle{
         position: absolute;
@@ -1297,266 +1995,3 @@
         color: #B9B9B9;
     }
 }
-/* End home */
-
-/* Start tomato */
-#tomato-footer .f-1 {
-    position: absolute;
-    display: flex;
-    background-color: #2D3F45;
-    width: 1920px;
-    height: 76px;
-    left: 0px;
-    top: 2893px;
-}
-
-#tomato-footer .f-1 nav {
-    flex-direction: row;
-}
-
-#tomato-footer .f-1 nav ul {
-    position: absolute;
-    list-style: none;
-    font-size: 16px;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    gap: 15px;
-    top: 27px;
-    left: 405px;
-    width: 724px;
-    height: 23px;
-    gap: 41px;
-}
-
-#tomato-footer .f-1 nav ul li a{
-    color: #FFFFFF;
-    text-decoration: none;
-    font-family: 'Roboto-R';
-}
-
-#tomato-footer .f-1 .Linkedin {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    left: 1303px;
-    top: 19px;
-}
-
-#tomato-footer .f-1 .Linkedin svg{
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer .f-1 .Instagram {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    left: 1348px;
-    top: 19px;
-}
-
-#tomato-footer .f-1 .Instagram svg{
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer .f-1 .Youtube {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    top: 19px;
-    left: 1393px;
-}
-
-#tomato-footer .f-1 .Youtube svg{
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer .f-1 .Twitter {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    top: 19px;
-    left: 1438px;
-}
-
-#tomato-footer .f-1 .Twitter svg {
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer .f-1 .Facebook {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    top: 19px;
-    left: 1483px;
-}
-
-#tomato-footer .f-1 .Facebook svg {
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer .f-2 {
-    position: absolute;
-    left: 0px;
-    width: 1920px;
-    height: 51px;
-    background-color: #324950;
-    top: 2969px;
-}
-
-#tomato-footer .f-2 p {
-    position: absolute;
-    left: 812px;
-    top: 18px;
-    font-size: 14;
-    font-family: "Roboto-R";
-    color: #B9B9B9;
-    margin: 0 0 0 0;
-}
-/* End tomato */
-
-/* Start tomato one */
-#tomato-footer-one .f-1 {
-    position: absolute;
-    display: flex;
-    background-color: #2D3F45;
-    width: 1920px;
-    height: 76px;
-    left: 0px;
-    top: 1338px;
-}
-
-#tomato-footer-one .f-1 nav {
-    flex-direction: row;
-}
-
-#tomato-footer-one .f-1 nav ul {
-    position: absolute;
-    list-style: none;
-    font-size: 16px;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    gap: 15px;
-    top: 27px;
-    left: 405px;
-    width: 724px;
-    height: 23px;
-    gap: 41px;
-}
-
-#tomato-footer-one .f-1 nav ul li a{
-    color: #FFFFFF;
-    text-decoration: none;
-    font-family: 'Roboto-R';
-}
-
-#tomato-footer-one .f-1 .Linkedin {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    left: 1303px;
-    top: 19px;
-}
-
-#tomato-footer-one .f-1 .Linkedin svg{
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer-one .f-1 .Instagram {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    left: 1348px;
-    top: 19px;
-}
-
-#tomato-footer-one .f-1 .Instagram svg{
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer-one .f-1 .Youtube {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    top: 19px;
-    left: 1393px;
-}
-
-#tomato-footer-one .f-1 .Youtube svg{
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer-one .f-1 .Twitter {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    top: 19px;
-    left: 1438px;
-}
-
-#tomato-footer-one .f-1 .Twitter svg {
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer-one .f-1 .Facebook {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    top: 19px;
-    left: 1483px;
-}
-
-#tomato-footer-one .f-1 .Facebook svg {
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer-one .f-2 {
-    position: absolute;
-    left: 0px;
-    width: 1920px;
-    height: 51px;
-    background-color: #324950;
-    top: 1413px;
-}
-
-#tomato-footer-one .f-2 p {
-    position: absolute;
-    left: 812px;
-    top: 18px;
-    font-size: 14;
-    font-family: "Roboto-R";
-    color: #B9B9B9;
-    margin: 0 0 0 0;
-}
-/* End tomato one */

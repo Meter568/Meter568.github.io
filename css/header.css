@@ -142,6 +142,319 @@
     border: none;
     cursor: pointer;
 }
+/* End home */
+
+/* Start tomato all */
+#tomato-header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 112px;
+    width: 1526px;
+    display: flex;
+    flex-direction: row;
+    gap: 459px;
+    background-color: #FFFFFF;
+    padding-left: 394px;
+}
+
+#tomato-header .t-logo {
+    position: relative;
+    width: 166px;
+    height: 83px;
+    top: 10px;
+}
+
+#tomato-header .t-logo img {
+    position: relative;
+    left: 0px;
+    width: 166px;
+    height: 83px;
+}
+
+#tomato-header .search-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    top: 10px;
+    left: 0px;
+}
+
+#tomato-header .search {
+    position: relative;
+    left: 130px;
+    top: 0.3px;
+    height: 29px;
+    width: 356px;
+    border: none;
+    border-bottom: 1px solid #324950;
+    background: transparent;
+    font-size: 16px;
+    outline: none;
+    color: #324950;
+}
+
+#tomato-header .search::placeholder {
+    color: #324950;
+    opacity: 1;
+}
+
+#tomato-header .search-icon {
+    position: absolute;
+    left: 490px;
+    top: 8.9px;
+    padding: 0px 0px 3px 0px;
+    cursor: pointer;
+    border: none;
+    background: none;
+    box-shadow: none;
+    border-bottom: 1px solid #324950;
+}
+
+#tomato-header .search-icon svg {
+    fill: #324950;
+}
+
+#tomato-header nav {
+    align-self: end;  
+    margin-top: 25px;
+    text-align: right;
+}
+
+#tomato-header nav ul {
+    list-style: none;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+}
+
+#tomato-header nav ul li {
+    font-weight: 510;
+}
+
+
+#tomato-header nav ul li a {
+    color: #324950;
+    text-decoration: none;
+    font-family: 'Heebo', sans-serif;
+}
+
+.T-Banner {
+    position: absolute;
+    left: 0px;
+    top: 122px;
+    width: 1920px;
+    height: 480px;
+}
+/* End Tomato */
+
+/* Start tomato one */
+#tomato-header-one {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    top: 0px;
+    left: 0px;
+    height: 112px;
+    width: 1526px;
+    padding-left: 394px;
+    gap: 444px;
+    display: flex;
+    background-color: #FFFFFF;
+    box-shadow: 0 0px 10px rgb(0,0,0,.8);
+}
+
+#tomato-header-one .t-logo {
+    position: relative;
+    width: 166px;
+    height: 83px;
+    top: 10px;
+}
+
+#tomato-header-one .t-logo img {
+    position: relative;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+#tomato-header-one .search-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 510px;
+    top: 10px;
+    left: 0px;
+    height: 100px;
+}
+
+#tomato-header-one .search {
+    position: relative;
+    align-self: end; 
+    right: 16px;
+    top: 0.3px;
+    height: 29px;
+    width: 356px;
+    border: none;
+    border-bottom: 1px solid #324950;
+    background: transparent;
+    font-size: 16px;
+    outline: none;
+    color: #324950;
+}
+
+#tomato-header-one .search::placeholder {
+    color: #324950;
+    opacity: 1;
+}
+
+#tomato-header-one .search-icon {
+    position: absolute;
+    left: 494px;
+    top: 8.9px;
+    padding: 0px 0px 3px 0px;
+    cursor: pointer;
+    border: none;
+    background: none;
+    box-shadow: none;
+    border-bottom: 1px solid #324950;
+}
+
+#tomato-header-one .search-icon svg {
+    fill: #324950;
+}
+
+#tomato-header-one nav {
+    align-self: end;  
+    margin-top: 25px;
+    text-align: right;
+}
+
+#tomato-header-one nav ul {
+    list-style: none;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+}
+
+#tomato-header-one nav ul li {
+    font-weight: 510;
+}
+
+
+#tomato-header-one nav ul li a {
+    color: #324950;
+    text-decoration: none;
+    font-family: 'Heebo', sans-serif;
+}
+/* End tomato one */
+
+/* Start contact us */
+#contact-header {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    top: 0px;
+    left: 0px;
+    height: 112px;
+    width: 1526px;
+    padding-left: 394px;
+    gap: 464px;
+    display: flex;
+    background-color: #FFFFFF;
+}
+
+#contact-header .t-logo {
+    position: relative;
+    width: 166px;
+    height: 83px;
+    top: 10px;
+}
+
+#contact-header .t-logo img {
+    position: relative;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+#contact-header .search-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 510px;
+    top: 10px;
+    left: 0px;
+    height: 100px;
+}
+
+#contact-header .search {
+    position: relative;
+    align-self: end; 
+    right: 16px;
+    top: 0.3px;
+    height: 29px;
+    width: 356px;
+    border: none;
+    border-bottom: 1px solid #324950;
+    background: transparent;
+    font-size: 16px;
+    outline: none;
+    color: #324950;
+}
+
+#contact-header .search::placeholder {
+    color: #324950;
+    opacity: 1;
+}
+
+#contact-header .search-icon {
+    position: absolute;
+    left: 494px;
+    top: 8.9px;
+    padding: 0px 0px 3px 0px;
+    cursor: pointer;
+    border: none;
+    background: none;
+    box-shadow: none;
+    border-bottom: 1px solid #324950;
+}
+
+#contact-header .search-icon svg {
+    fill: #324950;
+}
+
+#contact-header nav {
+    align-self: end;  
+    margin-top: 25px;
+    text-align: right;
+}
+
+#contact-header nav ul {
+    list-style: none;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+}
+
+#contact-header nav ul li {
+    font-weight: 510;
+}
+
+#contact-header nav ul li a {
+    color: #324950;
+    text-decoration: none;
+    font-family: 'Heebo', sans-serif;
+}
 
 @media(max-width: 1600px) {
     #home-header{
@@ -774,6 +1087,232 @@
     }
 }
 
+@media(max-width: 812px){
+    #home-header{
+        position: absolute;
+        height: 173px;
+        width: 370px;
+        top: 7px;
+        left: 253px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    
+    #home-header .logo{
+        position: relative;
+        left: 40px;
+    }
+    
+    #home-header .search-container {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        top: 0px;
+    }
+    
+    #home-header .search {
+        position: relative;
+        left: 0px;
+        top: 0px;
+        height: 29px;
+        width: 324px;
+        border: none;
+        border-bottom: 1px solid #324950;
+        background: transparent;
+        font-size: 16px;
+        outline: none;
+        color: #324950;
+        margin-top: 18px;
+    }
+    
+    #home-header .search::placeholder {
+        color: #324950; 
+        opacity: 1; 
+    }
+    
+    #home-header .search-icon {
+        position: absolute;
+        left: 328px;
+        top: 26.9px;
+        padding: 0px 0px 3px 0px;
+        cursor: pointer;
+        border: none;
+        background: none;
+        box-shadow: none;
+        border-bottom: 1px solid #324950;
+    }
+    
+    #home-header .search-icon svg{
+        fill: #324950;
+    }
+    
+    
+    #home-header .search-container nav { 
+        margin-top: 53px; 
+        display: none;
+    }
+    
+    #home-header .search-container nav ul {
+        list-style: none;
+        font-size: 18px;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        gap: 15px;
+    }
+    
+    #home-header .search-container nav ul li a {
+        color: #324950;
+        text-decoration: none;
+        font-family: 'Heebo';
+    }
+    
+    
+    #home-header .search-container nav ul li a:hover {
+        background-color: #d4e7b5; 
+        color: #2c3a2f; 
+    }
+
+    #home-header .burger {
+        display: block;
+        position: absolute;
+        width: 130px;
+        top: 0px;
+        left: 370px;
+        z-index: 1000;
+        text-align: right;
+    }
+
+    #home-header .burger label {
+        position: relative;
+        display: flex;
+        height: 25px;
+        width: 25px;
+    }
+    
+    #home-header .burger label::after, label::before, label span {
+        position: absolute;
+        width: 100%;
+        height: 3px;
+        background-color: #324950;
+        transition: .3s;
+    }
+
+    #home-header .burger label::before {
+        content: "";
+        top: 1px;
+    }
+
+    #home-header .burger label::after {
+        content: "";
+        bottom: 1px;
+    }
+
+    #home-header .burger label span {
+        top: 11px;
+    }
+
+    #home-header .burger #burger-toggle:checked ~ label::after {
+        transform: rotate(45deg);
+        bottom: 10px;
+    }
+
+    #home-header .burger #burger-toggle:checked ~ label::before {
+        transform: rotate(-45deg);
+        top: 12px;
+    }
+
+    #home-header .burger #burger-toggle:checked ~ label span {
+        transform: rotate(-45deg);
+        top: 12px;
+    }
+
+    #home-header .burger #burger-toggle:checked ~ nav {
+        left: 0px;
+        right: 0;
+    }
+
+    #home-header .burger nav {
+        margin-top: 13px;
+        background-color: #324950;
+        position: absolute;
+        text-align: center;
+        width: 220px;
+        margin: 10px 0 0 0;
+        right: -130px;
+        left: -1110px;
+    }
+
+    #home-header .burger nav ul {
+        list-style: none;
+        font-size: 18px;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    #home-header .burger nav ul li a {
+        color: #ffffff;
+        text-decoration: none;
+        font-family: 'Heebo';
+    }
+
+    #home-header nav ul li a:hover {
+        background-color: #d4e7b5; 
+        color: #2c3a2f; 
+    }
+
+    .H-Banner {
+        width: 100%; 
+        height: 850px; 
+        overflow: hidden; 
+    }
+    
+    .H-Banner img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover; 
+        object-position: 0%; 
+        display: block;
+    }
+    
+    .Group_29{
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        left: 71px;
+        top: 310px;
+        width: 670px;
+        height: 132px;
+        align-items: flex-start;
+    }
+    
+    .Group_29 h1 {
+        font-size: 40px;
+        color: #735440;
+        font-family: 'Roboto Slab';
+        margin: 0 0 0px 0;
+    }
+    
+    .Group_29 button {
+        margin-top: 25px; 
+        align-self: center;
+        width: 160px;
+        height: 55px;
+        color: #FFFFFF;
+        font-family: 'Roboto';
+        font-size: 14px;
+        background-color: #57984C;
+        border: none;
+        cursor: pointer;
+    }
+}
+
 @media(max-width: 768px){
     #home-header{
         position: absolute;
@@ -1006,6 +1545,32 @@
         background-color: #57984C;
         border: none;
         cursor: pointer;
+    }
+}
+
+@media(max-width: 668px){
+    #home-header{
+        left: 200px;
+    }
+    #home-header .burger #burger-toggle:checked ~ nav {
+        left: -520px;
+        right: 0;
+    }
+    #home-header .burger nav {
+        width: 668px;
+        height: 255px;
+    }
+    #home-header .burger nav ul {
+        font-size: 16px;
+        gap: 25px;
+    }
+    .H-Banner {
+        width: 668px;
+    }
+    .Group_29{
+        top: 298px;
+        left: 85px;
+        height: 117px;
     }
 }
 
@@ -1710,6 +2275,241 @@
     }
 }
 
+@media(max-width: 376px){
+    #home-header{
+        position: absolute;
+        height: 160px;
+        width: 255px;
+        top: 7px;
+        left: 64px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    
+    #home-header .logo{
+        position: relative;
+        left: 45px;
+        width: 160px;
+        height: 80px;
+    }
+
+    #home-header .logo img{
+        position: relative;
+        width: 100%;
+        height: 100%;
+    }
+    
+    #home-header .search-container {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        top: 0px;
+    }
+    
+    #home-header .search {
+        position: relative;
+        left: 0px;
+        top: 0px;
+        height: 29px;
+        width: 230px;
+        border: none;
+        border-bottom: 1px solid #324950;
+        background: transparent;
+        font-size: 16px;
+        outline: none;
+        margin: 0 0 0 0;
+    }
+    
+    #home-header .search::placeholder {
+        color: #324950; 
+        opacity: 1; 
+    }
+    
+    #home-header .search-icon {
+        position: absolute;
+        left: 234px;
+        top: 8.9px;
+        padding: 0px 0px 3px 0px;
+        cursor: pointer;
+        border: none;
+        background: none;
+        box-shadow: none;
+        border-bottom: 1px solid #324950;
+    }
+    
+    #home-header .search-icon svg{
+        fill: #324950;
+    }
+    
+    
+    #home-header .search-container nav { 
+        margin-top: 53px; 
+        display: none;
+    }
+    
+    #home-header .search-container nav ul {
+        list-style: none;
+        font-size: 18px;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        gap: 15px;
+    }
+    
+    #home-header .search-container nav ul li a {
+        color: #324950;
+        text-decoration: none;
+        font-family: 'Heebo';
+    }
+    
+    
+    #home-header .search-container nav ul li a:hover {
+        background-color: #d4e7b5; 
+        color: #2c3a2f; 
+    }
+
+    #home-header .burger {
+        display: block;
+        position: absolute;
+        width: 26px;
+        top: 0px;
+        left: 225px;
+        z-index: 1000;
+        text-align: right;
+    }
+
+    #home-header .burger label {
+        position: relative;
+        display: flex;
+        height: 25px;
+        width: 25px;
+    }
+    
+    #home-header .burger label::after, label::before, label span {
+        position: absolute;
+        width: 100%;
+        height: 3px;
+        background-color: #324950;
+        transition: .3s;
+    }
+
+    #home-header .burger label::before {
+        content: "";
+        top: 1px;
+    }
+
+    #home-header .burger label::after {
+        content: "";
+        bottom: 1px;
+    }
+
+    #home-header .burger label span {
+        top: 11px;
+    }
+
+    #home-header .burger #burger-toggle:checked ~ label::after {
+        transform: rotate(45deg);
+        bottom: 10px;
+    }
+
+    #home-header .burger #burger-toggle:checked ~ label::before {
+        transform: rotate(-45deg);
+        top: 12px;
+    }
+
+    #home-header .burger #burger-toggle:checked ~ label span {
+        transform: rotate(-45deg);
+        top: 12px;
+    }
+
+    #home-header .burger #burger-toggle:checked ~ nav {
+        left: -290px;
+        right: 0;
+    }
+
+    #home-header .burger nav {
+        margin-top: 13px;
+        background-color: #324950;
+        position: absolute;
+        text-align: center;
+        width: 376px;
+        height: 250px;
+        margin: 10px 0 0 0;
+        right: -130px;
+        left: -1344px;
+    }
+
+    #home-header .burger nav ul {
+        list-style: none;
+        font-size: 17px;
+        padding: 0;
+        margin: 10px 0 0 0;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    
+    #home-header .burger nav ul li a {
+        color: #ffffff;
+        text-decoration: none;
+        font-family: 'Heebo';
+    }
+
+    #home-header nav ul li a:hover {
+        background-color: #d4e7b5; 
+        color: #2c3a2f; 
+    }
+
+    .H-Banner {
+        width: 100%; 
+        height: 850px; 
+        overflow: hidden; 
+    }
+    
+    .H-Banner img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover; 
+        object-position: 0%; 
+        display: block;
+    } 
+    
+    .Group_29{
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        left: 82px;
+        top: 320px;
+        width: 215px;
+        height: 190px;
+        align-items: flex-start;
+    }
+    
+    .Group_29 h1 {
+        font-size: 28px;
+        color: #735440;
+        font-family: 'Roboto Slab';
+        margin: 0 0 0px 0px;
+        text-align: center;
+    }
+    
+    .Group_29 button {
+        margin-top: 20px; 
+        align-self: center;
+        width: 100px;
+        height: 50px;
+        color: #FFFFFF;
+        font-family: 'Roboto';
+        font-size: 12px;
+        background-color: #57984C;
+        border: none;
+        cursor: pointer;
+    }
+}
+
 @media(max-width: 320px){
     #home-header{
         position: absolute;
@@ -1947,216 +2747,4 @@
         border: none;
         cursor: pointer;
     }
-}
-
-/* End home */
-
-/* Start tomato all */
-#tomato-header {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    height: 112px;
-    width: 1526px;
-    display: flex;
-    flex-direction: row;
-    gap: 459px;
-    background-color: #FFFFFF;
-    padding-left: 394px;
-}
-
-#tomato-header .t-logo {
-    position: relative;
-    width: 166px;
-    height: 83px;
-    top: 10px;
-}
-
-#tomato-header .t-logo img {
-    position: relative;
-    left: 0px;
-    width: 166px;
-    height: 83px;
-}
-
-#tomato-header .search-container {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    align-items: start;
-    top: 10px;
-    left: 0px;
-}
-
-#tomato-header .search {
-    position: relative;
-    left: 130px;
-    top: 0.3px;
-    height: 29px;
-    width: 356px;
-    border: none;
-    border-bottom: 1px solid #324950;
-    background: transparent;
-    font-size: 16px;
-    outline: none;
-    color: #324950;
-}
-
-#tomato-header .search::placeholder {
-    color: #324950;
-    opacity: 1;
-}
-
-#tomato-header .search-icon {
-    position: absolute;
-    left: 490px;
-    top: 8.9px;
-    padding: 0px 0px 3px 0px;
-    cursor: pointer;
-    border: none;
-    background: none;
-    box-shadow: none;
-    border-bottom: 1px solid #324950;
-}
-
-#tomato-header .search-icon svg {
-    fill: #324950;
-}
-
-#tomato-header nav {
-    align-self: end;  
-    margin-top: 25px;
-    text-align: right;
-}
-
-#tomato-header nav ul {
-    list-style: none;
-    font-size: 18px;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    gap: 15px;
-}
-
-#tomato-header nav ul li {
-    font-weight: 510;
-}
-
-
-#tomato-header nav ul li a {
-    color: #324950;
-    text-decoration: none;
-    font-family: 'Heebo', sans-serif;
-}
-
-.T-Banner {
-    position: absolute;
-    left: 0px;
-    top: 122px;
-    width: 1920px;
-    height: 480px;
-}
-/* End Tomato */
-
-/* Start tomato one */
-#tomato-header-one {
-    position: absolute;
-    display: flex;
-    flex-direction: row;
-    top: 0px;
-    left: 0px;
-    height: 112px;
-    width: 1526px;
-    padding-left: 394px;
-    gap: 444px;
-    display: flex;
-    background-color: #FFFFFF;
-    box-shadow: 0 0px 10px rgb(0,0,0,.8);
-}
-
-#tomato-header-one .t-logo {
-    position: relative;
-    width: 166px;
-    height: 83px;
-    top: 10px;
-}
-
-#tomato-header-one .t-logo img {
-    position: relative;
-    left: 0px;
-    width: 100%;
-    height: 100%;
-}
-
-#tomato-header-one .search-container {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    align-items: start;
-    width: 510px;
-    top: 10px;
-    left: 0px;
-    height: 100px;
-}
-
-#tomato-header-one .search {
-    position: relative;
-    align-self: end; 
-    right: 16px;
-    top: 0.3px;
-    height: 29px;
-    width: 356px;
-    border: none;
-    border-bottom: 1px solid #324950;
-    background: transparent;
-    font-size: 16px;
-    outline: none;
-    color: #324950;
-}
-
-#tomato-header-one .search::placeholder {
-    color: #324950;
-    opacity: 1;
-}
-
-#tomato-header-one .search-icon {
-    position: absolute;
-    left: 494px;
-    top: 8.9px;
-    padding: 0px 0px 3px 0px;
-    cursor: pointer;
-    border: none;
-    background: none;
-    box-shadow: none;
-    border-bottom: 1px solid #324950;
-}
-
-#tomato-header-one .search-icon svg {
-    fill: #324950;
-}
-
-#tomato-header-one nav {
-    align-self: end;  
-    margin-top: 25px;
-    text-align: right;
-}
-
-#tomato-header-one nav ul {
-    list-style: none;
-    font-size: 18px;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    gap: 15px;
-}
-
-#tomato-header-one nav ul li {
-    font-weight: 510;
-}
-
-
-#tomato-header-one nav ul li a {
-    color: #324950;
-    text-decoration: none;
-    font-family: 'Heebo', sans-serif;
 }
