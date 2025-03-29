@@ -508,1126 +508,6 @@
     height: 52px;
     margin: 19px 0 0 0;
 }
-/* End home */
-
-/* Start tomato */
-.tomato-main {
-    position: absolute;
-    height: 2291px;
-    width: 1920px;
-    left: 0px;
-    top: 602px;
-    background-color: #FCF0F0;
-}
-
-.tomato-main .Group_6 {
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-    width: 827px;
-    height: 109.24px;
-    left: 405px;
-    top: 51px;
-}
-
-.tomato-main .Group_6 h1 {
-    color: #324950;
-    font-family: 'Roboto Slab';
-    font-weight: bold;
-    font-size: 44px;
-    margin: 0 0 40px 0;
-}
-
-.tomato-main .Group_6 .Crosses{
-    position: relative;
-    display: flex;
-    flex-direction: row;
-    gap: 3px; 
-    align-items: center;
-    margin: none;
-    padding: none;
-}
-
-.tomato-main .Group_6 .Crosses svg {
-    fill: #57984C;
-    width: 10px;
-    height: 18px;
-}
-
-.tomato-main .Group_6 .Crosses svg path {
-    stroke: #57984C;
-    stroke-width: 5px; 
-    stroke-linecap: round;
-}
-
-.tomato-main .Text{
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-    text-align: justify;
-    width: 1097px;
-    height: 290px;
-    left: 405px;
-    top: 201px;
-    color: #324950;
-    font-family: 'Roboto Slab';
-    font-size: 17px;
-    gap: 39px;
-}
-
-.tomato-main .Text p {
-    margin: 0;
-}
-
-.tomato-main .Text-1 {
-    position: absolute;
-    display: flex;
-    flex-direction: row;
-    width: 1066px;
-    height: 60px;
-    left: 405.5px;
-    top: 511.5px;
-    gap: 26px;
-}
-
-.tomato-main .Text-1 hr {
-    width: 4px;
-    height: 60px;
-    background: #EB5757;
-    border-radius: 4px;
-    margin: 0;
-    border: none;
-}
-
-.tomato-main .Text-1 p {
-    margin: 0;
-    margin-top: 6px;
-    color: #324950;
-    font-family: 'Roboto Slab';
-    font-size: 17px;
-}
-
-.tomato-main .Text-2 {
-    position: absolute;
-    display: flex;
-    flex-direction: row;
-    width: 1152px;
-    height: 449.5px;
-    left: 385px;
-    top: 601.5px;
-    background-color: #FFFAFA;
-    gap: 30px;
-    padding: 50px 0px 0 20px;
-}
-
-.tomato-main .Text-2 .container-1 {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    width: 350px;
-}
-
-.tomato-main .Text-2 .container-1 h4 {
-    margin: 0;
-    color: #324950;
-    width: 350px;
-    height: 58px;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-}
-
-.tomato-main .Text-2 .container-1 hr {
-    margin: 0;
-    border: 1px solid #324950;
-}
-
-.tomato-main .Text-2 .container-1 p {
-    margin: 0;
-    color: #324950;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 17px;
-    height: 212px;
-}
-
-.tomato-main .Text-2 .container-2 {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    width: 350px;
-    width: 350px;
-}
-
-.tomato-main .Text-2 .container-2 h4 {
-    margin: 0;
-    color: #324950;
-    width: 350px;
-    height: 58px;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-}
-
-.tomato-main .Text-2 .container-2 hr {
-    margin: 0;
-    border: 1px solid #324950;
-}
-
-.tomato-main .Text-2 .container-2 p {
-    margin: 0;
-    color: #324950;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 17px;
-    height: 212px;
-}
-
-.tomato-main .Text-2 .container-3 {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    width: 350px;
-    width: 350px;
-}
-
-.tomato-main .Text-2 .container-3 h4 {
-    margin: 0;
-    color: #324950;
-    width: 350px;
-    height: 58px;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-}
-
-.tomato-main .Text-2 .container-3 hr {
-    margin: 0;
-    border: 1px solid #324950;
-}
-
-.tomato-main .Text-2 .container-3 p {
-    margin: 0;
-    color: #324950;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 17px;
-    height: 262px;
-}
-
-.tomato-main .Text-3 {
-    position: absolute;
-    display: flex;
-    flex-direction: row;
-    width: 1066px;
-    height: 40px;
-    left: 405.5px;
-    top: 1141px;
-    gap: 26px;
-}
-
-.tomato-main .Text-3 hr {
-    width: 4px;
-    height: 40px;
-    background: #EB5757;
-    border-radius: 4px;
-    margin: 0;
-    border: none;
-}
-
-.tomato-main .Text-3 p {
-    margin: 0;
-    margin-top: 6px;
-    color: #324950;
-    font-family: 'Roboto Slab';
-    font-size: 17px;
-    font-weight: bold;
-}
-
-.tomato-main .Groups {
-    position: relative;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    left: 405px;
-    top: 1221px;
-    width: 1110px;
-    height: 1023px;
-    gap: 30px;
-}
-
-.tomato-main .Groups .Group_9 {
-    position: relative;
-    width: 350px;
-    height: 321px;
-}
-
-.tomato-main .Groups .Group_9  img{
-    display: block;
-    width: 350px;
-    height: 320px;
-}
-
-.tomato-main .Groups .Group_9 .tag-1{
-    position: relative;
-    display: block;
-    width: 350px;
-    height: 69px;
-    background-color: #FFFFFF;
-    text-align: center;
-    padding-top: 9px;
-    top: -80px;
-}
-
-.tomato-main .Groups .Group_9 h3 {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 20px;
-}
-
-.tomato-main .Groups .Group_9 p {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 16px;
-}
-
-.tomato-main .Groups .Group_9 a {
-    text-decoration: none;
-}
-
-.tomato-main .Groups .Group_9 a:hover {
-    text-decoration: underline;
-    color: #57984C;
-}
-
-.tomato-main .Groups .Group_10 {
-    position: relative;
-    width: 350px;
-    height: 321px;
-}
-
-.tomato-main .Groups .Group_10  img{
-    display: block;
-    width: 350px;
-    height: 318px;
-}
-
-.tomato-main .Groups .Group_10 .tag-2{
-    position: relative;
-    display: block;
-    width: 350px;
-    height: 69px;
-    background-color: #FFFFFF;
-    text-align: center;
-    padding-top: 9px;
-    top: -78px;
-}
-
-.tomato-main .Groups .Group_10 h3 {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 20px;
-}
-
-.tomato-main .Groups .Group_10 p {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 16px;
-}
-
-.tomato-main .Groups .Group_10 a {
-    text-decoration: none;
-}
-
-.tomato-main .Groups .Group_10 a:hover {
-    text-decoration: underline;
-    color: #57984C;
-}
-
-.tomato-main .Groups .Group_11 {
-    position: relative;
-    width: 350px;
-    height: 321px;
-}
-
-.tomato-main .Groups .Group_11  img{
-    display: block;
-    width: 350px;
-    height: 318px;
-}
-
-.tomato-main .Groups .Group_11 .tag-3{
-    position: relative;
-    display: block;
-    width: 350px;
-    height: 69px;
-    background-color: #FFFFFF;
-    text-align: center;
-    padding-top: 9px;
-    top: -78px;
-}
-
-.tomato-main .Groups .Group_11 h3 {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 20px;
-}
-
-.tomato-main .Groups .Group_11 p {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 16px;
-}
-
-.tomato-main .Groups .Group_11 a {
-    text-decoration: none;
-}
-
-.tomato-main .Groups .Group_11 a:hover {
-    text-decoration: underline;
-    color: #57984C;
-}
-
-.tomato-main .Groups .Group_12 {
-    position: relative;
-    width: 350px;
-    height: 321px;
-}
-
-.tomato-main .Groups .Group_12  img{
-    display: block;
-    width: 350px;
-    height: 318px;
-}
-
-.tomato-main .Groups .Group_12 .tag-4{
-    position: relative;
-    display: block;
-    width: 350px;
-    height: 69px;
-    background-color: #FFFFFF;
-    text-align: center;
-    padding-top: 9px;
-    top: -78px;
-}
-
-.tomato-main .Groups .Group_12 h3 {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 20px;
-}
-
-.tomato-main .Groups .Group_12 p {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 16px;
-}
-
-.tomato-main .Groups .Group_12 a {
-    text-decoration: none;
-}
-
-.tomato-main .Groups .Group_12 a:hover {
-    text-decoration: underline;
-    color: #57984C;
-}
-
-.tomato-main .Groups .Group_13 {
-    position: relative;
-    width: 350px;
-    height: 321px;
-}
-
-.tomato-main .Groups .Group_13  img{
-    display: block;
-    width: 350px;
-    height: 318px;
-}
-
-.tomato-main .Groups .Group_13 .tag-5{
-    position: relative;
-    display: block;
-    width: 350px;
-    height: 69px;
-    background-color: #FFFFFF;
-    text-align: center;
-    padding-top: 9px;
-    top: -78px;
-}
-
-.tomato-main .Groups .Group_13 h3 {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 20px;
-}
-
-.tomato-main .Groups .Group_13 p {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 16px;
-}
-
-.tomato-main .Groups .Group_13 a {
-    text-decoration: none;
-}
-
-.tomato-main .Groups .Group_13 a:hover {
-    text-decoration: underline;
-    color: #57984C;
-}
-
-.tomato-main .Groups .Group_14 {
-    position: relative;
-    width: 350px;
-    height: 321px;
-}
-
-.tomato-main .Groups .Group_14  img{
-    display: block;
-    width: 350px;
-    height: 318px;
-}
-
-.tomato-main .Groups .Group_14 .tag-6{
-    position: relative;
-    display: block;
-    width: 350px;
-    height: 69px;
-    background-color: #FFFFFF;
-    text-align: center;
-    padding-top: 9px;
-    top: -78px;
-}
-
-.tomato-main .Groups .Group_14 h3 {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 20px;
-}
-
-.tomato-main .Groups .Group_14 p {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 16px;
-}
-
-.tomato-main .Groups .Group_14 a {
-    text-decoration: none;
-}
-
-.tomato-main .Groups .Group_14 a:hover {
-    text-decoration: underline;
-    color: #57984C;
-}
-
-.tomato-main .Groups .Group_15 {
-    position: relative;
-    width: 350px;
-    height: 321px;
-}
-
-.tomato-main .Groups .Group_15  img{
-    display: block;
-    width: 350px;
-    height: 318px;
-}
-
-.tomato-main .Groups .Group_15 .tag-7{
-    position: relative;
-    display: block;
-    width: 350px;
-    height: 69px;
-    background-color: #FFFFFF;
-    text-align: center;
-    padding-top: 9px;
-    top: -78px;
-}
-
-.tomato-main .Groups .Group_15 h3 {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 20px;
-}
-
-.tomato-main .Groups .Group_15 p {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 16px;
-}
-
-.tomato-main .Groups .Group_15 a {
-    text-decoration: none;
-}
-
-.tomato-main .Groups .Group_15 a:hover {
-    text-decoration: underline;
-    color: #57984C;
-}
-
-.tomato-main .Groups .Group_16 {
-    position: relative;
-    width: 350px;
-    height: 321px;
-}
-
-.tomato-main .Groups .Group_16  img{
-    display: block;
-    width: 350px;
-    height: 318px;
-}
-
-.tomato-main .Groups .Group_16 .tag-8{
-    position: relative;
-    display: block;
-    width: 350px;
-    height: 69px;
-    background-color: #FFFFFF;
-    text-align: center;
-    padding-top: 9px;
-    top: -78px;
-}
-
-.tomato-main .Groups .Group_16 h3 {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 20px;
-}
-
-.tomato-main .Groups .Group_16 p {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 16px;
-}
-
-.tomato-main .Groups .Group_16 a {
-    text-decoration: none;
-}
-
-.tomato-main .Groups .Group_16 a:hover {
-    text-decoration: underline;
-    color: #57984C;
-}
-/* End tomato */
-
-/* Start tomato one */
-#tomato-body-one {
-    background-image: url("/images/Union 2.png");
-    background-color: #F7F7F7;
-    background-repeat: no-repeat;
-    background-position: 235.88px 66.87px;
-}
-
-#tomato-body-one .Return {
-    position: relative;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    text-align: center;
-    width: 185px;
-    height: 23px;
-    left: 390px;
-    top: 140px;
-}
-
-#tomato-body-one .Return svg {
-    padding: 2px;
-    fill: #57984C;
-}
-
-#tomato-body-one .Return p {
-    margin: 0px;
-    font-family: 'Roboto Slab';
-    font-style: normal;
-    font-size: 14px;
-    cursor: pointer;
-}
-
-#tomato-body-one .Return a {
-    text-decoration: none;
-    color: #57984C;
-}
-
-#tomato-body-one .Return a:hover {
-    text-decoration: underline;
-}
-
-#tomato-body-one .Group_6 {
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-    width: 526px;
-    height: 277.24px;
-    top: 182px;
-    left: 405px;
-}
-
-#tomato-body-one .Group_6 h1 {
-    margin: 0;
-    font-size: 54px;
-    font-family: 'Roboto Slab';
-    font-style: bold;
-    color: #57984C;
-}
-
-#tomato-body-one .Group_6 .Crosses{
-    display: flex;
-    flex-direction: row;
-    gap: 4px; 
-    align-items: center;
-    margin: none;
-    padding: none;
-    margin-top: 40px;
-}
-
-#tomato-body-one .Group_6 .Crosses svg {
-    fill: #57984C;
-    width: 10px;
-    height: 18px;
-}
-
-#tomato-body-one .Group_6 .Crosses svg path {
-    stroke: #57984C;
-    stroke-width: 5px; 
-    stroke-linecap: round;
-}
-
-#tomato-body-one .image {
-    position: absolute;
-    width: 540px;
-    height: 498px;
-    top: 182px;
-    left: 975px;
-}
-
-#tomato-body-one .image img {
-    width: 100%;
-    height: 100%;
-}
-
-#tomato-body-one .Group_18 {
-    position: absolute;
-    display: flex;
-    flex-direction: row;
-    gap: 23px;
-    width: 498px;
-    height: 86px;
-    left: 405px;
-    top: 501px;
-}
-
-#tomato-body-one .Group_18 img {
-    width: 80px;
-    height: 80.04px;
-}
-
-#tomato-body-one .Group_18 p {
-    margin: 0;
-    color: #CF2333;
-    font-family: 'Roboto Slab';
-    font-weight: bold;
-    font-size: 30px;
-}
-
-#tomato-body-one .Group_25 {
-    position: absolute;
-    width: 495px;
-    height: 149px;
-    left: 405px;
-    top: 627px;
-}
-
-#tomato-body-one .Group_25 h4 {
-    margin: 0;
-    color: #57984C;
-    font-family: 'Roboto Slab';
-    font-weight: bold;
-    font-size: 20px;
-}
-
-#tomato-body-one .Group_25 hr {
-    margin: 0;
-    margin-top: 12px;
-    width: 183px;
-    border: 0;
-    height: 1px;
-    background-color: #57984C;
-}
-
-#tomato-body-one .Group_25 .no-numbers {
-    list-style-type: none;
-    margin: 0;
-    margin-top: 24px;
-    padding-left: 0;
-    color: #324950;
-    font-family: 'Roboto Slab';
-    font-size: 17px;
-    line-height: 1.5;
-}
-
-#tomato-body-one .Group_26 {
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    gap: 30px 185px;
-    width: 753px;
-    height: 364px;
-    left: 405px;
-    top: 806px;
-}
-
-#tomato-body-one .Group_26 h4 {
-    margin: 0;
-    font-family: 'Roboto Slab';
-    font-weight: bold;
-    font-size: 20px;
-    color: #57984C;
-}
-
-#tomato-body-one .Group_26 hr {
-    margin: 0;
-    margin-top: 9px;
-    width: 183px;
-    border: 0;
-    height: 1px;
-    background-color: #57984C;
-}
-
-#tomato-body-one .Group_26 .custom-list  {
-    margin: 0;
-    margin-top: 24px;
-    list-style-type: disc;
-    padding-left: 14px;
-    color: #324950;
-    font-family: 'Roboto Slab';
-    font-size: 17px;
-    line-height: 2;
-}
-
-#tomato-body-one .Group_26 .custom-list li::marker {
-    color: #57984C;
-}
-
-#tomato-body-one .Group_26 ul {
-    margin: 0;
-    margin-top: 24px;
-    list-style-type: none;
-    padding-left: 0;
-    font-family: 'Roboto Slab';
-    font-size: 17px;
-    color: #324950;
-}
-
-#tomato-body-one .btn {
-    position: absolute;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    width: 225px;
-    height: 55px;
-    font-size: 17px;
-    font-family: 'Roboto Slab', serif;
-    color: #57984C;
-    background-color: #FFFFFF;
-    border: 3px solid #57984C;
-    border-radius: 30px;
-    cursor: pointer;
-    top: 700px;
-    left: 1290px;
-}
-
-#tomato-body-one .btn svg {
-    fill: #57984C;
-}
-/* End tomato one */
-
-/* Start contact us */
-body{
-    background-color: #F7F7F7;
-}
-.C-Banner {
-    position: absolute;
-    width: 1920px;
-    height: 480px;
-    top: 112px;
-    left: 0px;
-}
-
-.C-Banner img {
-    width: 100%;
-    height: 100%;
-}
-
-.Theme {
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-    width: 221px;
-    height: 110px;
-    left: 405px;
-    top: 653px;
-}
-
-.Theme h1 {
-    margin: 0;
-    color: #324950;
-    font-family: 'Roboto Slab';
-    font-weight: bold;
-    font-size: 44px;
-}
-
-.Theme .Crosses{
-    display: flex;
-    flex-direction: row;
-    gap: 4px; 
-    align-items: center;
-    margin: none;
-    padding: none;
-    margin-top: 40px;
-}
-
-.Theme .Crosses svg {
-    fill: #57984C;
-    width: 10px;
-    height: 18px;
-}
-
-.Theme .Crosses svg path {
-    stroke: #57984C;
-    stroke-width: 5px; 
-    stroke-linecap: round;
-}
-
-form {
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    width: 1129px;
-    height: 815px;
-    left: 405px;
-    top: 812.5px;
-    gap: 20px 125px;
-}
-
-form p {
-    font-family: 'Roboto Slab';
-    font-size: 17px;
-    color: #324950;
-    margin: 0;
-    margin-bottom: 11px;
-}
-
-form .text {
-    width: 350px;
-    height: 55px;
-    border-radius: 10px;
-    border: 2px solid #DADADA;
-    font-size: 17px;
-    resize: none;
-    outline: none; 
-    transition: border 0.3s ease-in-out;
-}
-
-form .text:focus {
-    border: 2px solid #324950;
-}
-
-form .text_1 {
-    width: 635px;
-    height: 55px;
-    border-radius: 10px;
-    border: 2px solid #DADADA;
-    font-size: 17px;
-    resize: none;
-    outline: none; 
-    transition: border 0.3s ease-in-out;
-}
-
-form .text_1:focus {
-    border: 2px solid #324950;
-}
-
-form .text_2 {
-    width: 633.9px;
-    height: 390.75px;
-    border-radius: 10px;
-    border: 2px solid #DADADA;
-    resize: none;
-    outline: none; 
-    transition: border 0.3s ease-in-out;
-    font-size: 17px;
-    text-align: left;
-}
-
-form .text_2:focus{
-    border: 2px solid #324950;
-}
-
-form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
-    width: 360px;
-}
-
-form .Type {
-    margin-top: 8px;
-}
-
-form .Type .Code {
-    width: 635px;
-    height: 62px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    gap: 30px;
-}
-
-form .Type .Code img {
-    margin-top: 1px;
-    width: 99px;
-    height: 27px;
-}
-
-form .text_3 {
-    width: 225px;
-    height: 55px;
-    border-radius: 10px;
-    border: 2px solid #DADADA;
-    font-size: 17px;
-    resize: none;
-    outline: none; 
-    transition: border 0.3s ease-in-out;
-}
-
-form .text_3:focus{
-    border: 2px solid #324950;
-}
-
-form .text_4 {
-    padding-left: 10px;
-    width: 645px;
-    height: 55px;
-    border-radius: 10px;
-    border: 2px solid #DADADA;
-    color: #324950;
-    font-size: 17px;
-    appearance: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    cursor: pointer;
-    background-image: url('/images/right-arrow-svgrepo-com.svg');
-    background-repeat: no-repeat;
-    background-position: right 10px center;
-    background-size: 16px;
-    resize: none;
-    outline: none; 
-    transition: border 0.3s ease-in-out;
-}
-
-form .text_4:focus{
-    border: 2px solid #324950;
-}
-
-form .Type .Code button {
-    width: 255px;
-    height: 55px;
-    font-family: 'Roboto Slab';
-    font-size: 17px;
-    color: #FFFFFF;
-    background-color: #57984C;
-    border-radius: 27.5px;
-    border: none;
-    cursor: pointer;
-}
-
-.Address {
-    position: absolute;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    width: 1920px;
-    height: 250px;
-    left: 0px;
-    top: 1626px;
-    background-color: #FFFFFF;
-}
-
-.Address .Group_28 {
-    width: 288px;
-    height: 172px;
-}
-
-.Address .Group_28 h4 {
-    font-family: 'Roboto Slab';
-    font-weight: bold;
-    font-size: 20px;
-    color: #57984C;
-    margin: 0;
-}
-
-.Address .Group_28 hr {
-    width: 183px;
-    border: 1px solid #57984C;
-}
-
-.Address .Group_28 p {
-    margin: 0;
-    margin-top: 4px;
-    font-family: 'Roboto Slab';
-    font-size: 17px;
-    color: #324950;
-}
-
-.Address .Group_28 .phone .number {
-    color: #57984C;
-    text-decoration: none;
-}
-
-.Address .Group_28 .phone .number:hover {
-    text-decoration: underline;
-}
-/* End contact us */
 
 @media(max-width: 1600px) {
     .Products {
@@ -7578,3 +6458,2862 @@ form .Type .Code button {
         margin: 10px 0 0px 0;
     }
 }
+/* End home */
+
+/* Start tomato */
+.tomato-main {
+    position: absolute;
+    height: 2291px;
+    width: 1920px;
+    left: 0px;
+    top: 602px;
+    background-color: #FCF0F0;
+}
+
+.tomato-main .Group_6 {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 827px;
+    height: 109.24px;
+    left: 405px;
+    top: 51px;
+}
+
+.tomato-main .Group_6 h1 {
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-weight: bold;
+    font-size: 44px;
+    margin: 0 0 40px 0;
+}
+
+.tomato-main .Group_6 .Crosses{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    gap: 3px; 
+    align-items: center;
+    margin: none;
+    padding: none;
+}
+
+.tomato-main .Group_6 .Crosses svg {
+    fill: #57984C;
+    width: 10px;
+    height: 18px;
+}
+
+.tomato-main .Group_6 .Crosses svg path {
+    stroke: #57984C;
+    stroke-width: 5px; 
+    stroke-linecap: round;
+}
+
+.tomato-main .Text{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    width: 1097px;
+    height: 290px;
+    left: 405px;
+    top: 201px;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-size: 17px;
+    gap: 39px;
+}
+
+.tomato-main .Text p {
+    margin: 0;
+}
+
+.tomato-main .Text-1 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    width: 1066px;
+    height: 60px;
+    left: 405.5px;
+    top: 511.5px;
+    gap: 26px;
+}
+
+.tomato-main .Text-1 hr {
+    width: 4px;
+    height: 60px;
+    background: #EB5757;
+    border-radius: 4px;
+    margin: 0;
+    border: none;
+}
+
+.tomato-main .Text-1 p {
+    margin: 0;
+    margin-top: 6px;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-size: 17px;
+}
+
+.tomato-main .Text-2 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    width: 1152px;
+    height: 449.5px;
+    left: 385px;
+    top: 601.5px;
+    background-color: #FFFAFA;
+    gap: 30px;
+    padding: 50px 0px 0 20px;
+}
+
+.tomato-main .Text-2 .container-1 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 350px;
+}
+
+.tomato-main .Text-2 .container-1 h4 {
+    margin: 0;
+    color: #324950;
+    width: 350px;
+    height: 58px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.tomato-main .Text-2 .container-1 hr {
+    margin: 0;
+    border: 1px solid #324950;
+}
+
+.tomato-main .Text-2 .container-1 p {
+    margin: 0;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 17px;
+    height: 212px;
+}
+
+.tomato-main .Text-2 .container-2 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 350px;
+    width: 350px;
+}
+
+.tomato-main .Text-2 .container-2 h4 {
+    margin: 0;
+    color: #324950;
+    width: 350px;
+    height: 58px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.tomato-main .Text-2 .container-2 hr {
+    margin: 0;
+    border: 1px solid #324950;
+}
+
+.tomato-main .Text-2 .container-2 p {
+    margin: 0;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 17px;
+    height: 212px;
+}
+
+.tomato-main .Text-2 .container-3 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 350px;
+    width: 350px;
+}
+
+.tomato-main .Text-2 .container-3 h4 {
+    margin: 0;
+    color: #324950;
+    width: 350px;
+    height: 58px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.tomato-main .Text-2 .container-3 hr {
+    margin: 0;
+    border: 1px solid #324950;
+}
+
+.tomato-main .Text-2 .container-3 p {
+    margin: 0;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 17px;
+    height: 262px;
+}
+
+.tomato-main .Text-3 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    width: 1066px;
+    height: 40px;
+    left: 405.5px;
+    top: 1141px;
+    gap: 26px;
+}
+
+.tomato-main .Text-3 hr {
+    width: 4px;
+    height: 40px;
+    background: #EB5757;
+    border-radius: 4px;
+    margin: 0;
+    border: none;
+}
+
+.tomato-main .Text-3 p {
+    margin: 0;
+    margin-top: 6px;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.tomato-main .Groups {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    left: 405px;
+    top: 1221px;
+    width: 1110px;
+    height: 1023px;
+    gap: 30px;
+}
+
+.tomato-main .Groups .Group_9 {
+    position: relative;
+    width: 350px;
+    height: 321px;
+}
+
+.tomato-main .Groups .Group_9  img{
+    display: block;
+    width: 350px;
+    height: 320px;
+}
+
+.tomato-main .Groups .Group_9 .tag-1{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 69px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    top: -80px;
+}
+
+.tomato-main .Groups .Group_9 h3 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 20px;
+}
+
+.tomato-main .Groups .Group_9 p {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 16px;
+}
+
+.tomato-main .Groups .Group_9 a {
+    text-decoration: none;
+}
+
+.tomato-main .Groups .Group_9 a:hover {
+    text-decoration: underline;
+    color: #57984C;
+}
+
+.tomato-main .Groups .Group_10 {
+    position: relative;
+    width: 350px;
+    height: 321px;
+}
+
+.tomato-main .Groups .Group_10  img{
+    display: block;
+    width: 350px;
+    height: 318px;
+}
+
+.tomato-main .Groups .Group_10 .tag-2{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 69px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    top: -78px;
+}
+
+.tomato-main .Groups .Group_10 h3 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 20px;
+}
+
+.tomato-main .Groups .Group_10 p {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 16px;
+}
+
+.tomato-main .Groups .Group_10 a {
+    text-decoration: none;
+}
+
+.tomato-main .Groups .Group_10 a:hover {
+    text-decoration: underline;
+    color: #57984C;
+}
+
+.tomato-main .Groups .Group_11 {
+    position: relative;
+    width: 350px;
+    height: 321px;
+}
+
+.tomato-main .Groups .Group_11  img{
+    display: block;
+    width: 350px;
+    height: 318px;
+}
+
+.tomato-main .Groups .Group_11 .tag-3{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 69px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    top: -78px;
+}
+
+.tomato-main .Groups .Group_11 h3 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 20px;
+}
+
+.tomato-main .Groups .Group_11 p {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 16px;
+}
+
+.tomato-main .Groups .Group_11 a {
+    text-decoration: none;
+}
+
+.tomato-main .Groups .Group_11 a:hover {
+    text-decoration: underline;
+    color: #57984C;
+}
+
+.tomato-main .Groups .Group_12 {
+    position: relative;
+    width: 350px;
+    height: 321px;
+}
+
+.tomato-main .Groups .Group_12  img{
+    display: block;
+    width: 350px;
+    height: 318px;
+}
+
+.tomato-main .Groups .Group_12 .tag-4{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 69px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    top: -78px;
+}
+
+.tomato-main .Groups .Group_12 h3 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 20px;
+}
+
+.tomato-main .Groups .Group_12 p {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 16px;
+}
+
+.tomato-main .Groups .Group_12 a {
+    text-decoration: none;
+}
+
+.tomato-main .Groups .Group_12 a:hover {
+    text-decoration: underline;
+    color: #57984C;
+}
+
+.tomato-main .Groups .Group_13 {
+    position: relative;
+    width: 350px;
+    height: 321px;
+}
+
+.tomato-main .Groups .Group_13  img{
+    display: block;
+    width: 350px;
+    height: 318px;
+}
+
+.tomato-main .Groups .Group_13 .tag-5{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 69px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    top: -78px;
+}
+
+.tomato-main .Groups .Group_13 h3 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 20px;
+}
+
+.tomato-main .Groups .Group_13 p {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 16px;
+}
+
+.tomato-main .Groups .Group_13 a {
+    text-decoration: none;
+}
+
+.tomato-main .Groups .Group_13 a:hover {
+    text-decoration: underline;
+    color: #57984C;
+}
+
+.tomato-main .Groups .Group_14 {
+    position: relative;
+    width: 350px;
+    height: 321px;
+}
+
+.tomato-main .Groups .Group_14  img{
+    display: block;
+    width: 350px;
+    height: 318px;
+}
+
+.tomato-main .Groups .Group_14 .tag-6{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 69px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    top: -78px;
+}
+
+.tomato-main .Groups .Group_14 h3 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 20px;
+}
+
+.tomato-main .Groups .Group_14 p {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 16px;
+}
+
+.tomato-main .Groups .Group_14 a {
+    text-decoration: none;
+}
+
+.tomato-main .Groups .Group_14 a:hover {
+    text-decoration: underline;
+    color: #57984C;
+}
+
+.tomato-main .Groups .Group_15 {
+    position: relative;
+    width: 350px;
+    height: 321px;
+}
+
+.tomato-main .Groups .Group_15  img{
+    display: block;
+    width: 350px;
+    height: 318px;
+}
+
+.tomato-main .Groups .Group_15 .tag-7{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 69px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    top: -78px;
+}
+
+.tomato-main .Groups .Group_15 h3 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 20px;
+}
+
+.tomato-main .Groups .Group_15 p {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 16px;
+}
+
+.tomato-main .Groups .Group_15 a {
+    text-decoration: none;
+}
+
+.tomato-main .Groups .Group_15 a:hover {
+    text-decoration: underline;
+    color: #57984C;
+}
+
+.tomato-main .Groups .Group_16 {
+    position: relative;
+    width: 350px;
+    height: 321px;
+}
+
+.tomato-main .Groups .Group_16  img{
+    display: block;
+    width: 350px;
+    height: 318px;
+}
+
+.tomato-main .Groups .Group_16 .tag-8{
+    position: relative;
+    display: block;
+    width: 350px;
+    height: 69px;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 9px;
+    top: -78px;
+}
+
+.tomato-main .Groups .Group_16 h3 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 20px;
+}
+
+.tomato-main .Groups .Group_16 p {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 16px;
+}
+
+.tomato-main .Groups .Group_16 a {
+    text-decoration: none;
+}
+
+.tomato-main .Groups .Group_16 a:hover {
+    text-decoration: underline;
+    color: #57984C;
+}
+
+@media(max-width: 1600px){
+    .tomato-main {
+        height: 2291px;
+        width: 100%;
+        top: 512px;
+    }
+    .tomato-main .Group_6 {
+        left: 290px;
+    }
+    .tomato-main .Text{
+        left: 290px;
+    }
+    .tomato-main .Text-1 {
+        left: 290px;
+    }
+    .tomato-main .Text-2 {
+        left: 275px;
+    }
+    .tomato-main .Text-3 {
+        left: 290px;
+    }
+    .tomato-main .Groups {
+        left: 290px;
+    }
+}
+
+@media(max-width: 1480px){
+    .tomato-main {
+        height: 2291px;
+        width: 100%;
+        top: 482px;
+    }
+    .tomato-main .Group_6 {
+        left: 200px;
+    }
+    .tomato-main .Text{
+        left: 200px;
+    }
+    .tomato-main .Text-1 {
+        left: 200px;
+    }
+    .tomato-main .Text-2 {
+        left: 185px;
+    }
+    .tomato-main .Text-3 {
+        left: 200px;
+    }
+    .tomato-main .Groups {
+        left: 200px;
+    }
+}
+
+@media(max-width: 1280px){
+    .tomato-main {
+        height: 2291px;
+        width: 100%;
+        top: 432px;
+    }
+    .tomato-main .Group_6 {
+        left: 100px;
+    }
+    .tomato-main .Text{
+        left: 100px;
+    }
+    .tomato-main .Text-1 {
+        left: 100px;
+    }
+    .tomato-main .Text-2 {
+        left: 75px;
+    }
+    .tomato-main .Text-3 {
+        left: 100px;
+    }
+    .tomato-main .Groups {
+        left: 100px;
+    }
+}
+
+@media(max-width: 1024px){
+    .tomato-main {
+        height: 2700px;
+        width: 100%;
+        top: 446px;
+    }
+    .tomato-main .Group_6 {
+        left: 100px;
+        text-align: center;
+        align-items: center;
+    }
+    .tomato-main .Text{
+        left: 10px;
+        width: 1004px;
+        text-align: center;
+    }
+    .tomato-main .Text-1 {
+        width: 1004px;
+        left: 10px;
+    }
+    .tomato-main .Text-2 {
+        left: 0px;
+    }
+    .tomato-main .Text-2 {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        height: 520px;
+        width: 990px;
+        top: 631.5px;
+        left: 0px;
+        gap: 0px 290px;
+        padding-top: 20px;
+    }
+    .tomato-main .Text-2 .container-1 {
+        text-align: center;
+    }
+    .tomato-main .Text-2 .container-1 h4 {
+        font-size: 18px;
+        height: 30px;
+    }
+    .tomato-main .Text-2 .container-1 p{
+        font-size: 15px;
+    }
+    .tomato-main .Text-2 .container-2 {
+        text-align: center;
+    }
+    .tomato-main .Text-2 .container-2 h4 {
+        font-size: 18px;
+        height: 30px;
+    }
+    .tomato-main .Text-2 .container-2 p{
+        font-size: 15px;
+    }
+    .tomato-main .Text-2 .container-3 {
+        text-align: center;
+    }
+    .tomato-main .Text-2 .container-3 h4 {
+        font-size: 18px;
+        height: 30px;
+    }
+    .tomato-main .Text-2 .container-3 p{
+        font-size: 15px;
+        height: 190px;
+    }
+    .tomato-main .Text-3 {
+        left: 10px;
+        top: 1212px;
+        width: 677px;
+    }
+    .tomato-main .Groups {
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        left: 10px;
+        top: 1292px;
+        width: 1004px;
+        height: 1374px;
+        gap: 30px;
+    }
+}
+
+@media(max-width: 812px){
+    .tomato-main {
+        height: 3020px;
+        width: 100%;
+        top: 393px;
+    }
+    .tomato-main .Group_6 {
+        width: 790px;
+        left: 10px;
+        text-align: center;
+        align-items: center;
+    }
+    .tomato-main .Group_6 h1 {
+        font-size: 40px;
+    }
+    .tomato-main .Text{
+        font-size: 16px;
+        left: 10px;
+        width: 790px;
+        text-align: center;
+    }
+    .tomato-main .Text-1 {
+        font-size: 16px;
+        text-align: center;
+        top: 541.5px;
+        width: 790px;
+        left: 10px;
+        height: 75px;
+    }
+    .tomato-main .Text-1 hr {
+        width: 6px;
+        height: 75px;
+    }
+    .tomato-main .Text-2 {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        height: 798px;
+        width: 780px;
+        top: 661.5px;
+        left: 0px;
+        gap: 0px 290px;
+        padding-top: 20px;
+    }
+    .tomato-main .Text-2 .container-1 {
+        text-align: center;
+    }
+    .tomato-main .Text-2 .container-1 h4 {
+        font-size: 18px;
+        height: 30px;
+    }
+    .tomato-main .Text-2 .container-1 p{
+        font-size: 15px;
+    }
+    .tomato-main .Text-2 .container-2 {
+        text-align: center;
+    }
+    .tomato-main .Text-2 .container-2 h4 {
+        font-size: 18px;
+        height: 30px;
+    }
+    .tomato-main .Text-2 .container-2 p{
+        font-size: 15px;
+    }
+    .tomato-main .Text-2 .container-3 {
+        text-align: center;
+    }
+    .tomato-main .Text-2 .container-3 h4 {
+        font-size: 18px;
+        height: 30px;
+    }
+    .tomato-main .Text-2 .container-3 p{
+        font-size: 15px;
+        height: 190px;
+    }
+    .tomato-main .Text-3 {
+        left: 10px;
+        top: 1519px;
+        width: 677px;
+    }
+    .tomato-main .Groups {
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        left: 10px;
+        top: 1599px;
+        width: 790px;
+        height: 1374px;
+        gap: 30px;
+    }
+}
+
+@media(max-width: 768px){
+    .tomato-main {
+        height: 2713px;
+        width: 100%;
+        top: 382px;
+    }
+    .tomato-main .Group_6 {
+        width: 752px;
+        left: 10px;
+        text-align: center;
+        align-items: center;
+    }
+    .tomato-main .Group_6 h1 {
+        font-size: 40px;
+    }
+    .tomato-main .Text{
+        width: 750px;
+        height: 300px;
+        left: 10px;
+        font-size: 15px;
+        text-align: center;
+    }
+    .tomato-main .Text-1 {
+        height: 71px;
+        top: 525.5px;
+        width: 752px;
+        left: 10px;
+        text-align: center;
+        font-size: 15px;
+        gap: 0px;
+    }
+    .tomato-main .Text-1 hr{
+        width: 6px;
+    }
+    .tomato-main .Text-2 {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        height: 520px;
+        width: 730px;
+        top: 631.5px;
+        left: 0px;
+        gap: 0px 30px;
+        padding-top: 20px;
+    }
+    .tomato-main .Text-2 .container-1 {
+        text-align: center;
+    }
+    .tomato-main .Text-2 .container-1 h4 {
+        font-size: 18px;
+        height: 30px;
+    }
+    .tomato-main .Text-2 .container-1 p{
+        font-size: 15px;
+    }
+    .tomato-main .Text-2 .container-2 {
+        text-align: center;
+    }
+    .tomato-main .Text-2 .container-2 h4 {
+        font-size: 18px;
+        height: 30px;
+    }
+    .tomato-main .Text-2 .container-2 p{
+        font-size: 15px;
+    }
+    .tomato-main .Text-2 .container-3 {
+        text-align: center;
+    }
+    .tomato-main .Text-2 .container-3 h4 {
+        font-size: 18px;
+        height: 30px;
+    }
+    .tomato-main .Text-2 .container-3 p{
+        font-size: 15px;
+        height: 190px;
+    }
+    .tomato-main .Text-3 {
+        left: 10px;
+        top: 1212px;
+        width: 677px;
+    }
+    .tomato-main .Groups {
+        flex-wrap: wrap;
+        left: 10px;
+        top: 1292px;
+        width: 750px;
+        height: 1023px;
+        gap: 30px;
+    }
+}
+
+@media(max-width: 668px){
+    .tomato-main {
+        height: 4405px;
+        width: 100%;
+        top: 357px;
+    }
+    .tomato-main .Group_6 {
+        width: 650px;
+        left: 10px;
+        text-align: center;
+        align-items: center;
+    }
+    .tomato-main .Group_6 h1 {
+        font-size: 36px;
+        margin: 0 0 20px 0;
+    }
+    .tomato-main .Text{
+        width: 650px;
+        height: 300px;
+        left: 10px;
+        font-size: 15px;
+        text-align: center;
+    }
+    .tomato-main .Text-1 {
+        height: 71px;
+        top: 536.5px;
+        width: 652px;
+        left: 10px;
+        text-align: center;
+        font-size: 15px;
+        gap: 0px;
+    }
+    .tomato-main .Text-1 hr{
+        width: 6px;
+    }
+    .tomato-main .Text-2 {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        height: 798px;
+        width: 630px;
+        top: 631.5px;
+        left: 0px;
+        gap: 0px 30px;
+        padding-top: 20px;
+    }
+    .tomato-main .Text-2 .container-1 {
+        text-align: center;
+    }
+    .tomato-main .Text-2 .container-1 h4 {
+        font-size: 18px;
+        height: 30px;
+    }
+    .tomato-main .Text-2 .container-1 p{
+        font-size: 15px;
+    }
+    .tomato-main .Text-2 .container-2 {
+        text-align: center;
+    }
+    .tomato-main .Text-2 .container-2 h4 {
+        font-size: 18px;
+        height: 30px;
+    }
+    .tomato-main .Text-2 .container-2 p{
+        font-size: 15px;
+    }
+    .tomato-main .Text-2 .container-3 {
+        text-align: center;
+    }
+    .tomato-main .Text-2 .container-3 h4 {
+        font-size: 18px;
+        height: 30px;
+    }
+    .tomato-main .Text-2 .container-3 p{
+        font-size: 15px;
+        height: 190px;
+    }
+    .tomato-main .Text-3 {
+        text-align: center;
+        left: 10px;
+        top: 1490px;
+        width: 650px;
+        height: 50px;
+    }
+    .tomato-main .Text-3 hr {
+        height: 100%;
+    }
+    .tomato-main .Groups {
+        flex-wrap: wrap;
+        left: 10px;
+        top: 1580px;
+        width: 650px;
+        height: 1023px;
+        gap: 30px;
+    }
+}
+
+@media(max-width: 480px){
+    .tomato-main {
+        height: 4548px;
+        width: 100%;
+        top: 310px;
+    }
+    .tomato-main .Group_6 {
+        width: 460px;
+        left: 10px;
+        text-align: center;
+        align-items: center;
+    }
+    .tomato-main .Group_6 h1 {
+        font-size: 34px;
+        margin: 0 0 20px 0;
+    }
+    .tomato-main .Text{
+        width: 460px;
+        height: 300px;
+        left: 10px;
+        font-size: 15px;
+        text-align: center;
+    }
+    .tomato-main .Text-1 {
+        height: 100px;
+        top: 637.5px;
+        width: 460px;
+        left: 10px;
+        text-align: center;
+        font-size: 15px;
+        gap: 0px;
+    }
+    .tomato-main .Text-1 hr{
+        width: 6px;
+        height: 100%;
+    }
+    .tomato-main .Text-2 {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        height: 798px;
+        width: 440px;
+        top: 767.5px;
+        left: 10px;
+        gap: 0px 30px;
+        padding-top: 20px;
+    }
+    .tomato-main .Text-2 .container-1 {
+        text-align: center;
+    }
+    .tomato-main .Text-2 .container-1 h4 {
+        font-size: 18px;
+        height: 30px;
+    }
+    .tomato-main .Text-2 .container-1 p{
+        font-size: 15px;
+    }
+    .tomato-main .Text-2 .container-2 {
+        text-align: center;
+    }
+    .tomato-main .Text-2 .container-2 h4 {
+        font-size: 18px;
+        height: 30px;
+    }
+    .tomato-main .Text-2 .container-2 p{
+        font-size: 15px;
+    }
+    .tomato-main .Text-2 .container-3 {
+        text-align: center;
+    }
+    .tomato-main .Text-2 .container-3 h4 {
+        font-size: 18px;
+        height: 30px;
+    }
+    .tomato-main .Text-2 .container-3 p{
+        font-size: 15px;
+        height: 190px;
+    }
+    .tomato-main .Text-3 {
+        text-align: center;
+        left: 10px;
+        top: 1625px;
+        width: 460px;
+        height: 50px;
+    }
+    .tomato-main .Text-3 hr {
+        height: 100%;
+    }
+    .tomato-main .Groups {
+        flex-wrap: wrap;
+        left: 10px;
+        top: 1723px;
+        width: 460px;
+        height: 1023px;
+        gap: 30px;
+    }
+}
+
+@media(max-width: 376px){
+    .tomato-main {
+        height: 4669px;
+        width: 100%;
+        top: 284px;
+    }
+    .tomato-main .Group_6 {
+        width: 356px;
+        left: 10px;
+        text-align: center;
+        align-items: center;
+    }
+    .tomato-main .Group_6 h1 {
+        font-size: 30px;
+        margin: 0 0 20px 0;
+    }
+    .tomato-main .Text{
+        width: 356px;
+        height: 538px;
+        left: 10px;
+        font-size: 15px;
+        text-align: center;
+    }
+    .tomato-main .Text-1 {
+        height: 104px;
+        top: 768.5px;
+        width: 350px;
+        left: 10px;
+        text-align: center;
+        gap: 0px;
+    }
+    .tomato-main .Text-1 hr{
+        width: 8px;
+        height: 100%;
+    }
+    .tomato-main .Text-1 p {
+        font-size: 15px;
+    }
+    .tomato-main .Text-2 {
+        height: 798px;
+        width: 360px;
+        top: 902.5px;
+        left: 0px;
+        gap: 0px 30px;
+        padding-top: 20px;
+        padding-left: 0px;
+    }
+    .tomato-main .Text-3 {
+        height: 43px;
+        left: 10px;
+        top: 1761px;
+        width: 350px;
+        text-align: center;
+    }
+    .tomato-main .Text-3 hr {
+        height: 100%;
+    }
+    .tomato-main .Text-3 p {
+        font-size: 15px;
+    }
+    .tomato-main .Groups {
+        flex-wrap: wrap;
+        left: 10px;
+        top: 1844px;
+        width: 350px;
+        height: 1023px;
+        gap: 30px;
+    }
+}
+
+@media(max-width: 320px){
+    .tomato-main {
+        height: 5021px;
+        width: 100%;
+        top: 270px;
+    }
+    .tomato-main .Group_6 {
+        width: 300px;
+        left: 10px;
+        text-align: center;
+        align-items: center;
+    }
+    .tomato-main .Group_6 h1 {
+        font-size: 30px;
+        margin: 0 0 20px 0;
+    }
+    .tomato-main .Text{
+        width: 300px;
+        height: 538px;
+        left: 10px;
+        font-size: 15px;
+        text-align: center;
+        top: 241px;
+    }
+    .tomato-main .Text-1 {
+        height: 104px;
+        top: 907.5px;
+        width: 300px;
+        left: 10px;
+        text-align: center;
+        gap: 0px;
+    }
+    .tomato-main .Text-1 hr{
+        width: 8px;
+        height: 100%;
+    }
+    .tomato-main .Text-1 p {
+        font-size: 15px;
+    }
+    .tomato-main .Text-2 {
+        height: 990px;
+        width: 290px;
+        top: 1041.5px;
+        left: 0px;
+        gap: 0px 25px;
+        padding-top: 20px;
+        padding-left: 10px;
+    }
+    .tomato-main .Text-2 .container-1 {
+        width: 275px;
+    }
+    .tomato-main .Text-2 .container-1 h4{
+        font-size: 16px;
+        width: 275px;
+    }
+    .tomato-main .Text-2 .container-2 {
+        width: 275px;
+    }
+    .tomato-main .Text-2 .container-2 h4{
+        font-size: 16px;
+        width: 275px;
+    }
+    .tomato-main .Text-2 .container-3 {
+        width: 275px;
+    }
+    .tomato-main .Text-2 .container-3 h4{
+        font-size: 16px;
+        width: 275px;
+    }
+    .tomato-main .Text-3 {
+        height: 65px;
+        left: 10px;
+        top: 2091px;
+        width: 300px;
+        text-align: center;
+    }
+    .tomato-main .Text-3 hr {
+        height: 100%;
+    }
+    .tomato-main .Text-3 p {
+        font-size: 15px;
+    }
+    .tomato-main .Groups {
+        left: 0px;
+        top: 2196px;
+        width: 320px;
+        height: 1023px;
+        gap: 30px;
+    }
+    .tomato-main .Groups .Group_9 {
+        width: 320px;
+    }
+    
+    .tomato-main .Groups .Group_9  img{
+        width: 320px;
+    }
+    
+    .tomato-main .Groups .Group_9 .tag-1{
+        width: 320px;
+    }
+    .tomato-main .Groups .Group_10 {
+        width: 320px;
+    }
+    
+    .tomato-main .Groups .Group_10  img{
+        width: 320px;
+    }
+    
+    .tomato-main .Groups .Group_10 .tag-2{
+        width: 320px;
+    }
+    .tomato-main .Groups .Group_11 {
+        width: 320px;
+    }
+    
+    .tomato-main .Groups .Group_11  img{
+        width: 320px;
+    }
+    
+    .tomato-main .Groups .Group_11 .tag-3{
+        width: 320px;
+    }
+    .tomato-main .Groups .Group_12 {
+        width: 320px;
+    }
+    
+    .tomato-main .Groups .Group_12  img{
+        width: 320px;
+    }
+    
+    .tomato-main .Groups .Group_12 .tag-4{
+        width: 320px;
+    }
+    .tomato-main .Groups .Group_13 {
+        width: 320px;
+    }
+    
+    .tomato-main .Groups .Group_13  img{
+        width: 320px;
+    }
+    
+    .tomato-main .Groups .Group_13 .tag-5{
+        width: 320px;
+    }
+    .tomato-main .Groups .Group_14 {
+        width: 320px;
+    }
+    
+    .tomato-main .Groups .Group_14  img{
+        width: 320px;
+    }
+    
+    .tomato-main .Groups .Group_14 .tag-6{
+        width: 320px;
+    }
+    .tomato-main .Groups .Group_15 {
+        width: 320px;
+    }
+    
+    .tomato-main .Groups .Group_15  img{
+        width: 320px;
+    }
+    
+    .tomato-main .Groups .Group_15 .tag-7{
+        width: 320px;
+    }
+    .tomato-main .Groups .Group_16 {
+        width: 320px;
+    }
+    
+    .tomato-main .Groups .Group_16  img{
+        width: 320px;
+    }
+    
+    .tomato-main .Groups .Group_16 .tag-8{
+        width: 320px;
+    }
+}
+/* End tomato all */
+
+/* Start tomato one */
+#tomato-body-one {
+    background-image: url("/images/Union 2.png");
+    background-color: #F7F7F7;
+    background-repeat: no-repeat;
+    background-position: 235.88px 66.87px;
+}
+
+#tomato-body-one .Return {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    width: 185px;
+    height: 23px;
+    left: 390px;
+    top: 140px;
+}
+
+#tomato-body-one .Return svg {
+    padding: 2px;
+    fill: #57984C;
+}
+
+#tomato-body-one .Return p {
+    margin: 0px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#tomato-body-one .Return a {
+    text-decoration: none;
+    color: #57984C;
+}
+
+#tomato-body-one .Return a:hover {
+    text-decoration: underline;
+}
+
+#tomato-body-one .Group_6 {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 526px;
+    height: 277.24px;
+    top: 182px;
+    left: 405px;
+}
+
+#tomato-body-one .Group_6 h1 {
+    margin: 0;
+    font-size: 54px;
+    font-family: 'Roboto Slab';
+    font-weight: bold;
+    color: #57984C;
+}
+
+#tomato-body-one .Group_6 .Crosses{
+    display: flex;
+    flex-direction: row;
+    gap: 4px; 
+    align-items: center;
+    margin: none;
+    padding: none;
+    margin-top: 40px;
+}
+
+#tomato-body-one .Group_6 .Crosses svg {
+    fill: #57984C;
+    width: 10px;
+    height: 18px;
+}
+
+#tomato-body-one .Group_6 .Crosses svg path {
+    stroke: #57984C;
+    stroke-width: 5px; 
+    stroke-linecap: round;
+}
+
+#tomato-body-one .image {
+    position: absolute;
+    width: 540px;
+    height: 498px;
+    top: 182px;
+    left: 975px;
+}
+
+#tomato-body-one .image img {
+    width: 100%;
+    height: 100%;
+}
+
+#tomato-body-one .Group_18 {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    gap: 23px;
+    width: 498px;
+    height: 86px;
+    left: 405px;
+    top: 501px;
+}
+
+#tomato-body-one .Group_18 img {
+    width: 80px;
+    height: 80.04px;
+}
+
+#tomato-body-one .Group_18 p {
+    margin: 0;
+    color: #CF2333;
+    font-family: 'Roboto Slab';
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#tomato-body-one .Group_25 {
+    position: absolute;
+    width: 495px;
+    height: 149px;
+    left: 405px;
+    top: 627px;
+}
+
+#tomato-body-one .Group_25 h4 {
+    margin: 0;
+    color: #57984C;
+    font-family: 'Roboto Slab';
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#tomato-body-one .Group_25 hr {
+    margin: 0;
+    margin-top: 12px;
+    width: 183px;
+    border: 0;
+    height: 1px;
+    background-color: #57984C;
+}
+
+#tomato-body-one .Group_25 .no-numbers {
+    list-style-type: none;
+    margin: 0;
+    margin-top: 24px;
+    padding-left: 0;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-size: 17px;
+    line-height: 1.5;
+}
+
+#tomato-body-one .Group_26 {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 30px 185px;
+    width: 753px;
+    height: 364px;
+    left: 405px;
+    top: 806px;
+}
+
+#tomato-body-one .Group_26 h4 {
+    margin: 0;
+    font-family: 'Roboto Slab';
+    font-weight: bold;
+    font-size: 20px;
+    color: #57984C;
+}
+
+#tomato-body-one .Group_26 hr {
+    margin: 0;
+    margin-top: 9px;
+    width: 183px;
+    border: 0;
+    height: 1px;
+    background-color: #57984C;
+}
+
+#tomato-body-one .Group_26 .custom-list  {
+    margin: 0;
+    margin-top: 24px;
+    list-style-type: disc;
+    padding-left: 14px;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-size: 17px;
+    line-height: 2;
+}
+
+#tomato-body-one .Group_26 .custom-list li::marker {
+    color: #57984C;
+}
+
+#tomato-body-one .Group_26 ul {
+    margin: 0;
+    margin-top: 24px;
+    list-style-type: none;
+    padding-left: 0;
+    font-family: 'Roboto Slab';
+    font-size: 17px;
+    color: #324950;
+}
+
+#tomato-body-one .btn {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: 225px;
+    height: 55px;
+    font-size: 17px;
+    font-family: 'Roboto Slab', serif;
+    color: #57984C;
+    background-color: #FFFFFF;
+    border: 3px solid #57984C;
+    border-radius: 30px;
+    cursor: pointer;
+    top: 700px;
+    left: 1290px;
+}
+
+#tomato-body-one .btn svg {
+    fill: #57984C;
+}
+
+@media(max-width: 1600px){
+    #tomato-body-one {
+        background-image: url("/images/Union 2.png");
+        background-color: #F7F7F7;
+        background-repeat: no-repeat;
+        background-position: 115.88px 66.87px;
+    }
+    #tomato-body-one .Return {
+        left: 265px;
+    }
+    #tomato-body-one .Group_6 {
+        left: 283px;
+    }
+    #tomato-body-one .image {
+        left: 862px;
+    }
+    #tomato-body-one .Group_18 {
+        left: 283px;
+    }
+    #tomato-body-one .Group_25 {
+        left: 283px;
+    }
+    #tomato-body-one .Group_26 {
+        left: 283px;
+    }
+    #tomato-body-one .btn {
+        left: 1177px;
+    }
+}
+@media(max-width: 1480px){
+    #tomato-body-one {
+        background-image: url("/images/Union 2.png");
+        background-color: #F7F7F7;
+        background-repeat: no-repeat;
+        background-position: 6.88px 66.87px;
+    }
+    #tomato-body-one .Return {
+        left: 153px;
+    }
+    #tomato-body-one .Group_6 {
+        left: 172px;
+    }
+    #tomato-body-one .image {
+        left: 737px;
+    }
+    #tomato-body-one .Group_18 {
+        left: 172px;
+    }
+    #tomato-body-one .Group_25 {
+        left: 172px;
+    }
+    #tomato-body-one .Group_26 {
+        left: 172px;
+    }
+    #tomato-body-one .btn {
+        left: 1052px;
+    }
+}
+@media(max-width: 1280px){
+    #tomato-body-one {
+        background-image: url("/images/Union 2.png");
+        background-color: #F7F7F7;
+        background-repeat: no-repeat;
+        background-position: 0.88px 66.87px;
+    }
+    #tomato-body-one .Return {
+        left: 93px;
+    }
+    #tomato-body-one .Group_6 {
+        left: 112px;
+    }
+    #tomato-body-one .image {
+        left: 680px;
+    }
+    #tomato-body-one .Group_18 {
+        left: 112px;
+    }
+    #tomato-body-one .Group_25 {
+        left: 112px;
+    }
+    #tomato-body-one .Group_26 {
+        left: 112px;
+    }
+    #tomato-body-one .btn {
+        left: 995px;
+    }
+}
+@media(max-width: 1024px){
+    #tomato-body-one {
+        background-image: url("/images/Union 2.png");
+        background-color: #F7F7F7;
+        background-repeat: no-repeat;
+        background-position: -135.88px 66.87px;
+    }
+    #tomato-body-one .Return {
+        top: 185px;
+        left: 10px;
+    }
+    #tomato-body-one .Group_6 {
+        left: 29px;
+        top: 219px;
+    }
+    #tomato-body-one .image {
+        left: 583px;
+        top: 219px;
+        width: 430px;
+        height: 388px;
+    }
+    #tomato-body-one .Group_18 {
+        left: 29px;
+        top: 528px;
+    }
+    #tomato-body-one .Group_25 {
+        left: 29px;
+        top: 640px;
+    }
+    #tomato-body-one .Group_26 {
+        left: 29px;
+        top: 798px;
+    }
+    #tomato-body-one .btn {
+        top: 601px;
+        left: 788px;
+    }
+}
+@media(max-width: 812px){
+    #tomato-body-one {
+        background-image: url("/images/Union 2.png");
+        background-color: #F7F7F7;
+        background-repeat: no-repeat;
+        background-position: -395.88px 306.87px;
+    }
+    #tomato-body-one .Return {
+        top: 185px;
+        left: 0px;
+    }
+    #tomato-body-one .Group_6 {
+        left: 143px;
+        top: 219px;
+        text-align: center;
+        align-items: center;
+    }
+    #tomato-body-one .Group_6 h1 {
+        font-size: 44px;
+    }
+    #tomato-body-one .image {
+        left: 180px;
+        top: 490px;
+        width: 430px;
+        height: 388px;
+    }
+    #tomato-body-one .Group_18 {
+        text-align: center;
+        left: 143px;
+        top: 981px;
+        width: 480px;
+    }
+    #tomato-body-one .Group_25 {
+        text-align: center;
+        left: 284px;
+        top: 1101px;
+        width: 227px;
+    }
+    #tomato-body-one .Group_25 hr {
+        width: 100%;
+    }
+    #tomato-body-one .Group_25 .no-numbers {
+        margin-top: 14px;
+    }
+    #tomato-body-one .Group_26 {
+        flex-direction: row;
+        gap: 30px 250px;
+        left: 29px;
+        top: 1265px;
+        width: 750px;
+    }
+    #tomato-body-one .Group_26 h4 {
+        text-align: center;
+    }
+    #tomato-body-one .Group_26 hr {
+        width: 100%;
+    }
+    #tomato-body-one .Group_26 .Plant {
+        width: 240px;
+    }
+    #tomato-body-one .Group_26 .Fruit {
+        width: 240px;
+    }
+    #tomato-body-one .Group_26 .Cycle {
+        width: 240px;
+    }
+    #tomato-body-one .Group_26 .Color {
+        width: 240px;
+    }
+    #tomato-body-one .btn {
+        top: 884px;
+        left: 295px;
+    }
+}
+@media(max-width: 768px){
+    #tomato-body-one {
+        background-image: url("/images/Union 2.png");
+        background-color: #F7F7F7;
+        background-repeat: no-repeat;
+        background-position: -395.88px 306.87px;
+    }
+    #tomato-body-one .Return {
+        top: 185px;
+        left: 0px;
+    }
+    #tomato-body-one .Group_6 {
+        left: 125px;
+        top: 219px;
+        text-align: center;
+        align-items: center;
+    }
+    #tomato-body-one .Group_6 h1 {
+        font-size: 44px;
+    }
+    #tomato-body-one .image {
+        left: 173px;
+        top: 490px;
+        width: 430px;
+        height: 388px;
+    }
+    #tomato-body-one .Group_18 {
+        text-align: center;
+        left: 125px;
+        top: 981px;
+        width: 480px;
+    }
+    #tomato-body-one .Group_25 {
+        text-align: center;
+        left: 263px;
+        top: 1101px;
+        width: 227px;
+    }
+    #tomato-body-one .Group_25 hr {
+        width: 100%;
+    }
+    #tomato-body-one .Group_25 .no-numbers {
+        margin-top: 14px;
+    }
+    #tomato-body-one .Group_26 {
+        flex-direction: row;
+        gap: 30px 250px;
+        left: 29px;
+        top: 1265px;
+        width: 730px;
+        height: 456px;
+    }
+    #tomato-body-one .Group_26 h4 {
+        text-align: center;
+    }
+    #tomato-body-one .Group_26 hr {
+        width: 100%;
+    }
+    #tomato-body-one .Group_26 .Plant {
+        width: 240px;
+    }
+    #tomato-body-one .Group_26 .Fruit {
+        width: 240px;
+    }
+    #tomato-body-one .Group_26 .Cycle {
+        width: 240px;
+    }
+    #tomato-body-one .Group_26 .Color {
+        width: 240px;
+    }
+    #tomato-body-one .btn {
+        top: 884px;
+        left: 265px;
+    }
+}
+@media(max-width: 668px){
+    #tomato-body-one {
+        background-image: url("/images/Union 2.png");
+        background-color: #F7F7F7;
+        background-repeat: no-repeat;
+        background-position: -500.88px 306.87px;
+    }
+    #tomato-body-one .Return {
+        top: 185px;
+        left: 0px;
+    }
+    #tomato-body-one .Group_6 {
+        left: 70px;
+        top: 219px;
+        text-align: center;
+        align-items: center;
+    }
+    #tomato-body-one .Group_6 h1 {
+        font-size: 44px;
+    }
+    #tomato-body-one .image {
+        left: 115px;
+        top: 490px;
+        width: 430px;
+        height: 388px;
+    }
+    #tomato-body-one .Group_18 {
+        text-align: center;
+        left: 70px;
+        top: 981px;
+        width: 480px;
+    }
+    #tomato-body-one .Group_25 {
+        text-align: center;
+        left: 210px;
+        top: 1101px;
+        width: 227px;
+    }
+    #tomato-body-one .Group_25 hr {
+        width: 100%;
+    }
+    #tomato-body-one .Group_25 .no-numbers {
+        margin-top: 14px;
+    }
+    #tomato-body-one .Group_26 {
+        flex-direction: row;
+        gap: 30px 231px;
+        left: 29px;
+        top: 1265px;
+        width: 750px;
+    }
+    #tomato-body-one .Group_26 h4 {
+        text-align: center;
+    }
+    #tomato-body-one .Group_26 hr {
+        width: 100%;
+    }
+    #tomato-body-one .Group_26 .Plant {
+        width: 180px;
+    }
+    #tomato-body-one .Group_26 .Fruit {
+        width: 215px;
+    }
+    #tomato-body-one .Group_26 .Cycle {
+        width: 180px;
+    }
+    #tomato-body-one .Group_26 .Color {
+        width: 215px;
+    }
+    #tomato-body-one .btn {
+        top: 884px;
+        left: 215px;
+    }
+}
+@media(max-width: 480px){
+    #tomato-body-one {
+        background-image: url("/images/Union 2.png");
+        background-color: #F7F7F7;
+        background-repeat: no-repeat;
+        background-position: -500.88px 306.87px;
+    }
+    #tomato-body-one .Return {
+        top: 185px;
+        left: 0px;
+    }
+    #tomato-body-one .Group_6 {
+        left: 0px;
+        top: 219px;
+        text-align: center;
+        align-items: center;
+        width: 480px;
+    }
+    #tomato-body-one .Group_6 h1 {
+        font-size: 40px;
+    }
+    #tomato-body-one .image {
+        left: 0px;
+        top: 470px;
+        width: 480px;
+        height: 430px;
+    }
+    #tomato-body-one .Group_18 {
+        text-align: center;
+        left: 0px;
+        top: 981px;
+        width: 480px;
+        gap: 10px;
+    }
+    #tomato-body-one .Group_25 {
+        text-align: center;
+        left: 115px;
+        top: 1101px;
+        width: 227px;
+    }
+    #tomato-body-one .Group_25 hr {
+        width: 100%;
+    }
+    #tomato-body-one .Group_25 .no-numbers {
+        margin-top: 14px;
+    }
+    #tomato-body-one .Group_26 {
+        flex-direction: row;
+        justify-content: center;
+        gap: 30px 100px;
+        left: 29px;
+        top: 1265px;
+        width: 420px;
+    }
+    #tomato-body-one .Group_26 h4 {
+        text-align: center;
+    }
+    #tomato-body-one .Group_26 hr {
+        width: 100%;
+    }
+    #tomato-body-one .Group_26 .Plant {
+        width: 227px;
+    }
+    #tomato-body-one .Group_26 .Fruit {
+        width: 227px;
+    }
+    #tomato-body-one .Group_26 .Cycle {
+        width: 227px;;
+    }
+    #tomato-body-one .Group_26 .Color {
+        width: 227px;
+    }
+    #tomato-body-one .btn {
+        top: 884px;
+        left: 120px;
+    }
+}
+@media(max-width: 376px){
+    #tomato-body-one {
+        background-image: url("/images/Union 2.png");
+        background-color: #F7F7F7;
+        background-repeat: no-repeat;
+        background-position: -500.88px 506.87px;
+    }
+    #tomato-body-one .Return {
+        top: 185px;
+        left: 0px;
+    }
+    #tomato-body-one .Group_6 {
+        left: 0px;
+        width: 375px;
+        height: 202px;
+        top: 235px;
+        text-align: center;
+        align-items: center;
+    }
+    #tomato-body-one .Group_6 h1 {
+        font-size: 36px;
+    }
+    #tomato-body-one .image {
+        left: 0px;
+        top: 490px;
+        width: 375px;
+        height: 358px;
+    }
+    #tomato-body-one .Group_18 {
+        text-align: center;
+        align-items: center;
+        left: 0px;
+        top: 981px;
+        width: 375px;
+        gap: 5px;
+    }
+    #tomato-body-one .Group_18 p {
+        font-size: 24px;
+    }
+    #tomato-body-one .Group_25 {
+        text-align: center;
+        left: 65px;
+        top: 1101px;
+        width: 227px;
+    }
+    #tomato-body-one .Group_25 hr {
+        width: 100%;
+    }
+    #tomato-body-one .Group_25 .no-numbers {
+        margin-top: 14px;
+    }
+    #tomato-body-one .Group_26 {
+        flex-direction: row;
+        gap: 30px 30px;
+        left: 32px;
+        top: 1265px;
+        width: 295px;
+    }
+    #tomato-body-one .Group_26 h4 {
+        text-align: center;
+    }
+    #tomato-body-one .Group_26 hr {
+        width: 100%;
+    }
+    #tomato-body-one .Group_26 .Plant {
+        width: 227px;
+    }
+    #tomato-body-one .Group_26 .Fruit {
+        width: 215px;
+    }
+    #tomato-body-one .Group_26 .Cycle {
+        width: 215px;
+    }
+    #tomato-body-one .Group_26 .Color {
+        width: 215px;
+    }
+    #tomato-body-one .btn {
+        top: 860px;
+        left: 80px;
+    }
+}
+@media(max-width: 320px){
+    #tomato-body-one {
+        background-image: url("/images/Union 2.png");
+        background-color: #F7F7F7;
+        background-repeat: no-repeat;
+        background-position: -500.88px 506.87px;
+    }
+    #tomato-body-one .Return {
+        top: 185px;
+        left: 0px;
+    }
+    #tomato-body-one .Group_6 {
+        left: 0px;
+        width: 320px;
+        height: 202px;
+        top: 235px;
+        text-align: center;
+        align-items: center;
+    }
+    #tomato-body-one .Group_6 h1 {
+        font-size: 30px;
+    }
+    #tomato-body-one .image {
+        left: 0px;
+        top: 460px;
+        width: 320px;
+        height: 338px;
+    }
+    #tomato-body-one .Group_18 {
+        text-align: center;
+        align-items: center;
+        left: 0px;
+        top: 920px;
+        width: 320px;
+        gap: 5px;
+    }
+    #tomato-body-one .Group_18 p {
+        font-size: 20px;
+    }
+    #tomato-body-one .Group_25 {
+        text-align: center;
+        left: 36px;
+        top: 1101px;
+        width: 227px;
+    }
+    #tomato-body-one .Group_25 hr {
+        width: 100%;
+    }
+    #tomato-body-one .Group_25 .no-numbers {
+        margin-top: 14px;
+    }
+    #tomato-body-one .Group_26 {
+        flex-direction: row;
+        gap: 30px 30px;
+        left: 36px;
+        top: 1265px;
+        width: 265px;
+    }
+    #tomato-body-one .Group_26 h4 {
+        text-align: center;
+    }
+    #tomato-body-one .Group_26 hr {
+        width: 100%;
+    }
+    #tomato-body-one .Group_26 .Plant {
+        width: 227px;
+    }
+    #tomato-body-one .Group_26 .Fruit {
+        width: 215px;
+    }
+    #tomato-body-one .Group_26 .Cycle {
+        width: 215px;
+    }
+    #tomato-body-one .Group_26 .Color {
+        width: 215px;
+    }
+    #tomato-body-one .btn {
+        top: 805px;
+        left: 40px;
+    }
+}
+/* End tomato one */
+
+/* Start contact us */
+body{
+    background-color: #F7F7F7;
+}
+.C-Banner {
+    position: absolute;
+    width: 1920px;
+    height: 480px;
+    top: 112px;
+    left: 0px;
+}
+
+.C-Banner img {
+    width: 100%;
+    height: 100%;
+}
+
+.Theme {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 221px;
+    height: 110px;
+    left: 405px;
+    top: 653px;
+}
+
+.Theme h1 {
+    margin: 0;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-weight: bold;
+    font-size: 44px;
+}
+
+.Theme .Crosses{
+    display: flex;
+    flex-direction: row;
+    gap: 4px; 
+    align-items: center;
+    margin: none;
+    padding: none;
+    margin-top: 40px;
+}
+
+.Theme .Crosses svg {
+    fill: #57984C;
+    width: 10px;
+    height: 18px;
+}
+
+.Theme .Crosses svg path {
+    stroke: #57984C;
+    stroke-width: 5px; 
+    stroke-linecap: round;
+}
+
+form {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 1129px;
+    height: 815px;
+    left: 405px;
+    top: 812.5px;
+    gap: 20px 125px;
+}
+
+form p {
+    font-family: 'Roboto Slab';
+    font-size: 17px;
+    color: #324950;
+    margin: 0;
+    margin-bottom: 11px;
+}
+
+form .text {
+    width: 350px;
+    height: 55px;
+    border-radius: 10px;
+    border: 2px solid #DADADA;
+    font-size: 17px;
+    resize: none;
+    outline: none; 
+    transition: border 0.3s ease-in-out;
+}
+
+form .text:focus {
+    border: 2px solid #324950;
+}
+
+form .text_1 {
+    width: 635px;
+    height: 55px;
+    border-radius: 10px;
+    border: 2px solid #DADADA;
+    font-size: 17px;
+    resize: none;
+    outline: none; 
+    transition: border 0.3s ease-in-out;
+}
+
+form .text_1:focus {
+    border: 2px solid #324950;
+}
+
+form .text_2 {
+    width: 633.9px;
+    height: 390.75px;
+    border-radius: 10px;
+    border: 2px solid #DADADA;
+    resize: none;
+    outline: none; 
+    transition: border 0.3s ease-in-out;
+    font-size: 17px;
+    text-align: left;
+}
+
+form .text_2:focus{
+    border: 2px solid #324950;
+}
+
+form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
+    width: 360px;
+}
+
+form .Type {
+    margin-top: 8px;
+}
+
+form .Type .Code {
+    width: 635px;
+    height: 62px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+form .Type .Code img {
+    margin-top: 1px;
+    width: 99px;
+    height: 27px;
+}
+
+form .text_3 {
+    width: 225px;
+    height: 55px;
+    border-radius: 10px;
+    border: 2px solid #DADADA;
+    font-size: 17px;
+    resize: none;
+    outline: none; 
+    transition: border 0.3s ease-in-out;
+}
+
+form .text_3:focus{
+    border: 2px solid #324950;
+}
+
+form .text_4 {
+    padding-left: 10px;
+    width: 645px;
+    height: 55px;
+    border-radius: 10px;
+    border: 2px solid #DADADA;
+    color: #324950;
+    font-size: 17px;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    cursor: pointer;
+    background-image: url('/images/right-arrow-svgrepo-com.svg');
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 16px;
+    resize: none;
+    outline: none; 
+    transition: border 0.3s ease-in-out;
+}
+
+form .text_4:focus{
+    border: 2px solid #324950;
+}
+
+form .Type .Code button {
+    width: 255px;
+    height: 55px;
+    font-family: 'Roboto Slab';
+    font-size: 17px;
+    color: #FFFFFF;
+    background-color: #57984C;
+    border-radius: 27.5px;
+    border: none;
+    cursor: pointer;
+}
+
+.Address {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 1920px;
+    height: 230px;
+    left: 0px;
+    top: 1626px;
+    background-color: #FFFFFF;
+}
+
+.Address .Group_28 {
+    width: 288px;
+    height: 172px;
+}
+
+.Address .Group_28 h4 {
+    font-family: 'Roboto Slab';
+    font-weight: bold;
+    font-size: 20px;
+    color: #57984C;
+    margin: 0;
+}
+
+.Address .Group_28 hr {
+    width: 183px;
+    border: 1px solid #57984C;
+}
+
+.Address .Group_28 p {
+    margin: 0;
+    margin-top: 4px;
+    font-family: 'Roboto Slab';
+    font-size: 17px;
+    color: #324950;
+}
+
+.Address .Group_28 .phone .number {
+    color: #57984C;
+    text-decoration: none;
+}
+
+.Address .Group_28 .phone .number:hover {
+    text-decoration: underline;
+}
+@media(max-width: 1600px){
+    .C-Banner {
+        width: 100%;
+        top: 112px;
+    }
+    .Theme {
+        left: 292px;
+    }
+    form {
+        left: 292px;
+    }
+    .Address {
+        width: 1600px;
+    }
+}
+@media(max-width: 1480px){
+    .C-Banner {
+        width: 100%;
+    }
+    .Theme {
+        left: 172px;
+    }
+    form {
+        left: 172px;
+    }
+    .Address {
+        width: 1480px;
+    }
+}
+@media(max-width: 1280px){
+    .C-Banner {
+        width: 100%;
+    }
+    .Theme {
+        left: 112px;
+    }
+    form {
+        left: 112px;
+    }
+    .Address {
+        width: 1280px;
+    }
+}
+@media(max-width: 1024px){
+    .C-Banner {
+        width: 100%;
+    }
+    .Theme {
+        left: 10px;
+    }
+    form {
+        left: 10px;
+    }
+    .Address {
+        width: 1024px;
+    }
+    form {
+        width: 1000px;
+    }
+    form .text_4 {
+        width: 520px;
+    }
+    form .text_1 {
+        width: 515px;
+    }
+    form .text_2 {
+        width: 515px;
+    }
+    form .Type .Code {
+        width: 515px;
+        gap: 10px;
+    }
+}
+@media(max-width: 812px){
+    .C-Banner {
+        top: 171px;
+        width: 100%;
+        height: 270px;
+    }
+    .Theme {
+        top: 477px;
+        left: 10px;
+    }
+    form {
+        top: 632px;
+        width: 787px;
+        left: 10px;
+        gap: 20px 60px;
+    }
+    form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
+        width: 280px;
+    }
+    form .text{
+        width: 270px;
+    }
+    form .text_4 {
+        width: 445px;
+    }
+    form .text_1 {
+        width: 435px;
+    }
+    form .text_2 {
+        width: 435px;
+    }
+    form .Type .Code {
+        width: 435px;
+        gap: 10px;
+    }
+    .Address {
+        top: 1463px;
+        width: 812px;
+    }
+}
+@media(max-width: 768px){
+    .C-Banner {
+        top: 171px;
+        width: 100%;
+        height: 270px;
+    }
+    .Theme {
+        top: 477px;
+        left: 10px;
+    }
+    form {
+        top: 632px;
+        width: 758px;
+        left: 10px;
+        gap: 20px 20px;
+    }
+    form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
+        width: 280px;
+    }
+    form .text{
+        width: 270px;
+    }
+    form .text_4 {
+        width: 445px;
+    }
+    form .text_1 {
+        width: 435px;
+    }
+    form .text_2 {
+        width: 435px;
+    }
+    form .Type .Code {
+        width: 435px;
+        gap: 10px;
+    }
+    .Address {
+        top: 1463px;
+        width: 768px;
+    }
+}
+@media(max-width: 668px){
+    .C-Banner {
+        top: 171px;
+        width: 100%;
+        height: 270px;
+    }
+    .Theme {
+        top: 477px;
+        left: 10px;
+    }
+    form {
+        top: 632px;
+        width: 645px;
+        left: 10px;
+        gap: 20px 25px;
+        height: 820px;
+    }
+    form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
+        width: 250px;
+    }
+    form .text{
+        width: 240px;
+    }
+    form .text_4 {
+        width: 368px;
+    }
+    form .text_1 {
+        width: 360px;
+    }
+    form .text_2 {
+        width: 360px;
+    }
+    form .text_3 {
+        width: 100px;
+    }
+    form .Type .Code {
+        justify-content: flex-start;
+    }
+    form .Type .Code button {
+        width: 170px;
+    }
+    form .You, .Other, .Interest, .Type {
+        width: 360px;
+    }
+    form .Type .Code {
+        width: 360px;
+        gap: 10px;
+    }
+    .Address {
+        top: 1463px;
+        width: 668px;
+    }
+}
+@media(max-width: 480px){
+    .C-Banner {
+        top: 171px;
+        width: 100%;
+        height: 270px;
+    }
+    .Theme {
+        top: 477px;
+        left: 10px;
+    }
+    form {
+        flex-direction: row;
+        top: 632px;
+        width: 450px;
+        left: 10px;
+        gap: 20px 0px;
+        height: 820px;
+    }
+    form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
+        width: 430px;
+    }
+    form .text{
+        width: 420px;
+    }
+    form .text_4 {
+        width: 428px;
+    }
+    form .text_1 {
+        width: 420px;
+    }
+    form .text_2 {
+        width: 420px;
+    }
+    form .text_3 {
+        width: 150px;
+    }
+    form .Type .Code button {
+        width: 200px;
+    }
+    form .You, .Other, .Interest, .Type {
+        width: 430px;
+    }
+    form .Type .Code {
+        justify-content: flex-start;
+        width: 430px;
+        gap: 10px;
+    }
+    .Address {
+        top: 2265px;
+        width: 480px;
+    }
+}
+@media(max-width: 376px){
+    .C-Banner {
+        top: 171px;
+        width: 100%;
+        height: 270px;
+    }
+    .Theme {
+        top: 477px;
+        left: 10px;
+    }
+    form {
+        align-items: flex-start;
+        flex-direction: row;
+        top: 632px;
+        width: 350px;
+        left: 10px;
+        gap: 20px 0px;
+        height: 1586px;
+    }
+    form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
+        width: 275px;
+    }
+    form .text{
+        width: 340px;
+    }
+    form .text_4 {
+        width: 348px;
+    }
+    form .text_1 {
+        width: 340px;
+    }
+    form .text_2 {
+        width: 340px;
+    }
+    form .text_3 {
+        width: 100px;
+    }
+    form .Type .Code button {
+        width: 200px;
+    }
+    form .You, .Other, .Interest, .Type {
+        width: 275px;
+    }
+    form .Type .Code {
+        justify-content: flex-start;
+        width: 340px;
+        gap: 10px;
+    }
+    .Address {
+        top: 2265px;
+        width: 376px;
+    }
+}
+@media(max-width: 320px){
+    .C-Banner {
+        top: 171px;
+        width: 100%;
+        height: 270px;
+    }
+    .Theme {
+        top: 477px;
+        left: 10px;
+    }
+    form {
+        align-items: flex-start;
+        flex-direction: row;
+        top: 632px;
+        width: 300px;
+        left: 10px;
+        gap: 20px 0px;
+        height: 1586px;
+    }
+    form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
+        width: 240px;
+    }
+    form .text{
+        width: 290px;
+    }
+    form .text_4 {
+        width: 298px;
+    }
+    form .text_1 {
+        width: 290px;
+    }
+    form .text_2 {
+        width: 290px;
+    }
+    form .text_3 {
+        width: 80px;
+    }
+    form .Type .Code button {
+        width: 250px;
+    }
+    form .You, .Other, .Interest, .Type {
+        width: 240px;
+    }
+    form .Type .Code {
+        justify-content: flex-start;
+        width: 240px;
+        gap: 10px;
+    }
+    .Address {
+        top: 2265px;
+        width: 320px;
+    }
+}
+/* End contact us */

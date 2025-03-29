@@ -127,399 +127,6 @@
     color: #B9B9B9;
     margin: 0 0 0 0;
 }
-/* End home */
-
-/* Start tomato */
-#tomato-footer .f-1 {
-    position: absolute;
-    display: flex;
-    background-color: #2D3F45;
-    width: 1920px;
-    height: 76px;
-    left: 0px;
-    top: 2893px;
-}
-
-#tomato-footer .f-1 nav {
-    flex-direction: row;
-}
-
-#tomato-footer .f-1 nav ul {
-    position: absolute;
-    list-style: none;
-    font-size: 16px;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    gap: 15px;
-    top: 27px;
-    left: 405px;
-    width: 724px;
-    height: 23px;
-    gap: 41px;
-}
-
-#tomato-footer .f-1 nav ul li a{
-    color: #FFFFFF;
-    text-decoration: none;
-    font-family: 'Roboto-R';
-}
-
-#tomato-footer .f-1 .Linkedin {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    left: 1303px;
-    top: 19px;
-}
-
-#tomato-footer .f-1 .Linkedin svg{
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer .f-1 .Instagram {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    left: 1348px;
-    top: 19px;
-}
-
-#tomato-footer .f-1 .Instagram svg{
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer .f-1 .Youtube {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    top: 19px;
-    left: 1393px;
-}
-
-#tomato-footer .f-1 .Youtube svg{
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer .f-1 .Twitter {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    top: 19px;
-    left: 1438px;
-}
-
-#tomato-footer .f-1 .Twitter svg {
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer .f-1 .Facebook {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    top: 19px;
-    left: 1483px;
-}
-
-#tomato-footer .f-1 .Facebook svg {
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer .f-2 {
-    position: absolute;
-    left: 0px;
-    width: 1920px;
-    height: 51px;
-    background-color: #324950;
-    top: 2969px;
-}
-
-#tomato-footer .f-2 p {
-    position: absolute;
-    left: 812px;
-    top: 18px;
-    font-size: 14;
-    font-family: "Roboto-R";
-    color: #B9B9B9;
-    margin: 0 0 0 0;
-}
-/* End tomato */
-
-/* Start tomato one */
-#tomato-footer-one .f-1 {
-    position: absolute;
-    display: flex;
-    background-color: #2D3F45;
-    width: 1920px;
-    height: 76px;
-    left: 0px;
-    top: 1338px;
-}
-
-#tomato-footer-one .f-1 nav {
-    flex-direction: row;
-}
-
-#tomato-footer-one .f-1 nav ul {
-    position: absolute;
-    list-style: none;
-    font-size: 16px;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    gap: 15px;
-    top: 27px;
-    left: 405px;
-    width: 724px;
-    height: 23px;
-    gap: 41px;
-}
-
-#tomato-footer-one .f-1 nav ul li a{
-    color: #FFFFFF;
-    text-decoration: none;
-    font-family: 'Roboto-R';
-}
-
-#tomato-footer-one .f-1 .Linkedin {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    left: 1303px;
-    top: 19px;
-}
-
-#tomato-footer-one .f-1 .Linkedin svg{
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer-one .f-1 .Instagram {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    left: 1348px;
-    top: 19px;
-}
-
-#tomato-footer-one .f-1 .Instagram svg{
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer-one .f-1 .Youtube {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    top: 19px;
-    left: 1393px;
-}
-
-#tomato-footer-one .f-1 .Youtube svg{
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer-one .f-1 .Twitter {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    top: 19px;
-    left: 1438px;
-}
-
-#tomato-footer-one .f-1 .Twitter svg {
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer-one .f-1 .Facebook {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    top: 19px;
-    left: 1483px;
-}
-
-#tomato-footer-one .f-1 .Facebook svg {
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#tomato-footer-one .f-2 {
-    position: absolute;
-    left: 0px;
-    width: 1920px;
-    height: 51px;
-    background-color: #324950;
-    top: 1413px;
-}
-
-#tomato-footer-one .f-2 p {
-    position: absolute;
-    left: 812px;
-    top: 18px;
-    font-size: 14;
-    font-family: "Roboto-R";
-    color: #B9B9B9;
-    margin: 0 0 0 0;
-}
-/* End tomato one */
-
-/* Start contact us */
-#contact-footer .f-1 {
-    position: absolute;
-    display: flex;
-    background-color: #2D3F45;
-    width: 1920px;
-    height: 76px;
-    left: 0px;
-    top: 250px;
-}
-
-#contact-footer .f-1 nav {
-    flex-direction: row;
-}
-
-#contact-footer .f-1 nav ul {
-    position: absolute;
-    list-style: none;
-    font-size: 16px;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    gap: 15px;
-    top: 27px;
-    left: 405px;
-    width: 724px;
-    height: 23px;
-    gap: 41px;
-}
-
-#contact-footer .f-1 nav ul li a{
-    color: #FFFFFF;
-    text-decoration: none;
-    font-family: 'Roboto-R';
-}
-
-#contact-footer .f-1 .Linkedin {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    left: 1303px;
-    top: 19px;
-}
-
-#contact-footer .f-1 .Linkedin svg{
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#contact-footer .f-1 .Instagram {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    left: 1348px;
-    top: 19px;
-}
-
-#contact-footer .f-1 .Instagram svg{
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#contact-footer .f-1 .Youtube {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    top: 19px;
-    left: 1393px;
-}
-
-#contact-footer .f-1 .Youtube svg{
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#contact-footer .f-1 .Twitter {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    top: 19px;
-    left: 1438px;
-}
-
-#contact-footer .f-1 .Twitter svg {
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#contact-footer .f-1 .Facebook {
-    position: absolute;
-    background: none;
-    border: none;
-    cursor: pointer;
-    top: 19px;
-    left: 1483px;
-}
-
-#contact-footer .f-1 .Facebook svg {
-    fill: #57984C;
-    width: 31.2px;
-    height: 31.2px;
-}
-
-#contact-footer .f-2 {
-    position: absolute;
-    left: 0px;
-    width: 1920px;
-    height: 51px;
-    background-color: #324950;
-    top: 326px;
-}
-
-#contact-footer .f-2 p {
-    position: absolute;
-    left: 812px;
-    top: 18px;
-    font-size: 14;
-    font-family: "Roboto-R";
-    color: #B9B9B9;
-    margin: 0 0 0 0;
-}
 
 @media(max-width: 1600px) {
     .Rectangle{
@@ -1995,3 +1602,1519 @@
         color: #B9B9B9;
     }
 }
+/* End home */
+
+/* Start tomato all */
+#tomato-footer .f-1 {
+    position: absolute;
+    display: flex;
+    background-color: #2D3F45;
+    width: 1920px;
+    height: 76px;
+    left: 0px;
+    top: 2893px;
+}
+
+#tomato-footer .f-1 nav {
+    flex-direction: row;
+}
+
+#tomato-footer .f-1 nav ul {
+    position: absolute;
+    list-style: none;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    top: 27px;
+    left: 405px;
+    width: 724px;
+    height: 23px;
+    gap: 41px;
+}
+
+#tomato-footer .f-1 nav ul li a{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Roboto-R';
+}
+
+#tomato-footer .f-1 .Linkedin {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    left: 1303px;
+    top: 19px;
+}
+
+#tomato-footer .f-1 .Linkedin svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer .f-1 .Instagram {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    left: 1348px;
+    top: 19px;
+}
+
+#tomato-footer .f-1 .Instagram svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer .f-1 .Youtube {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1393px;
+}
+
+#tomato-footer .f-1 .Youtube svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer .f-1 .Twitter {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1438px;
+}
+
+#tomato-footer .f-1 .Twitter svg {
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer .f-1 .Facebook {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1483px;
+}
+
+#tomato-footer .f-1 .Facebook svg {
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer .f-2 {
+    position: absolute;
+    left: 0px;
+    width: 1920px;
+    height: 51px;
+    background-color: #324950;
+    top: 2969px;
+}
+
+#tomato-footer .f-2 p {
+    position: absolute;
+    left: 812px;
+    top: 18px;
+    font-size: 14px;
+    font-family: "Roboto-R";
+    color: #B9B9B9;
+    margin: 0 0 0 0;
+}
+
+@media(max-width: 1600px){
+    #tomato-footer .f-1 {
+        width: 100%;
+        top: 2803px;
+    }
+    #tomato-footer .f-1 nav ul {
+        left: 290px;
+    }
+    #tomato-footer .f-1 .Linkedin {
+        left: 1192px;
+    }
+    #tomato-footer .f-1 .Instagram {
+        left: 1236px;
+    }
+    #tomato-footer .f-1 .Youtube {
+        left: 1280px;
+    }
+    #tomato-footer .f-1 .Twitter {
+        left: 1324px;
+    }
+    #tomato-footer .f-1 .Facebook {
+        left: 1368px;
+    }
+    #tomato-footer .f-2 {
+        width: 100%;
+        top: 2879px;
+    }
+    #tomato-footer .f-2 p {
+        left: 710px;
+    }
+}
+
+@media(max-width: 1480px){
+    #tomato-footer .f-1 {
+        width: 100%;
+        top: 2773px;
+    }
+    #tomato-footer .f-1 nav ul {
+        left: 205px;
+    }
+    #tomato-footer .f-1 .Linkedin {
+        left: 1107px;
+    }
+    #tomato-footer .f-1 .Instagram {
+        left: 1151px;
+    }
+    #tomato-footer .f-1 .Youtube {
+        left: 1195px;
+    }
+    #tomato-footer .f-1 .Twitter {
+        left: 1239px;
+    }
+    #tomato-footer .f-1 .Facebook {
+        left: 1283px;
+    }
+    #tomato-footer .f-2 {
+        width: 100%;
+        top: 2849px;
+    }
+    #tomato-footer .f-2 p {
+        left: 625px;
+    }
+}
+
+@media(max-width: 1280px){
+    #tomato-footer .f-1 {
+        width: 100%;
+        top: 2723px;
+    }
+    #tomato-footer .f-1 nav ul {
+        left: 97px;
+    }
+    #tomato-footer .f-1 .Linkedin {
+        left: 1000px;
+    }
+    #tomato-footer .f-1 .Instagram {
+        left: 1044px;
+    }
+    #tomato-footer .f-1 .Youtube {
+        left: 1088px;
+    }
+    #tomato-footer .f-1 .Twitter {
+        left: 1132px;
+    }
+    #tomato-footer .f-1 .Facebook {
+        left: 1176px;
+    }
+    #tomato-footer .f-2 {
+        width: 100%;
+        top: 2799px;
+    }
+    #tomato-footer .f-2 p {
+        left: 517px;
+    }
+}
+
+@media(max-width: 1024px){
+    #tomato-footer .f-1 {
+        width: 100%;
+        height: 100px;
+        top: 3146px;
+    }
+    #tomato-footer .f-1 nav ul {
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 460px;
+        left: 10px;
+        font-size: 14px;
+        gap: 20px 39px;
+    }
+    #tomato-footer .f-1 .Linkedin {
+        left: 636px;
+        top: 37px;
+    }
+    #tomato-footer .f-1 .Instagram {
+        left: 690px;
+        top: 37px;
+    }
+    #tomato-footer .f-1 .Youtube {
+        left: 744px;
+        top: 37px;
+    }
+    #tomato-footer .f-1 .Twitter {
+        left: 798px;
+        top: 37px;
+    }
+    #tomato-footer .f-1 .Facebook {
+        left: 852px;
+        top: 37px;
+    }
+    #tomato-footer .f-2 {
+        width: 100%;
+        top: 3246px;
+    }
+    #tomato-footer .f-2 p {
+        left: 350px;
+    }
+}
+
+@media(max-width: 812px){
+    #tomato-footer .f-1 {
+        width: 100%;
+        height: 100px;
+        top: 3413px;
+    }
+    #tomato-footer .f-1 nav ul {
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 379px;
+        left: 10px;
+        font-size: 14px;
+        gap: 20px 39px;
+    }
+    #tomato-footer .f-1 .Linkedin {
+        left: 490px;
+        top: 37px;
+    }
+    #tomato-footer .f-1 .Instagram {
+        left: 544px;
+        top: 37px;
+    }
+    #tomato-footer .f-1 .Youtube {
+        left: 598px;
+        top: 37px;
+    }
+    #tomato-footer .f-1 .Twitter {
+        left: 652px;
+        top: 37px;
+    }
+    #tomato-footer .f-1 .Facebook {
+        left: 706px;
+        top: 37px;
+    }
+    #tomato-footer .f-2 {
+        width: 100%;
+        top: 3513px;
+    }
+    #tomato-footer .f-2 p {
+        left: 265px;
+    }
+}
+
+@media(max-width: 768px){
+    #tomato-footer .f-1 {
+        width: 100%;
+        height: 100px;
+        top: 3095px;
+    }
+    #tomato-footer .f-1 nav ul {
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 300px;
+        left: 10px;
+        font-size: 14px;
+        gap: 20px 30px;
+    }
+    #tomato-footer .f-1 .Linkedin {
+        left: 473px;
+        top: 37px;
+    }
+    #tomato-footer .f-1 .Instagram {
+        left: 517px;
+        top: 37px;
+    }
+    #tomato-footer .f-1 .Youtube {
+        left: 561px;
+        top: 37px;
+    }
+    #tomato-footer .f-1 .Twitter {
+        left: 605px;
+        top: 37px;
+    }
+    #tomato-footer .f-1 .Facebook {
+        left: 649px;
+        top: 37px;
+    }
+    #tomato-footer .f-2 {
+        width: 100%;
+        top: 3195px;
+    }
+    #tomato-footer .f-2 p {
+        left: 250px;
+    }
+}
+
+@media(max-width: 668px){
+    #tomato-footer .f-1 {
+        width: 100%;
+        height: 100px;
+        top: 4762px;
+    }
+    #tomato-footer .f-1 nav ul {
+        justify-content: center;
+        flex-wrap: wrap;
+        width: 300px;
+        left: 10px;
+        font-size: 14px;
+        gap: 20px 30px;
+    }
+    #tomato-footer .f-1 .Linkedin {
+        left: 377px;
+        top: 37px;
+    }
+    #tomato-footer .f-1 .Instagram {
+        left: 431px;
+        top: 37px;
+    }
+    #tomato-footer .f-1 .Youtube {
+        left: 484px;
+        top: 37px;
+    }
+    #tomato-footer .f-1 .Twitter {
+        left: 538px;
+        top: 37px;
+    }
+    #tomato-footer .f-1 .Facebook {
+        left: 592px;
+        top: 37px;
+    }
+    #tomato-footer .f-2 {
+        width: 100%;
+        top: 4861px;
+    }
+    #tomato-footer .f-2 p {
+        left: 175px;
+    }
+}
+
+@media(max-width: 480px){
+    #tomato-footer .f-1 {
+        width: 100%;
+        height: 340px;
+        top: 4858px;
+    }
+    #tomato-footer .f-1 nav ul {
+        flex-wrap: wrap;
+        width: 100px;
+        left: 188px;
+        font-size: 14px;
+        gap: 20px 30px;
+    }
+    #tomato-footer .f-1 .Linkedin {
+        left: 109px;
+        top: 280px;
+    }
+    #tomato-footer .f-1 .Instagram {
+        left: 163px;
+        top: 280px;
+    }
+    #tomato-footer .f-1 .Youtube {
+        left: 217px;
+        top: 280px;
+    }
+    #tomato-footer .f-1 .Twitter {
+        left: 271px;
+        top: 280px;
+    }
+    #tomato-footer .f-1 .Facebook {
+        left: 325px;
+        top: 280px;
+    }
+    #tomato-footer .f-2 {
+        width: 100%;
+        top: 5198px;
+    }
+    #tomato-footer .f-2 p {
+        left: 85px;
+    }
+}
+
+@media(max-width: 376px){
+    #tomato-footer .f-1 {
+        width: 100%;
+        height: 340px;
+        top: 4953px;
+    }
+    #tomato-footer .f-1 nav ul {
+        flex-wrap: wrap;
+        width: 100px;
+        left: 138px;
+        font-size: 14px;
+        gap: 20px 30px;
+    }
+    #tomato-footer .f-1 .Linkedin {
+        left: 57px;
+        top: 280px;
+    }
+    #tomato-footer .f-1 .Instagram {
+        left: 111px;
+        top: 280px;
+    }
+    #tomato-footer .f-1 .Youtube {
+        left: 165px;
+        top: 280px;
+    }
+    #tomato-footer .f-1 .Twitter {
+        left: 219px;
+        top: 280px;
+    }
+    #tomato-footer .f-1 .Facebook {
+        left: 273px;
+        top: 280px;
+    }
+    #tomato-footer .f-2 {
+        width: 100%;
+        top: 5293px;
+    }
+    #tomato-footer .f-2 p {
+        left: 35px;
+    }
+}
+
+@media(max-width: 320px){
+    #tomato-footer .f-1 {
+        width: 100%;
+        height: 340px;
+        top: 5291px;
+    }
+    #tomato-footer .f-1 nav ul {
+        flex-wrap: wrap;
+        width: 100px;
+        left: 108px;
+        font-size: 14px;
+        gap: 20px 30px;
+    }
+    #tomato-footer .f-1 .Linkedin {
+        left: 29px;
+        top: 280px;
+    }
+    #tomato-footer .f-1 .Instagram {
+        left: 83px;
+        top: 280px;
+    }
+    #tomato-footer .f-1 .Youtube {
+        left: 137px;
+        top: 280px;
+    }
+    #tomato-footer .f-1 .Twitter {
+        left: 191px;
+        top: 280px;
+    }
+    #tomato-footer .f-1 .Facebook {
+        left: 245px;
+        top: 280px;
+    }
+    #tomato-footer .f-2 {
+        width: 100%;
+        top: 5631px;
+    }
+    #tomato-footer .f-2 p {
+        left: 3px;
+    }
+}
+/* End tomato all */
+
+/* Start tomato one */
+#tomato-footer-one .f-1 {
+    position: absolute;
+    display: flex;
+    background-color: #2D3F45;
+    width: 1920px;
+    height: 76px;
+    left: 0px;
+    top: 1338px;
+}
+
+#tomato-footer-one .f-1 nav {
+    flex-direction: row;
+}
+
+#tomato-footer-one .f-1 nav ul {
+    position: absolute;
+    list-style: none;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+    top: 27px;
+    left: 405px;
+    width: 724px;
+    height: 23px;
+    gap: 41px;
+}
+
+#tomato-footer-one .f-1 nav ul li a{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Roboto-R';
+}
+
+#tomato-footer-one .f-1 .Linkedin {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    left: 1303px;
+    top: 19px;
+}
+
+#tomato-footer-one .f-1 .Linkedin svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer-one .f-1 .Instagram {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    left: 1348px;
+    top: 19px;
+}
+
+#tomato-footer-one .f-1 .Instagram svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer-one .f-1 .Youtube {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1393px;
+}
+
+#tomato-footer-one .f-1 .Youtube svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer-one .f-1 .Twitter {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1438px;
+}
+
+#tomato-footer-one .f-1 .Twitter svg {
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer-one .f-1 .Facebook {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1483px;
+}
+
+#tomato-footer-one .f-1 .Facebook svg {
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#tomato-footer-one .f-2 {
+    position: absolute;
+    left: 0px;
+    width: 1920px;
+    height: 51px;
+    background-color: #324950;
+    top: 1413px;
+}
+
+#tomato-footer-one .f-2 p {
+    position: absolute;
+    left: 812px;
+    top: 18px;
+    font-size: 16px;
+    font-family: "Roboto-R";
+    color: #B9B9B9;
+    margin: 0 0 0 0;
+}
+
+@media(max-width: 1600px){
+    #tomato-footer-one .f-1 {
+        width: 1600px;
+    }
+    #tomato-footer-one .f-1 nav ul {
+        left: 283px;
+    }
+    #tomato-footer-one .f-1 .Linkedin {
+        left: 1185px;
+    }
+    #tomato-footer-one .f-1 .Instagram {
+        left: 1229px;
+    }
+    #tomato-footer-one .f-1 .Youtube {
+        left: 1273px;
+    }
+    #tomato-footer-one .f-1 .Twitter {
+        left: 1317px;
+    }
+    #tomato-footer-one .f-1 .Facebook {
+        left: 1361px;
+    }
+    #tomato-footer-one .f-2 {
+        width: 1600px;
+    }
+    #tomato-footer-one .f-2 p {
+        left: 703px;
+    }
+}
+@media(max-width: 1480px){
+    #tomato-footer-one .f-1 {
+        width: 1480px;
+    }
+    #tomato-footer-one .f-1 nav ul {
+        left: 172px;
+    }
+    #tomato-footer-one .f-1 .Linkedin {
+        left: 1074px;
+    }
+    #tomato-footer-one .f-1 .Instagram {
+        left: 1118px;
+    }
+    #tomato-footer-one .f-1 .Youtube {
+        left: 1162px;
+    }
+    #tomato-footer-one .f-1 .Twitter {
+        left: 1206px;
+    }
+    #tomato-footer-one .f-1 .Facebook {
+        left: 1250px;
+    }
+    #tomato-footer-one .f-2 {
+        width: 1480px;
+    }
+    #tomato-footer-one .f-2 p {
+        left: 592px;
+    }
+}
+@media(max-width: 1280px){
+    #tomato-footer-one .f-1 {
+        width: 1280px;
+    }
+    #tomato-footer-one .f-1 nav ul {
+        left: 112px;
+    }
+    #tomato-footer-one .f-1 .Linkedin {
+        left: 1014px;
+    }
+    #tomato-footer-one .f-1 .Instagram {
+        left: 1058px;
+    }
+    #tomato-footer-one .f-1 .Youtube {
+        left: 1102px;
+    }
+    #tomato-footer-one .f-1 .Twitter {
+        left: 1146px;
+    }
+    #tomato-footer-one .f-1 .Facebook {
+        left: 1190px;
+    }
+    #tomato-footer-one .f-2 {
+        width: 1280px;
+    }
+    #tomato-footer-one .f-2 p {
+        left: 532px;
+    }
+}
+@media(max-width: 1024px){
+    #tomato-footer-one .f-1 {
+        width: 1024px;
+    }
+    #tomato-footer-one .f-1 nav ul {
+        left: 10px;
+        gap: 30px;
+    }
+    #tomato-footer-one .f-1 .Linkedin {
+        left: 744px;
+    }
+    #tomato-footer-one .f-1 .Instagram {
+        left: 798px;
+    }
+    #tomato-footer-one .f-1 .Youtube {
+        left: 852px;
+    }
+    #tomato-footer-one .f-1 .Twitter {
+        left: 906px;
+    }
+    #tomato-footer-one .f-1 .Facebook {
+        left: 960px;
+    }
+    #tomato-footer-one .f-2 {
+        width: 1024px;
+    }
+    #tomato-footer-one .f-2 p {
+        left: 398px;
+    }
+}
+@media(max-width: 812px){
+    #tomato-footer-one .f-1 {
+        width: 812px;
+        top: 1810px;
+        height: 115px;
+    }
+    #tomato-footer-one .f-1 nav ul {
+        left: 10px;
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 325px;
+    }
+    #tomato-footer-one .f-1 .Linkedin {
+        top: 44px;
+        left: 501px;
+    }
+    #tomato-footer-one .f-1 .Instagram {
+        top: 44px;
+        left: 555px;
+    }
+    #tomato-footer-one .f-1 .Youtube {
+        top: 44px;
+        left: 609px;
+    }
+    #tomato-footer-one .f-1 .Twitter {
+        top: 44px;
+        left: 663px;
+    }
+    #tomato-footer-one .f-1 .Facebook {
+        top: 44px;
+        left: 717px;
+    }
+    #tomato-footer-one .f-2 {
+        width: 812px;
+        top: 1925px;
+    }
+    #tomato-footer-one .f-2 p {
+        left: 235px;
+    }
+}
+@media(max-width: 768px){
+    #tomato-footer-one .f-1 {
+        width: 768px;
+        top: 1810px;
+        height: 115px;
+    }
+    #tomato-footer-one .f-1 nav ul {
+        left: 10px;
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 325px;
+    }
+    #tomato-footer-one .f-1 .Linkedin {
+        top: 44px;
+        left: 501px;
+    }
+    #tomato-footer-one .f-1 .Instagram {
+        top: 44px;
+        left: 555px;
+    }
+    #tomato-footer-one .f-1 .Youtube {
+        top: 44px;
+        left: 609px;
+    }
+    #tomato-footer-one .f-1 .Twitter {
+        top: 44px;
+        left: 663px;
+    }
+    #tomato-footer-one .f-1 .Facebook {
+        top: 44px;
+        left: 717px;
+    }
+    #tomato-footer-one .f-2 {
+        width: 768px;
+        top: 1925px;
+    }
+    #tomato-footer-one .f-2 p {
+        left: 220px;
+    }
+}
+@media(max-width: 668px){
+    #tomato-footer-one .f-1 {
+        width: 668px;
+        top: 1810px;
+        height: 115px;
+    }
+    #tomato-footer-one .f-1 nav ul {
+        left: 10px;
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 325px;
+    }
+    #tomato-footer-one .f-1 .Linkedin {
+        top: 44px;
+        left: 400px;
+    }
+    #tomato-footer-one .f-1 .Instagram {
+        top: 44px;
+        left: 454px;
+    }
+    #tomato-footer-one .f-1 .Youtube {
+        top: 44px;
+        left: 508px;
+    }
+    #tomato-footer-one .f-1 .Twitter {
+        top: 44px;
+        left: 562px;
+    }
+    #tomato-footer-one .f-1 .Facebook {
+        top: 44px;
+        left: 616px;
+    }
+    #tomato-footer-one .f-2 {
+        width: 668px;
+        top: 1925px;
+    }
+    #tomato-footer-one .f-2 p {
+        left: 160px;
+    }
+}
+@media(max-width: 480px){
+    #tomato-footer-one .f-1 {
+        width: 480px;
+        top: 2170px;
+        height: 415px;
+    }
+    #tomato-footer-one .f-1 nav ul {
+        left: 183px;
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 110px;
+    }
+    #tomato-footer-one .f-1 .Linkedin {
+        top: 360px;
+        left: 110px;
+    }
+    #tomato-footer-one .f-1 .Instagram {
+        top: 360px;
+        left: 164px;
+    }
+    #tomato-footer-one .f-1 .Youtube {
+        top: 360px;
+        left: 218px;
+    }
+    #tomato-footer-one .f-1 .Twitter {
+        top: 360px;
+        left: 272px;
+    }
+    #tomato-footer-one .f-1 .Facebook {
+        top: 360px;
+        left: 326px;
+    }
+    #tomato-footer-one .f-2 {
+        width: 480px;
+        top: 2585px;
+    }
+    #tomato-footer-one .f-2 p {
+        left: 50px;
+    }
+}
+@media(max-width: 376px){
+    #tomato-footer-one .f-1 {
+        width: 376px;
+        top: 2170px;
+        height: 415px;
+    }
+    #tomato-footer-one .f-1 nav ul {
+        left: 128px;
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 110px;
+    }
+    #tomato-footer-one .f-1 .Linkedin {
+        top: 360px;
+        left: 55px;
+    }
+    #tomato-footer-one .f-1 .Instagram {
+        top: 360px;
+        left: 109px;
+    }
+    #tomato-footer-one .f-1 .Youtube {
+        top: 360px;
+        left: 163px;
+    }
+    #tomato-footer-one .f-1 .Twitter {
+        top: 360px;
+        left: 217px;
+    }
+    #tomato-footer-one .f-1 .Facebook {
+        top: 360px;
+        left: 271px;
+    }
+    #tomato-footer-one .f-2 {
+        width: 376px;
+        top: 2585px;
+    }
+    #tomato-footer-one .f-2 p {
+        left: 9px;
+    }
+}
+@media(max-width: 320px){
+    #tomato-footer-one .f-1 {
+        width: 320px;
+        top: 2170px;
+        height: 415px;
+    }
+    #tomato-footer-one .f-1 nav ul {
+        left: 101px;
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 110px;
+    }
+    #tomato-footer-one .f-1 .Linkedin {
+        top: 360px;
+        left: 28px;
+    }
+    #tomato-footer-one .f-1 .Instagram {
+        top: 360px;
+        left: 82px;
+    }
+    #tomato-footer-one .f-1 .Youtube {
+        top: 360px;
+        left: 136px;
+    }
+    #tomato-footer-one .f-1 .Twitter {
+        top: 360px;
+        left: 190px;
+    }
+    #tomato-footer-one .f-1 .Facebook {
+        top: 360px;
+        left: 244px;
+    }
+    #tomato-footer-one .f-2 {
+        width: 320px;
+        top: 2585px;
+    }
+    #tomato-footer-one .f-2 p {
+        font-size: 14px;
+        left: 2px;
+    }
+}
+/* End tomato one */
+
+/* Start contact us */
+#contact-footer .f-1 {
+    position: absolute;
+    display: flex;
+    background-color: #2D3F45;
+    width: 1920px;
+    height: 76px;
+    left: 0px;
+    top: 1857px;
+}
+
+#contact-footer .f-1 nav {
+    flex-direction: row;
+}
+
+#contact-footer .f-1 nav ul {
+    position: absolute;
+    list-style: none;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+    top: 27px;
+    left: 405px;
+    width: 724px;
+    height: 23px;
+    gap: 41px;
+}
+
+#contact-footer .f-1 nav ul li a{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Roboto-R';
+}
+
+#contact-footer .f-1 .Linkedin {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    left: 1303px;
+    top: 19px;
+}
+
+#contact-footer .f-1 .Linkedin svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#contact-footer .f-1 .Instagram {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    left: 1348px;
+    top: 19px;
+}
+
+#contact-footer .f-1 .Instagram svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#contact-footer .f-1 .Youtube {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1393px;
+}
+
+#contact-footer .f-1 .Youtube svg{
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#contact-footer .f-1 .Twitter {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1438px;
+}
+
+#contact-footer .f-1 .Twitter svg {
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#contact-footer .f-1 .Facebook {
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+    top: 19px;
+    left: 1483px;
+}
+
+#contact-footer .f-1 .Facebook svg {
+    fill: #57984C;
+    width: 31.2px;
+    height: 31.2px;
+}
+
+#contact-footer .f-2 {
+    position: absolute;
+    left: 0px;
+    width: 1920px;
+    height: 51px;
+    background-color: #324950;
+    top: 1933px;
+}
+
+#contact-footer .f-2 p {
+    position: absolute;
+    left: 812px;
+    top: 18px;
+    font-size: 16px;
+    font-family: "Roboto-R";
+    color: #B9B9B9;
+    margin: 0 0 0 0;
+}
+@media(max-width: 1600px){
+    #contact-footer .f-1 {
+        width: 1600px;
+    }
+    #contact-footer .f-1 nav ul {
+        left: 292px;
+    }
+    #contact-footer .f-1 .Linkedin {
+        left: 1185px;
+    }
+    #contact-footer .f-1 .Instagram {
+        left: 1229px;
+    }
+    #contact-footer .f-1 .Youtube {
+        left: 1273px;
+    }
+    #contact-footer .f-1 .Twitter {
+        left: 1317px;
+    }
+    #contact-footer .f-1 .Facebook {
+        left: 1361px;
+    }
+    #contact-footer .f-2 {
+        width: 1600px;
+    }
+    #contact-footer .f-2 p {
+        left: 703px;
+    }
+}
+@media(max-width: 1480px){
+    #contact-footer .f-1 {
+        width: 1480px;
+    }
+    #contact-footer .f-1 nav ul {
+        left: 172px;
+    }
+    #contact-footer .f-1 .Linkedin {
+        left: 1074px;
+    }
+    #contact-footer .f-1 .Instagram {
+        left: 1118px;
+    }
+    #contact-footer .f-1 .Youtube {
+        left: 1162px;
+    }
+    #contact-footer .f-1 .Twitter {
+        left: 1206px;
+    }
+    #contact-footer .f-1 .Facebook {
+        left: 1250px;
+    }
+    #contact-footer .f-2 {
+        width: 1480px;
+    }
+    #contact-footer .f-2 p {
+        left: 592px;
+    }
+}
+@media(max-width: 1280px){
+    #contact-footer .f-1 {
+        width: 1280px;
+    }
+    #contact-footer .f-1 nav ul {
+        left: 112px;
+    }
+    #contact-footer .f-1 .Linkedin {
+        left: 1014px;
+    }
+    #contact-footer .f-1 .Instagram {
+        left: 1058px;
+    }
+    #contact-footer .f-1 .Youtube {
+        left: 1102px;
+    }
+    #contact-footer .f-1 .Twitter {
+        left: 1146px;
+    }
+    #contact-footer .f-1 .Facebook {
+        left: 1190px;
+    }
+    #contact-footer .f-2 {
+        width: 1280px;
+    }
+    #contact-footer .f-2 p {
+        left: 532px;
+    }
+}
+@media(max-width: 1024px){
+    #contact-footer .f-1 {
+        width: 1024px;
+    }
+    #contact-footer .f-1 nav ul {
+        left: 10px;
+        gap: 30px;
+    }
+    #contact-footer .f-1 .Linkedin {
+        left: 744px;
+    }
+    #contact-footer .f-1 .Instagram {
+        left: 798px;
+    }
+    #contact-footer .f-1 .Youtube {
+        left: 852px;
+    }
+    #contact-footer .f-1 .Twitter {
+        left: 906px;
+    }
+    #contact-footer .f-1 .Facebook {
+        left: 960px;
+    }
+    #contact-footer .f-2 {
+        width: 1024px;
+    }
+    #contact-footer .f-2 p {
+        left: 398px;
+    }
+}
+@media(max-width: 812px){
+    #contact-footer .f-1 {
+        width: 812px;
+        top: 1693px;
+        height: 115px;
+    }
+    #contact-footer .f-1 nav ul {
+        left: 10px;
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 325px;
+    }
+    #contact-footer .f-1 .Linkedin {
+        top: 44px;
+        left: 501px;
+    }
+    #contact-footer .f-1 .Instagram {
+        top: 44px;
+        left: 555px;
+    }
+    #contact-footer .f-1 .Youtube {
+        top: 44px;
+        left: 609px;
+    }
+    #contact-footer .f-1 .Twitter {
+        top: 44px;
+        left: 663px;
+    }
+    #contact-footer .f-1 .Facebook {
+        top: 44px;
+        left: 717px;
+    }
+    #contact-footer .f-2 {
+        width: 812px;
+        top: 1808px;
+    }
+    #contact-footer .f-2 p {
+        left: 235px;
+    }
+}
+@media(max-width: 768px){
+    #contact-footer .f-1 {
+        width: 768px;
+        top: 1693px;
+        height: 115px;
+    }
+    #contact-footer .f-1 nav ul {
+        left: 10px;
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 325px;
+    }
+    #contact-footer .f-1 .Linkedin {
+        top: 44px;
+        left: 501px;
+    }
+    #contact-footer .f-1 .Instagram {
+        top: 44px;
+        left: 555px;
+    }
+    #contact-footer .f-1 .Youtube {
+        top: 44px;
+        left: 609px;
+    }
+    #contact-footer .f-1 .Twitter {
+        top: 44px;
+        left: 663px;
+    }
+    #contact-footer .f-1 .Facebook {
+        top: 44px;
+        left: 717px;
+    }
+    #contact-footer .f-2 {
+        width: 768px;
+        top: 1808px;
+    }
+    #contact-footer .f-2 p {
+        left: 220px;
+    }
+}
+@media(max-width: 668px){
+    #contact-footer .f-1 {
+        width: 668px;
+        top: 1693px;
+        height: 115px;
+    }
+    #contact-footer .f-1 nav ul {
+        left: 10px;
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 325px;
+    }
+    #contact-footer .f-1 .Linkedin {
+        top: 44px;
+        left: 400px;
+    }
+    #contact-footer .f-1 .Instagram {
+        top: 44px;
+        left: 454px;
+    }
+    #contact-footer .f-1 .Youtube {
+        top: 44px;
+        left: 508px;
+    }
+    #contact-footer .f-1 .Twitter {
+        top: 44px;
+        left: 562px;
+    }
+    #contact-footer .f-1 .Facebook {
+        top: 44px;
+        left: 616px;
+    }
+    #contact-footer .f-2 {
+        width: 668px;
+        top: 1808px;
+    }
+    #contact-footer .f-2 p {
+        left: 160px;
+    }
+}
+@media(max-width: 480px){
+    #contact-footer .f-1 {
+        width: 480px;
+        top: 2495px;
+        height: 415px;
+    }
+    #contact-footer .f-1 nav ul {
+        left: 183px;
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 110px;
+    }
+    #contact-footer .f-1 .Linkedin {
+        top: 360px;
+        left: 110px;
+    }
+    #contact-footer .f-1 .Instagram {
+        top: 360px;
+        left: 164px;
+    }
+    #contact-footer .f-1 .Youtube {
+        top: 360px;
+        left: 218px;
+    }
+    #contact-footer .f-1 .Twitter {
+        top: 360px;
+        left: 272px;
+    }
+    #contact-footer .f-1 .Facebook {
+        top: 360px;
+        left: 326px;
+    }
+    #contact-footer .f-2 {
+        width: 480px;
+        top: 2910px;
+    }
+    #contact-footer .f-2 p {
+        left: 50px;
+    }
+}
+@media(max-width: 376px){
+    #contact-footer .f-1 {
+        width: 376px;
+        top: 2495px;
+        height: 415px;
+    }
+    #contact-footer .f-1 nav ul {
+        left: 128px;
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 110px;
+    }
+    #contact-footer .f-1 .Linkedin {
+        top: 360px;
+        left: 55px;
+    }
+    #contact-footer .f-1 .Instagram {
+        top: 360px;
+        left: 109px;
+    }
+    #contact-footer .f-1 .Youtube {
+        top: 360px;
+        left: 163px;
+    }
+    #contact-footer .f-1 .Twitter {
+        top: 360px;
+        left: 217px;
+    }
+    #contact-footer .f-1 .Facebook {
+        top: 360px;
+        left: 271px;
+    }
+    #contact-footer .f-2 {
+        width: 376px;
+        top: 2910px;
+    }
+    #contact-footer .f-2 p {
+        left: 9px;
+    }
+}
+@media(max-width: 320px){
+    #contact-footer .f-1 {
+        width: 320px;
+        top: 2495px;
+        height: 415px;
+    }
+    #contact-footer .f-1 nav ul {
+        left: 101px;
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 110px;
+    }
+    #contact-footer .f-1 .Linkedin {
+        top: 360px;
+        left: 28px;
+    }
+    #contact-footer .f-1 .Instagram {
+        top: 360px;
+        left: 82px;
+    }
+    #contact-footer .f-1 .Youtube {
+        top: 360px;
+        left: 136px;
+    }
+    #contact-footer .f-1 .Twitter {
+        top: 360px;
+        left: 190px;
+    }
+    #contact-footer .f-1 .Facebook {
+        top: 360px;
+        left: 244px;
+    }
+    #contact-footer .f-2 {
+        width: 320px;
+        top: 2910px;
+    }
+    #contact-footer .f-2 p {
+        font-size: 14px;
+        left: 2px;
+    }
+}
+/* End contact us */
