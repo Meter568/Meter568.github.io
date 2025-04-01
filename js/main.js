@@ -5,7 +5,7 @@ var app = new Vue({
         {id:2, title:"TAG 1001 (TAG 855)", short_text:"Sweet pepper Determinate Red Standard Round", image:"../images/pepper_2.png", color1:"red", Color1:"Red"},
         {id:3, title:"TAG 1002 (TAG 809)", short_text:"Sweet pepper Determinate Red Standard Round", image:"../images/pepper_3.png", color1:"red", color2:"orange", color3:"yellow", Color1:"Red", Color2:"Orange", Color3:"Yellow"},
         {id:4, title:"TAG 1003 (TAG 834)", short_text:"Sweet pepper Determinate Red Standard Round", image:"../images/pepper_4.png", color1:"red", Color1:"Red", color2:"green", Color2:"Green"},
-        {id:5, title:"TAG 1004 (TAG 848)", short_text:"Sweet pepper Determinate Red BEEF Round", image:"../images/pepper_5.png", colo1r:"red", Color1:"Red", color2:"green", Color2:"Green"},
+        {id:5, title:"TAG 1004 (TAG 848)", short_text:"Sweet pepper Determinate Red BEEF Round", image:"../images/pepper_5.png", color1:"red", Color1:"Red", color2:"green", Color2:"Green"},
         {id:6, title:"TAG 1005 (TAG 800)", short_text:"Sweet pepper Determinate Red Standard Round", image:"../images/pepper_6.png", color1:"red", Color1:"Red"},
         {id:7, title:"TAG 1006 (TAG 898)", short_text:"Sweet pepper Determinate Red Elongated", image:"../images/pepper_7.png", color1:"red", Color1:"Red"},
         {id:8, title:"TAG 1007 (TAG 816)", short_text:"Sweet pepper Determinate Red Elongated", image:"../images/pepper_8.png", color1:"red", Color1:"Red"}],
