@@ -59,7 +59,6 @@
     fill: #324950;
 }
 
-
 #home-header nav {
     align-self: end; 
     margin-top: 53px; 
@@ -79,7 +78,6 @@
     text-decoration: none;
     font-family: 'Heebo';
 }
-
 
 #home-header nav ul li a:hover {
     background-color: #d4e7b5; 
@@ -2543,7 +2541,12 @@
     left: 0px;
     top: 122px;
     width: 1920px;
-    height: 480px;
+    height: 700px;
+}
+
+.T-Banner img {
+    width: 100%;
+    height: 100%;
 }
 
 @media(max-width: 1600px){
@@ -3104,7 +3107,7 @@
     }
     .T-Banner {
         width: 320px;
-        height: 80px;
+        height: 192px;
         top: 190px;
     }
     .T-Banner img {
