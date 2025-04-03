@@ -2632,7 +2632,7 @@
     width: 1920px;
     height: 76px;
     left: 0px;
-    top: 1857px;
+    top: 2982px;
 }
 
 #contact-footer .f-1 nav {
@@ -2741,7 +2741,7 @@
     width: 1920px;
     height: 51px;
     background-color: #324950;
-    top: 1933px;
+    top: 3058px;
 }
 
 #contact-footer .f-2 p {
@@ -2873,7 +2873,7 @@
 @media(max-width: 812px){
     #contact-footer .f-1 {
         width: 812px;
-        top: 1693px;
+        top: 2777px;
         height: 115px;
     }
     #contact-footer .f-1 nav ul {
@@ -2905,7 +2905,7 @@
     }
     #contact-footer .f-2 {
         width: 812px;
-        top: 1808px;
+        top: 2892px;
     }
     #contact-footer .f-2 p {
         left: 235px;
@@ -2914,7 +2914,7 @@
 @media(max-width: 768px){
     #contact-footer .f-1 {
         width: 768px;
-        top: 1693px;
+        top: 2780px;
         height: 115px;
     }
     #contact-footer .f-1 nav ul {
@@ -2946,7 +2946,7 @@
     }
     #contact-footer .f-2 {
         width: 768px;
-        top: 1808px;
+        top: 2895px;
     }
     #contact-footer .f-2 p {
         left: 220px;
@@ -2955,7 +2955,7 @@
 @media(max-width: 668px){
     #contact-footer .f-1 {
         width: 668px;
-        top: 1693px;
+        top: 2780px;
         height: 115px;
     }
     #contact-footer .f-1 nav ul {
@@ -2987,7 +2987,7 @@
     }
     #contact-footer .f-2 {
         width: 668px;
-        top: 1808px;
+        top: 2895px;
     }
     #contact-footer .f-2 p {
         left: 160px;
@@ -2996,7 +2996,7 @@
 @media(max-width: 480px){
     #contact-footer .f-1 {
         width: 480px;
-        top: 2495px;
+        top: 3495px;
         height: 415px;
     }
     #contact-footer .f-1 nav ul {
@@ -3028,7 +3028,7 @@
     }
     #contact-footer .f-2 {
         width: 480px;
-        top: 2910px;
+        top: 3910px;
     }
     #contact-footer .f-2 p {
         left: 50px;
@@ -3037,7 +3037,7 @@
 @media(max-width: 376px){
     #contact-footer .f-1 {
         width: 376px;
-        top: 2495px;
+        top: 3530px;
         height: 415px;
     }
     #contact-footer .f-1 nav ul {
@@ -3069,7 +3069,7 @@
     }
     #contact-footer .f-2 {
         width: 376px;
-        top: 2910px;
+        top: 3945px;
     }
     #contact-footer .f-2 p {
         left: 9px;
@@ -3078,7 +3078,7 @@
 @media(max-width: 320px){
     #contact-footer .f-1 {
         width: 320px;
-        top: 2495px;
+        top: 3270px;
         height: 415px;
     }
     #contact-footer .f-1 nav ul {
@@ -3110,7 +3110,7 @@
     }
     #contact-footer .f-2 {
         width: 320px;
-        top: 2910px;
+        top: 3685px;
     }
     #contact-footer .f-2 p {
         font-size: 14px;

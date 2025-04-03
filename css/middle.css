@@ -6845,7 +6845,7 @@
         top: 446px;
     }
     .tomato-main .Group_6 {
-        left: 100px;
+        left: 40px;
         text-align: center;
         align-items: center;
     }
@@ -6934,6 +6934,7 @@
     }
     .tomato-main .Group_6 h1 {
         font-size: 40px;
+        margin-bottom: 15px;
     }
     .tomato-main .Text{
         font-size: 16px;
@@ -7217,6 +7218,8 @@
         margin: 0 0 20px 0;
     }
     .tomato-main .Text{
+        gap: 32px;
+        top: 185px;
         width: 460px;
         height: 300px;
         left: 10px;
@@ -7393,8 +7396,8 @@
         top: 241px;
     }
     .tomato-main .Text-1 {
-        height: 104px;
-        top: 907.5px;
+        height: 128px;
+        top: 891.5px;
         width: 300px;
         left: 10px;
         text-align: center;
@@ -7707,7 +7710,6 @@
 
 @media(max-width: 1600px){
     #tomato-body-one {
-        background-image: url("/images/Union 2.png");
         background-color: #F7F7F7;
         background-repeat: no-repeat;
         background-position: 115.88px 66.87px;
@@ -7736,7 +7738,6 @@
 }
 @media(max-width: 1480px){
     #tomato-body-one {
-        background-image: url("/images/Union 2.png");
         background-color: #F7F7F7;
         background-repeat: no-repeat;
         background-position: 6.88px 66.87px;
@@ -7765,10 +7766,9 @@
 }
 @media(max-width: 1280px){
     #tomato-body-one {
-        background-image: url("/images/Union 2.png");
         background-color: #F7F7F7;
         background-repeat: no-repeat;
-        background-position: 0.88px 66.87px;
+        background-position: 0px 66.87px;
     }
     #tomato-body-one .Return {
         left: 93px;
@@ -7794,7 +7794,6 @@
 }
 @media(max-width: 1024px){
     #tomato-body-one {
-        background-image: url("/images/Union 2.png");
         background-color: #F7F7F7;
         background-repeat: no-repeat;
         background-position: -135.88px 66.87px;
@@ -7832,10 +7831,9 @@
 }
 @media(max-width: 812px){
     #tomato-body-one {
-        background-image: url("/images/Union 2.png");
         background-color: #F7F7F7;
         background-repeat: no-repeat;
-        background-position: -395.88px 306.87px;
+        background-position: -290.88px 306.87px;
     }
     #tomato-body-one .Return {
         top: 185px;
@@ -7906,10 +7904,9 @@
 }
 @media(max-width: 768px){
     #tomato-body-one {
-        background-image: url("/images/Union 2.png");
         background-color: #F7F7F7;
         background-repeat: no-repeat;
-        background-position: -395.88px 306.87px;
+        background-position: -290.88px 306.87px;
     }
     #tomato-body-one .Return {
         top: 185px;
@@ -7981,7 +7978,6 @@
 }
 @media(max-width: 668px){
     #tomato-body-one {
-        background-image: url("/images/Union 2.png");
         background-color: #F7F7F7;
         background-repeat: no-repeat;
         background-position: -500.88px 306.87px;
@@ -8055,7 +8051,6 @@
 }
 @media(max-width: 480px){
     #tomato-body-one {
-        background-image: url("/images/Union 2.png");
         background-color: #F7F7F7;
         background-repeat: no-repeat;
         background-position: -500.88px 306.87px;
@@ -8083,14 +8078,14 @@
     #tomato-body-one .Group_18 {
         text-align: center;
         left: 0px;
-        top: 981px;
+        top: 995px;
         width: 480px;
         gap: 10px;
     }
     #tomato-body-one .Group_25 {
         text-align: center;
         left: 115px;
-        top: 1101px;
+        top: 1115px;
         width: 227px;
     }
     #tomato-body-one .Group_25 hr {
@@ -8104,7 +8099,7 @@
         justify-content: center;
         gap: 30px 100px;
         left: 29px;
-        top: 1265px;
+        top: 1280px;
         width: 420px;
     }
     #tomato-body-one .Group_26 h4 {
@@ -8126,13 +8121,12 @@
         width: 227px;
     }
     #tomato-body-one .btn {
-        top: 884px;
+        top: 915px;
         left: 120px;
     }
 }
 @media(max-width: 376px){
     #tomato-body-one {
-        background-image: url("/images/Union 2.png");
         background-color: #F7F7F7;
         background-repeat: no-repeat;
         background-position: -500.88px 506.87px;
@@ -8207,13 +8201,12 @@
         width: 215px;
     }
     #tomato-body-one .btn {
-        top: 860px;
+        top: 880px;
         left: 80px;
     }
 }
 @media(max-width: 320px){
     #tomato-body-one {
-        background-image: url("/images/Union 2.png");
         background-color: #F7F7F7;
         background-repeat: no-repeat;
         background-position: -500.88px 506.87px;
@@ -8288,7 +8281,7 @@
         width: 215px;
     }
     #tomato-body-one .btn {
-        top: 805px;
+        top: 825px;
         left: 40px;
     }
 }
@@ -8315,7 +8308,7 @@ body{
     position: absolute;
     display: flex;
     flex-direction: column;
-    width: 221px;
+    width: 969px;
     height: 110px;
     left: 405px;
     top: 653px;
@@ -8351,15 +8344,56 @@ body{
     stroke-linecap: round;
 }
 
-form {
+table {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+table caption {
+    font-size: 24px;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-weight: bold;
+}
+
+table td {
+    padding: 0px 30px 20px 40px;
+    font-size: 20px;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    text-align: center;
+    vertical-align: middle;
+}
+
+table img {
+    width: 100px;
+    height: 100px;
+}
+
+table a {
+    cursor: pointer;
+    background: none;
+    border: none;
+}
+
+table a svg {
+    height: 24px;
+    width: 24px;
+}
+
+.contact-main {
     position: absolute;
+    left: 405px;
+    top: 790px;
+}
+
+form {
+    position: relative;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     width: 1129px;
     height: 815px;
-    left: 405px;
-    top: 812.5px;
     gap: 20px 125px;
 }
 
@@ -8369,6 +8403,13 @@ form p {
     color: #324950;
     margin: 0;
     margin-bottom: 11px;
+}
+
+.contact-main h3 {
+    font-size: 24px;
+    color: #324950;
+    font-family: 'Roboto Slab';
+    font-weight: bold;
 }
 
 form .text {
@@ -8493,6 +8534,38 @@ form .Type .Code button {
     cursor: pointer;
 }
 
+.finish {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 1129px;
+    height: 100%;
+    gap: 20px 125px;
+    top: 0px;
+}
+
+.finish .Title {
+    margin-bottom: 60px;
+}
+
+.finish .Title p {
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Roboto Slab';
+    color: #324950;
+}
+
+.finish  p {
+    margin: 0;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Roboto Slab';
+    color: #324950;
+}
+
 .Address {
     position: absolute;
     display: flex;
@@ -8503,7 +8576,7 @@ form .Type .Code button {
     width: 1920px;
     height: 230px;
     left: 0px;
-    top: 1626px;
+    top: 2752px;
     background-color: #FFFFFF;
 }
 
@@ -8549,8 +8622,11 @@ form .Type .Code button {
     .Theme {
         left: 292px;
     }
+    .contact-main {
+        left: 290px;
+    }
     form {
-        left: 292px;
+        left: 0px;
     }
     .Address {
         width: 1600px;
@@ -8563,8 +8639,8 @@ form .Type .Code button {
     .Theme {
         left: 172px;
     }
-    form {
-        left: 172px;
+    .contact-main {
+        left: 175px;
     }
     .Address {
         width: 1480px;
@@ -8577,8 +8653,8 @@ form .Type .Code button {
     .Theme {
         left: 112px;
     }
-    form {
-        left: 112px;
+    .contact-main {
+        left: 110px;
     }
     .Address {
         width: 1280px;
@@ -8591,11 +8667,14 @@ form .Type .Code button {
     .Theme {
         left: 10px;
     }
-    form {
-        left: 10px;
-    }
     .Address {
         width: 1024px;
+    }
+    .contact-main {
+        left: 10px;
+    }
+    .finish {
+        width: 990px;
     }
     form {
         width: 1000px;
@@ -8623,12 +8702,15 @@ form .Type .Code button {
     .Theme {
         top: 477px;
         left: 10px;
+        width: 300px;
+    }
+    .contact-main {
+        top: 600px;
+        width: 780px;
     }
     form {
-        top: 632px;
-        width: 787px;
-        left: 10px;
-        gap: 20px 60px;
+        width: 790px;
+        gap: 20px 65px;
     }
     form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
         width: 280px;
@@ -8650,7 +8732,7 @@ form .Type .Code button {
         gap: 10px;
     }
     .Address {
-        top: 1463px;
+        top: 2547px;
         width: 812px;
     }
 }
@@ -8664,33 +8746,35 @@ form .Type .Code button {
         top: 477px;
         left: 10px;
     }
-    form {
-        top: 632px;
-        width: 758px;
-        left: 10px;
-        gap: 20px 20px;
+    .contact-main {
+        top: 600px;
+        width: 754px;
     }
-    form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
+    form {
+        width: 755px;
+        gap: 20px 30px;
+    }
+    .contact-main form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
         width: 280px;
     }
-    form .text{
+    .contact-main form .text{
         width: 270px;
     }
-    form .text_4 {
+    .contact-main form .text_4 {
         width: 445px;
     }
-    form .text_1 {
+    .contact-main form .text_1 {
         width: 435px;
     }
-    form .text_2 {
+    .contact-main form .text_2 {
         width: 435px;
     }
-    form .Type .Code {
+    .contact-main form .Type .Code {
         width: 435px;
         gap: 10px;
     }
     .Address {
-        top: 1463px;
+        top: 2550px;
         width: 768px;
     }
 }
@@ -8704,46 +8788,50 @@ form .Type .Code button {
         top: 477px;
         left: 10px;
     }
-    form {
-        top: 632px;
-        width: 645px;
-        left: 10px;
-        gap: 20px 25px;
-        height: 820px;
+    .contact-main {
+        top: 600px;
+        width: 650px;
     }
-    form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
+    table td {
+        padding: 0px 20px 20px 30px;
+    }
+    form {
+        width: 650px;
+        gap: 20px 23px;
+    }
+    .contact-main form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
         width: 250px;
     }
-    form .text{
+    .contact-main form .text{
         width: 240px;
     }
-    form .text_4 {
+    .contact-main form .text_4 {
         width: 368px;
     }
-    form .text_1 {
+    .contact-main form .text_1 {
         width: 360px;
     }
-    form .text_2 {
+    .contact-main form .text_2 {
         width: 360px;
     }
     form .text_3 {
         width: 100px;
     }
-    form .Type .Code {
+    .contact-main form .Type .Code {
         justify-content: flex-start;
     }
-    form .Type .Code button {
+    .contact-main form .Type .Code button {
         width: 170px;
     }
-    form .You, .Other, .Interest, .Type {
+    .contact-main form .You, .Other, .Interest, .Type {
         width: 360px;
     }
-    form .Type .Code {
+    .contact-main form .Type .Code {
         width: 360px;
         gap: 10px;
     }
     .Address {
-        top: 1463px;
+        top: 2550px;
         width: 668px;
     }
 }
@@ -8757,45 +8845,50 @@ form .Type .Code button {
         top: 477px;
         left: 10px;
     }
+    .contact-main {
+        top: 600px;
+        width: 455px;
+    }
+    table td {
+        padding: 0px 10px 10px 20px;
+    }
     form {
         flex-direction: row;
-        top: 632px;
-        width: 450px;
-        left: 10px;
-        gap: 20px 0px;
-        height: 820px;
+        width: 455px;
+        gap: 20px 23px;
+        height: 1586px;
     }
-    form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
+    .contact-main form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
         width: 430px;
     }
-    form .text{
+    .contact-main form .text{
         width: 420px;
     }
-    form .text_4 {
+    .contact-main form .text_4 {
         width: 428px;
     }
-    form .text_1 {
+    .contact-main form .text_1 {
         width: 420px;
     }
-    form .text_2 {
+    .contact-main form .text_2 {
         width: 420px;
     }
-    form .text_3 {
+    .contact-main form .text_3 {
         width: 150px;
     }
-    form .Type .Code button {
+    .contact-main form .Type .Code button {
         width: 200px;
     }
-    form .You, .Other, .Interest, .Type {
+    .contact-main form .You, .Other, .Interest, .Type {
         width: 430px;
     }
-    form .Type .Code {
+    .contact-main form .Type .Code {
         justify-content: flex-start;
         width: 430px;
         gap: 10px;
     }
     .Address {
-        top: 2265px;
+        top: 3265px;
         width: 480px;
     }
 }
@@ -8809,46 +8902,50 @@ form .Type .Code button {
         top: 477px;
         left: 10px;
     }
+    .contact-main {
+        top: 600px;
+        width: 360px;
+    }
+    table td {
+        padding: 0px 5px 10px 0px;
+        font-size: 14px;
+    }
     form {
-        align-items: flex-start;
-        flex-direction: row;
-        top: 632px;
-        width: 350px;
-        left: 10px;
-        gap: 20px 0px;
+        width: 360px;
+        gap: 20px 23px;
         height: 1586px;
     }
-    form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
+    .contact-main form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
         width: 275px;
     }
-    form .text{
+    .contact-main form .text{
         width: 340px;
     }
-    form .text_4 {
+    .contact-main form .text_4 {
         width: 348px;
     }
-    form .text_1 {
+    .contact-main form .text_1 {
         width: 340px;
     }
-    form .text_2 {
+    .contact-main form .text_2 {
         width: 340px;
     }
-    form .text_3 {
+    .contact-main form .text_3 {
         width: 100px;
     }
-    form .Type .Code button {
+    .contact-main form .Type .Code button {
         width: 200px;
     }
-    form .You, .Other, .Interest, .Type {
+    .contact-main form .You, .Other, .Interest, .Type {
         width: 275px;
     }
-    form .Type .Code {
+    .contact-main form .Type .Code {
         justify-content: flex-start;
         width: 340px;
         gap: 10px;
     }
     .Address {
-        top: 2265px;
+        top: 3300px;
         width: 376px;
     }
 }
@@ -8862,46 +8959,54 @@ form .Type .Code button {
         top: 477px;
         left: 10px;
     }
-    form {
-        align-items: flex-start;
-        flex-direction: row;
-        top: 632px;
+    .contact-main {
+        top: 600px;
         width: 300px;
-        left: 10px;
-        gap: 20px 0px;
+    }
+    table td {
+        padding: 0px 5px 10px 0px;
+        font-size: 14px;
+    }
+    table img {
+        width: 50px;
+        height: 50px;
+    }
+    form {
+        width: 300px;
+        gap: 20px 23px;
         height: 1586px;
     }
-    form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
+    .contact-main form .Name, .Company_Name, .Position, .City, .Country, .Telephone, .Email {
         width: 240px;
     }
-    form .text{
+    .contact-main form .text{
         width: 290px;
     }
-    form .text_4 {
+    .contact-main form .text_4 {
         width: 298px;
     }
-    form .text_1 {
+    .contact-main form .text_1 {
         width: 290px;
     }
-    form .text_2 {
+    .contact-main form .text_2 {
         width: 290px;
     }
-    form .text_3 {
+    .contact-main form .text_3 {
         width: 80px;
     }
-    form .Type .Code button {
+    .contact-main form .Type .Code button {
         width: 250px;
     }
-    form .You, .Other, .Interest, .Type {
+    .contact-main form .You, .Other, .Interest, .Type {
         width: 240px;
     }
-    form .Type .Code {
+    .contact-main form .Type .Code {
         justify-content: flex-start;
         width: 240px;
         gap: 10px;
     }
     .Address {
-        top: 2265px;
+        top: 3040px;
         width: 320px;
     }
 }

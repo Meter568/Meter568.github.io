@@ -55,7 +55,7 @@
         <div class="C-Banner">
             <img src="/images/image 8.png">
         </div>
-        <div class="Theme">
+        <div v-if="!forumVisible" class="Theme">
             <h1>Contact us</h1>
             <div class="Crosses">
                 <svg fill="#000000" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M18.8,16l5.5-5.5c0.8-0.8,0.8-2,0-2.8l0,0C24,7.3,23.5,7,23,7c-0.5,0-1,0.2-1.4,0.6L16,13.2l-5.5-5.5 c-0.8-0.8-2.1-0.8-2.8,0C7.3,8,7,8.5,7,9.1s0.2,1,0.6,1.4l5.5,5.5l-5.5,5.5C7.3,21.9,7,22.4,7,23c0,0.5,0.2,1,0.6,1.4 C8,24.8,8.5,25,9,25c0.5,0,1-0.2,1.4-0.6l5.5-5.5l5.5,5.5c0.8,0.8,2.1,0.8,2.8,0c0.8-0.8,0.8-2.1,0-2.8L18.8,16z"></path> </g></svg>
@@ -65,58 +65,110 @@
                 <svg fill="#000000" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M18.8,16l5.5-5.5c0.8-0.8,0.8-2,0-2.8l0,0C24,7.3,23.5,7,23,7c-0.5,0-1,0.2-1.4,0.6L16,13.2l-5.5-5.5 c-0.8-0.8-2.1-0.8-2.8,0C7.3,8,7,8.5,7,9.1s0.2,1,0.6,1.4l5.5,5.5l-5.5,5.5C7.3,21.9,7,22.4,7,23c0,0.5,0.2,1,0.6,1.4 C8,24.8,8.5,25,9,25c0.5,0,1-0.2,1.4-0.6l5.5-5.5l5.5,5.5c0.8,0.8,2.1,0.8,2.8,0c0.8-0.8,0.8-2.1,0-2.8L18.8,16z"></path> </g></svg>
             </div>
         </div>
-        <form >
-            <div class="Name">
-                <p>Name *</p>
-                <input type="text" class="text">
-            </div>
-            <div class="Company_Name">
-                <p>Company Name</p>
-                <input type="text" class="text">
-            </div>
-            <div class="Position">
-                <p>Position</p>
-                <input type="text" class="text">
-            </div>
-            <div class="City">
-                <p>City</p>
-                <input type="text" class="text">
-            </div>
-            <div class="Country">
-                <p>Country</p>
-                <input type="text" class="text">
-            </div>
-            <div class="Telephone">
-                <p>Telephone</p>
-                <input type="text" class="text">
-            </div>
-            <div class="Email">
-                <p>Email *</p>
-                <input type="email" class="text">
-            </div>
-            <div class="You">
-                <p>You are a</p>
-                <select class="text_4">
-                    <option value="1">seed producer</option>
-                </select>
-            </div>
-            <div class="Other">
-                <p>If other, please specify</p>
-                <input type="text" class="text_1">
-            </div>
-            <div class="Interest">
-                <p>You are interested in</p>
-                <textarea class="text_2"></textarea>
-            </div>
-            <div class="Type">
-                <p>Please type this code</p>
-                <div class="Code">
-                    <img src="/images/image 17.png">
-                    <input type="text" class="text_3">
-                    <button type="submit">Send Message</button>
+        <div class="contact-main">
+            <table v-if="!forumVisible">
+                <caption>Cart</caption>
+                <tr v-for="c in cart" :key="c.id">
+                    <td><img v-bind:src="c.image" alt=""></td>
+                    <td>{{ c.title }}</td>
+                    <td>{{ c.short_text }}</td>
+                    <td>
+                        <a @click.prevent="removeFromCart(c.id)">
+                            <svg fill="#000000" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M18.8,16l5.5-5.5c0.8-0.8,0.8-2,0-2.8l0,0C24,7.3,23.5,7,23,7c-0.5,0-1,0.2-1.4,0.6L16,13.2l-5.5-5.5 c-0.8-0.8-2.1-0.8-2.8,0C7.3,8,7,8.5,7,9.1s0.2,1,0.6,1.4l5.5,5.5l-5.5,5.5C7.3,21.9,7,22.4,7,23c0,0.5,0.2,1,0.6,1.4 C8,24.8,8.5,25,9,25c0.5,0,1-0.2,1.4-0.6l5.5-5.5l5.5,5.5c0.8,0.8,2.1,0.8,2.8,0c0.8-0.8,0.8-2.1,0-2.8L18.8,16z"></path> </g></svg>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+            <h3 v-if="!forumVisible">Form:</h3>
+            <form v-if="!forumVisible" @submit.prevent="makeOrder">
+                <div class="Name">
+                    <p>Name *</p>
+                    <input type="text" required class="text" v-model="contactFields.name">
+                </div>
+                <div class="Company_Name">
+                    <p>Company Name</p>
+                    <input type="text" class="text" v-model="contactFields.company_name">
+                </div>
+                <div class="Position">
+                    <p>Position</p>
+                    <input type="text" class="text" v-model="contactFields.position">
+                </div>
+                <div class="City">
+                    <p>City</p>
+                    <input type="text" class="text" v-model="contactFields.city">
+                </div>
+                <div class="Country">
+                    <p>Country</p>
+                    <input type="text" class="text" v-model="contactFields.country">
+                </div>
+                <div class="Telephone">
+                    <p>Telephone</p>
+                    <input type="text" class="text" v-model="contactFields.telephone">
+                </div>
+                <div class="Email">
+                    <p>Email *</p>
+                    <input type="email" required class="text" v-model="contactFields.email">
+                </div>
+                <div class="You">
+                    <p>You are a</p>
+                    <select class="text_4" v-model="contactFields.you">
+                        <option value="seed producer">seed producer</option>
+                    </select>
+                </div>
+                <div class="Other" >
+                    <p>If other, please specify</p>
+                    <input type="text" class="text_1" v-model="contactFields.other">
+                </div>
+                <div class="Interest">
+                    <p>You are interested in</p>
+                    <textarea class="text_2" v-model="contactFields.interest"></textarea>
+                </div>
+                <div class="Type">
+                    <p>Please type this code</p>
+                    <div class="Code">
+                        <img src="/images/image 17.png">
+                        <input type="text" class="text_3" v-model="contactFields.code">
+                        <button type="submit.prevent">Send Message</button>
+                    </div>
+                </div>
+            </form>
+            <div class="finish" v-if="forumVisible">
+                <div class="Title">
+                    <p>Thank you for your order. We will call you later.</p>
+                    <p>Your data that you sent:</p>
+                </div>
+                <div class="Name">
+                    <p>Name: {{ contactFields.name ? contactFields.name : 'none' }};</p>
+                </div>
+                <div class="Company_Name">
+                    <p>Company Name: {{ contactFields.company_name ? contactFields.company_name : 'none' }};</p>
+                </div>
+                <div class="Position">
+                    <p>Position: {{ contactFields.position ? contactFields.position : 'none' }};</p>
+                </div>
+                <div class="City">
+                    <p>City: {{ contactFields.city ? contactFields.city : 'none' }};</p>
+                </div>
+                <div class="Country">
+                    <p>Country: {{ contactFields.country ? contactFields.country : 'none' }};</p>
+                </div>
+                <div class="Telephone">
+                    <p>Telephone: {{ contactFields.telephone ? contactFields.telephone : 'none' }};</p>
+                </div>
+                <div class="Email">
+                    <p>Email:{{ contactFields.email ? contactFields.email : 'none' }};</p>
+                </div>
+                <div class="You">
+                    <p>You are a {{ contactFields.you ? contactFields.you : 'none' }};</p>
+                </div>
+                <div class="Other" >
+                    <p>Other: {{ contactFields.other ? contactFields.other : 'none' }};</p>
+                </div>
+                <div class="Interest">
+                    <p>You are interested in {{ contactFields.interest ? contactFields.interest : 'none' }}.</p>
                 </div>
             </div>
-        </form>
+        </div>
 
         <div class="Address">
             <div class="Group_28">

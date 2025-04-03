@@ -3509,6 +3509,7 @@
     }
     #tomato-header-one .search-container {
         height: 35px;
+        width: 430px;
     }
     #tomato-header-one .search {
         align-self: center;
@@ -3516,7 +3517,7 @@
         width: 310px;
     }
     #tomato-header-one .search-icon {
-        left: 412px;
+        left: 372px;
     }
     .tomato-burger-one {
         left: 388px;
